@@ -1,0 +1,55 @@
+timestamp,asignatura,estado_asistencia,alumno
+,Administracion de Sistemas,ausente,Alumno18
+,Administracion de Sistemas,ausente,Alumno14
+,Administracion de Sistemas,presente,Alumno11
+,Administracion de Sistemas,presente,Alumno14
+,Administracion de Sistemas,presente,Alumno20
+,Big Data,ausente,Alumno3
+,Big Data,tarde,Alumno18
+,Empresa y Legislacion,presente,Alumno6
+,Empresa y Legislacion,presente,Alumno3
+,Empresa y Legislacion,presente,Alumno21
+,Empresa y Legislacion,tarde,Alumno20
+,Ingenieria del Software,ausente,Alumno3
+,Ingenieria del Software,presente,Alumno2
+,Ingenieria del Software,presente,Alumno22
+,Ingenieria del Software,tarde,Alumno3
+2024-11-20 09:00:00,,ausente,Alumno24
+2024-11-20 09:00:00,,presente,Alumno13
+2024-11-20 09:00:00,,tarde,Alumno6
+2024-11-20 09:00:00,Ingenieria del Software,,Alumno14
+2024-11-20 11:00:00,,tarde,Alumno12
+2024-11-20 13:00:00,,presente,Alumno26
+2024-11-20 13:00:00,Administracion de Sistemas,,Alumno26
+2024-11-20 13:00:00,Empresa y Legislacion,,Alumno7
+2024-11-20 15:00:00,Administracion de Sistemas,,Alumno28
+2024-11-20 15:00:00,Ingenieria del Software,,Alumno22
+2024-11-20 19:00:00,Administracion de Sistemas,,Alumno3
+2024-11-20 21:00:00,,ausente,Alumno22
+2024-11-20 23:00:00,Administracion de Sistemas,,Alumno16
+2024-11-20 23:00:00,Ingenieria del Software,presente,
+2024-11-21 01:00:00,Administracion de Sistemas,tarde,
+2024-11-21 01:00:00,Empresa y Legislacion,tarde,
+2024-11-21 03:00:00,Empresa y Legislacion,tarde,
+2024-11-21 05:00:00,Empresa y Legislacion,,Alumno9
+2024-11-21 07:00:00,,presente,Alumno16
+2024-11-21 07:00:00,Empresa y Legislacion,,Alumno8
+2024-11-21 09:00:00,,ausente,Alumno22
+2024-11-21 09:00:00,,tarde,Alumno18
+2024-11-21 13:00:00,Ingenieria del Software,,Alumno14
+2024-11-21 15:00:00,,ausente,Alumno23
+2024-11-21 17:00:00,Administracion de Sistemas,presente,
+2024-11-21 19:00:00,,presente,Alumno25
+2024-11-21 23:00:00,,tarde,Alumno15
+2024-11-22 01:00:00,Ingenieria del Software,,Alumno8
+2024-11-22 05:00:00,Administracion de Sistemas,,Alumno20
+2024-11-22 05:00:00,Ingenieria del Software,tarde,
+2024-11-22 07:00:00,,tarde,Alumno1
+2024-11-22 09:00:00,Empresa y Legislacion,ausente,
+2024-11-22 11:00:00,Administracion de Sistemas,ausente,
+2024-11-22 11:00:00,Ingenieria del Software,,Alumno23
+2024-11-22 17:00:00,Administracion de Sistemas,ausente,
+2024-11-22 19:00:00,,ausente,Alumno1
+2024-11-22 19:00:00,Empresa y Legislacion,ausente,
+2024-11-22 19:00:00,Ingenieria del Software,,Alumno2
+2024-11-22 19:00:00,Ingenieria del Software,ausente,
