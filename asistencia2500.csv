@@ -1,0 +1,2601 @@
+timestamp,asignatura,estado_asistencia,alumno
+2024-01-08 09:00:00,Empresa y Legislacion,ausente,Alumno1
+2024-01-08 09:00:00,Empresa y Legislacion,tarde,Alumno2
+2024-01-08 09:00:00,Empresa y Legislacion,ausente,Alumno3
+2024-01-08 09:00:00,Empresa y Legislacion,ausente,Alumno4
+2024-01-08 09:00:00,Empresa y Legislacion,ausente,Alumno5
+2024-01-08 09:00:00,Empresa y Legislacion,ausente,Alumno6
+2024-01-08 09:00:00,Empresa y Legislacion,ausente,Alumno7
+2024-01-08 09:00:00,Empresa y Legislacion,ausente,Alumno8
+2024-01-08 09:00:00,Empresa y Legislacion,presente,Alumno9
+2024-01-08 09:00:00,Empresa y Legislacion,ausente,Alumno10
+2024-01-08 09:00:00,Empresa y Legislacion,ausente,Alumno11
+2024-01-08 09:00:00,Empresa y Legislacion,ausente,Alumno12
+2024-01-08 09:00:00,Empresa y Legislacion,ausente,Alumno13
+2024-01-08 09:00:00,Empresa y Legislacion,ausente,Alumno14
+2024-01-08 09:00:00,Empresa y Legislacion,ausente,Alumno15
+2024-01-08 09:00:00,Empresa y Legislacion,ausente,Alumno16
+2024-01-08 09:00:00,Empresa y Legislacion,presente,Alumno17
+2024-01-08 09:00:00,Empresa y Legislacion,presente,Alumno18
+2024-01-08 09:00:00,Empresa y Legislacion,ausente,Alumno19
+2024-01-08 09:00:00,Empresa y Legislacion,ausente,Alumno20
+2024-01-08 09:00:00,Empresa y Legislacion,tarde,Alumno21
+2024-01-08 09:00:00,Empresa y Legislacion,ausente,Alumno22
+2024-01-08 09:00:00,Empresa y Legislacion,ausente,Alumno23
+2024-01-08 09:00:00,Empresa y Legislacion,ausente,Alumno24
+2024-01-08 09:00:00,Empresa y Legislacion,ausente,Alumno25
+2024-01-08 09:00:00,Empresa y Legislacion,ausente,Alumno26
+2024-01-08 09:00:00,Empresa y Legislacion,ausente,Alumno27
+2024-01-08 09:00:00,Empresa y Legislacion,ausente,Alumno28
+2024-01-08 09:00:00,Empresa y Legislacion,,Alumno29
+2024-01-08 09:00:00,Empresa y Legislacion,ausente,Alumno30
+2024-01-08 09:00:00,Empresa y Legislacion,presente,Alumno31
+2024-01-08 09:00:00,Empresa y Legislacion,ausente,Alumno32
+2024-01-08 09:00:00,Empresa y Legislacion,presente,Alumno33
+2024-01-08 09:00:00,Empresa y Legislacion,ausente,Alumno34
+2024-01-08 09:00:00,Empresa y Legislacion,presente,Alumno35
+2024-01-08 09:00:00,Empresa y Legislacion,ausente,Alumno36
+2024-01-08 09:00:00,Empresa y Legislacion,ausente,Alumno37
+2024-01-08 09:00:00,Empresa y Legislacion,ausente,Alumno38
+2024-01-08 09:00:00,Empresa y Legislacion,ausente,Alumno39
+2024-01-08 09:00:00,Empresa y Legislacion,presente,Alumno40
+2024-01-08 09:00:00,Empresa y Legislacion,ausente,Alumno41
+2024-01-08 09:00:00,Empresa y Legislacion,ausente,Alumno42
+2024-01-08 09:00:00,Empresa y Legislacion,tarde,Alumno43
+2024-01-08 09:00:00,Empresa y Legislacion,ausente,Alumno44
+2024-01-08 09:00:00,Empresa y Legislacion,ausente,
+2024-01-08 09:00:00,Empresa y Legislacion,tarde,Alumno46
+2024-01-08 09:00:00,Empresa y Legislacion,ausente,Alumno47
+2024-01-08 09:00:00,Empresa y Legislacion,ausente,Alumno48
+2024-01-08 09:00:00,Empresa y Legislacion,ausente,Alumno49
+2024-01-08 09:00:00,Empresa y Legislacion,ausente,Alumno50
+2024-01-08 11:00:00,Big Data,ausente,Alumno1
+2024-01-08 11:00:00,Big Data,tarde,Alumno2
+2024-01-08 11:00:00,Big Data,ausente,Alumno3
+2024-01-08 11:00:00,Big Data,ausente,Alumno4
+2024-01-08 11:00:00,Big Data,ausente,Alumno5
+2024-01-08 11:00:00,Big Data,ausente,Alumno6
+2024-01-08 11:00:00,Big Data,ausente,Alumno7
+2024-01-08 11:00:00,Big Data,ausente,Alumno8
+2024-01-08 11:00:00,Big Data,ausente,Alumno9
+2024-01-08 11:00:00,Big Data,ausente,Alumno10
+2024-01-08 11:00:00,Big Data,ausente,Alumno11
+2024-01-08 11:00:00,Big Data,tarde,Alumno12
+2024-01-08 11:00:00,Big Data,ausente,Alumno13
+2024-01-08 11:00:00,Big Data,presente,Alumno14
+2024-01-08 11:00:00,Big Data,presente,Alumno15
+2024-01-08 11:00:00,Big Data,ausente,Alumno16
+2024-01-08 11:00:00,Big Data,ausente,Alumno17
+2024-01-08 11:00:00,Big Data,presente,Alumno18
+2024-01-08 11:00:00,Big Data,tarde,Alumno19
+2024-01-08 11:00:00,Big Data,ausente,Alumno20
+2024-01-08 11:00:00,Big Data,ausente,Alumno21
+2024-01-08 11:00:00,Big Data,presente,Alumno22
+,Big Data,tarde,Alumno23
+2024-01-08 11:00:00,Big Data,ausente,Alumno24
+2024-01-08 11:00:00,Big Data,ausente,Alumno25
+2024-01-08 11:00:00,Big Data,ausente,Alumno26
+2024-01-08 11:00:00,Big Data,ausente,Alumno27
+2024-01-08 11:00:00,Big Data,ausente,Alumno28
+2024-01-08 11:00:00,Big Data,ausente,Alumno29
+2024-01-08 11:00:00,Big Data,ausente,Alumno30
+2024-01-08 11:00:00,Big Data,tarde,Alumno31
+2024-01-08 11:00:00,Big Data,ausente,Alumno32
+2024-01-08 11:00:00,Big Data,ausente,Alumno33
+2024-01-08 11:00:00,Big Data,ausente,Alumno34
+2024-01-08 11:00:00,Big Data,presente,Alumno35
+2024-01-08 11:00:00,Big Data,ausente,Alumno36
+2024-01-08 11:00:00,Big Data,ausente,Alumno37
+2024-01-08 11:00:00,Big Data,ausente,Alumno38
+2024-01-08 11:00:00,Big Data,ausente,Alumno39
+2024-01-08 11:00:00,Big Data,ausente,Alumno40
+2024-01-08 11:00:00,Big Data,tarde,Alumno41
+2024-01-08 11:00:00,Big Data,tarde,Alumno42
+2024-01-08 11:00:00,Big Data,ausente,Alumno43
+2024-01-08 11:00:00,Big Data,ausente,Alumno44
+2024-01-08 11:00:00,Big Data,ausente,Alumno45
+2024-01-08 11:00:00,Big Data,presente,Alumno46
+2024-01-08 11:00:00,Big Data,ausente,Alumno47
+2024-01-08 11:00:00,Big Data,tarde,Alumno48
+2024-01-08 11:00:00,Big Data,tarde,Alumno49
+2024-01-08 11:00:00,Big Data,ausente,Alumno50
+2024-01-08 13:00:00,Big Data,tarde,Alumno1
+2024-01-08 13:00:00,Big Data,ausente,Alumno2
+2024-01-08 13:00:00,Big Data,ausente,Alumno3
+2024-01-08 13:00:00,Big Data,ausente,Alumno4
+2024-01-08 13:00:00,Big Data,tarde,Alumno5
+2024-01-08 13:00:00,Big Data,ausente,Alumno6
+2024-01-08 13:00:00,,ausente,Alumno7
+2024-01-08 13:00:00,Big Data,presente,Alumno8
+2024-01-08 13:00:00,Big Data,ausente,Alumno9
+2024-01-08 13:00:00,Big Data,ausente,Alumno10
+2024-01-08 13:00:00,Big Data,ausente,Alumno11
+2024-01-08 13:00:00,Big Data,ausente,Alumno12
+2024-01-08 13:00:00,Big Data,tarde,Alumno13
+2024-01-08 13:00:00,Big Data,ausente,Alumno14
+2024-01-08 13:00:00,Big Data,ausente,Alumno15
+2024-01-08 13:00:00,Big Data,ausente,Alumno16
+2024-01-08 13:00:00,Big Data,ausente,Alumno17
+2024-01-08 13:00:00,Big Data,presente,Alumno18
+2024-01-08 13:00:00,Big Data,ausente,Alumno19
+2024-01-08 13:00:00,Big Data,ausente,Alumno20
+2024-01-08 13:00:00,Big Data,ausente,Alumno21
+2024-01-08 13:00:00,Big Data,ausente,Alumno22
+2024-01-08 13:00:00,Big Data,ausente,Alumno23
+2024-01-08 13:00:00,Big Data,ausente,Alumno24
+2024-01-08 13:00:00,Big Data,ausente,Alumno25
+2024-01-08 13:00:00,Big Data,ausente,Alumno26
+2024-01-08 13:00:00,Big Data,ausente,Alumno27
+2024-01-08 13:00:00,Big Data,tarde,Alumno28
+2024-01-08 13:00:00,Big Data,tarde,Alumno29
+2024-01-08 13:00:00,Big Data,ausente,Alumno30
+2024-01-08 13:00:00,Big Data,presente,Alumno31
+2024-01-08 13:00:00,Big Data,ausente,Alumno32
+2024-01-08 13:00:00,Big Data,ausente,Alumno33
+2024-01-08 13:00:00,Big Data,ausente,Alumno34
+2024-01-08 13:00:00,Big Data,presente,Alumno35
+2024-01-08 13:00:00,Big Data,ausente,Alumno36
+2024-01-08 13:00:00,Big Data,ausente,Alumno37
+2024-01-08 13:00:00,Big Data,ausente,Alumno38
+2024-01-08 13:00:00,Big Data,ausente,Alumno39
+2024-01-08 13:00:00,Big Data,tarde,Alumno40
+2024-01-08 13:00:00,Big Data,ausente,Alumno41
+2024-01-08 13:00:00,Big Data,ausente,Alumno42
+2024-01-08 13:00:00,Big Data,ausente,Alumno43
+2024-01-08 13:00:00,Big Data,ausente,
+2024-01-08 13:00:00,Big Data,ausente,Alumno45
+2024-01-08 13:00:00,Big Data,tarde,Alumno46
+2024-01-08 13:00:00,Big Data,ausente,Alumno47
+2024-01-08 13:00:00,Big Data,ausente,Alumno48
+2024-01-08 13:00:00,Big Data,ausente,Alumno49
+2024-01-08 13:00:00,Big Data,ausente,Alumno50
+2024-01-08 15:00:00,Big Data,presente,Alumno1
+2024-01-08 15:00:00,Big Data,ausente,Alumno2
+2024-01-08 15:00:00,Big Data,ausente,Alumno3
+2024-01-08 15:00:00,Big Data,ausente,Alumno4
+2024-01-08 15:00:00,Big Data,presente,Alumno5
+2024-01-08 15:00:00,Big Data,ausente,Alumno6
+2024-01-08 15:00:00,Big Data,tarde,Alumno7
+2024-01-08 15:00:00,Big Data,ausente,Alumno8
+2024-01-08 15:00:00,Big Data,ausente,Alumno9
+2024-01-08 15:00:00,Big Data,ausente,Alumno10
+2024-01-08 15:00:00,Big Data,presente,Alumno11
+2024-01-08 15:00:00,Big Data,presente,Alumno12
+2024-01-08 15:00:00,Big Data,ausente,Alumno13
+2024-01-08 15:00:00,Big Data,ausente,Alumno14
+2024-01-08 15:00:00,Big Data,ausente,Alumno15
+2024-01-08 15:00:00,Big Data,ausente,Alumno16
+2024-01-08 15:00:00,Big Data,ausente,Alumno17
+2024-01-08 15:00:00,Big Data,ausente,Alumno18
+2024-01-08 15:00:00,Big Data,tarde,Alumno19
+2024-01-08 15:00:00,Big Data,ausente,Alumno20
+2024-01-08 15:00:00,Big Data,ausente,Alumno21
+2024-01-08 15:00:00,Big Data,ausente,
+2024-01-08 15:00:00,Big Data,ausente,Alumno23
+2024-01-08 15:00:00,Big Data,ausente,Alumno24
+2024-01-08 15:00:00,Big Data,ausente,Alumno25
+2024-01-08 15:00:00,Big Data,ausente,Alumno26
+2024-01-08 15:00:00,Big Data,ausente,Alumno27
+2024-01-08 15:00:00,Big Data,tarde,Alumno28
+2024-01-08 15:00:00,Big Data,ausente,Alumno29
+2024-01-08 15:00:00,Big Data,ausente,Alumno30
+2024-01-08 15:00:00,Big Data,ausente,Alumno31
+2024-01-08 15:00:00,Big Data,ausente,Alumno32
+2024-01-08 15:00:00,Big Data,ausente,Alumno33
+2024-01-08 15:00:00,Big Data,presente,Alumno34
+2024-01-08 15:00:00,Big Data,ausente,Alumno35
+2024-01-08 15:00:00,Big Data,ausente,Alumno36
+2024-01-08 15:00:00,Big Data,ausente,Alumno37
+2024-01-08 15:00:00,Big Data,ausente,Alumno38
+2024-01-08 15:00:00,Big Data,ausente,Alumno39
+2024-01-08 15:00:00,Big Data,ausente,Alumno40
+2024-01-08 15:00:00,Big Data,tarde,Alumno41
+2024-01-08 15:00:00,Big Data,presente,Alumno42
+2024-01-08 15:00:00,Big Data,ausente,Alumno43
+2024-01-08 15:00:00,Big Data,ausente,Alumno44
+2024-01-08 15:00:00,Big Data,ausente,Alumno45
+2024-01-08 15:00:00,Big Data,ausente,Alumno46
+2024-01-08 15:00:00,Big Data,ausente,Alumno47
+2024-01-08 15:00:00,Big Data,tarde,Alumno48
+2024-01-08 15:00:00,Big Data,ausente,Alumno49
+2024-01-08 15:00:00,Big Data,ausente,Alumno50
+2024-01-08 17:00:00,,tarde,Alumno1
+2024-01-08 17:00:00,Administracion de Sistemas,ausente,Alumno2
+2024-01-08 17:00:00,Administracion de Sistemas,tarde,Alumno3
+2024-01-08 17:00:00,Administracion de Sistemas,ausente,Alumno4
+2024-01-08 17:00:00,Administracion de Sistemas,tarde,Alumno5
+2024-01-08 17:00:00,Administracion de Sistemas,ausente,Alumno6
+2024-01-08 17:00:00,Administracion de Sistemas,tarde,Alumno7
+2024-01-08 17:00:00,Administracion de Sistemas,presente,Alumno8
+2024-01-08 17:00:00,Administracion de Sistemas,ausente,Alumno9
+2024-01-08 17:00:00,Administracion de Sistemas,ausente,Alumno10
+2024-01-08 17:00:00,Administracion de Sistemas,ausente,Alumno11
+2024-01-08 17:00:00,Administracion de Sistemas,presente,Alumno12
+2024-01-08 17:00:00,Administracion de Sistemas,tarde,Alumno13
+2024-01-08 17:00:00,Administracion de Sistemas,ausente,Alumno14
+2024-01-08 17:00:00,Administracion de Sistemas,ausente,Alumno15
+2024-01-08 17:00:00,Administracion de Sistemas,tarde,Alumno16
+2024-01-08 17:00:00,Administracion de Sistemas,ausente,Alumno17
+2024-01-08 17:00:00,Administracion de Sistemas,ausente,Alumno18
+2024-01-08 17:00:00,Administracion de Sistemas,presente,Alumno19
+2024-01-08 17:00:00,Administracion de Sistemas,presente,Alumno20
+2024-01-08 17:00:00,Administracion de Sistemas,ausente,Alumno21
+2024-01-08 17:00:00,Administracion de Sistemas,ausente,Alumno22
+2024-01-08 17:00:00,Administracion de Sistemas,ausente,Alumno23
+2024-01-08 17:00:00,Administracion de Sistemas,tarde,Alumno24
+2024-01-08 17:00:00,Administracion de Sistemas,ausente,Alumno25
+2024-01-08 17:00:00,Administracion de Sistemas,ausente,Alumno26
+2024-01-08 17:00:00,Administracion de Sistemas,ausente,Alumno27
+2024-01-08 17:00:00,Administracion de Sistemas,presente,Alumno28
+2024-01-08 17:00:00,Administracion de Sistemas,tarde,Alumno29
+2024-01-08 17:00:00,Administracion de Sistemas,tarde,Alumno30
+2024-01-08 17:00:00,Administracion de Sistemas,ausente,Alumno31
+2024-01-08 17:00:00,Administracion de Sistemas,ausente,Alumno32
+2024-01-08 17:00:00,Administracion de Sistemas,ausente,Alumno33
+2024-01-08 17:00:00,Administracion de Sistemas,ausente,Alumno34
+2024-01-08 17:00:00,Administracion de Sistemas,ausente,Alumno35
+2024-01-08 17:00:00,Administracion de Sistemas,presente,Alumno36
+2024-01-08 17:00:00,Administracion de Sistemas,ausente,Alumno37
+2024-01-08 17:00:00,Administracion de Sistemas,ausente,Alumno38
+2024-01-08 17:00:00,Administracion de Sistemas,presente,Alumno39
+2024-01-08 17:00:00,Administracion de Sistemas,ausente,Alumno40
+2024-01-08 17:00:00,Administracion de Sistemas,ausente,Alumno41
+2024-01-08 17:00:00,Administracion de Sistemas,tarde,Alumno42
+2024-01-08 17:00:00,Administracion de Sistemas,ausente,Alumno43
+2024-01-08 17:00:00,Administracion de Sistemas,ausente,Alumno44
+,Administracion de Sistemas,presente,Alumno45
+2024-01-08 17:00:00,Administracion de Sistemas,ausente,Alumno46
+2024-01-08 17:00:00,Administracion de Sistemas,presente,Alumno47
+2024-01-08 17:00:00,Administracion de Sistemas,ausente,Alumno48
+2024-01-08 17:00:00,Administracion de Sistemas,ausente,Alumno49
+2024-01-08 17:00:00,Administracion de Sistemas,tarde,Alumno50
+2024-01-08 19:00:00,Empresa y Legislacion,ausente,Alumno1
+2024-01-08 19:00:00,Empresa y Legislacion,tarde,Alumno2
+2024-01-08 19:00:00,Empresa y Legislacion,ausente,Alumno3
+2024-01-08 19:00:00,Empresa y Legislacion,presente,Alumno4
+2024-01-08 19:00:00,Empresa y Legislacion,ausente,Alumno5
+2024-01-08 19:00:00,Empresa y Legislacion,ausente,Alumno6
+2024-01-08 19:00:00,Empresa y Legislacion,ausente,Alumno7
+2024-01-08 19:00:00,Empresa y Legislacion,presente,Alumno8
+2024-01-08 19:00:00,Empresa y Legislacion,ausente,Alumno9
+2024-01-08 19:00:00,Empresa y Legislacion,ausente,Alumno10
+2024-01-08 19:00:00,Empresa y Legislacion,ausente,Alumno11
+2024-01-08 19:00:00,Empresa y Legislacion,ausente,Alumno12
+2024-01-08 19:00:00,Empresa y Legislacion,ausente,Alumno13
+2024-01-08 19:00:00,Empresa y Legislacion,ausente,Alumno14
+2024-01-08 19:00:00,Empresa y Legislacion,tarde,Alumno15
+2024-01-08 19:00:00,Empresa y Legislacion,ausente,Alumno16
+2024-01-08 19:00:00,Empresa y Legislacion,ausente,Alumno17
+2024-01-08 19:00:00,Empresa y Legislacion,ausente,Alumno18
+2024-01-08 19:00:00,Empresa y Legislacion,ausente,Alumno19
+2024-01-08 19:00:00,Empresa y Legislacion,ausente,Alumno20
+2024-01-08 19:00:00,Empresa y Legislacion,ausente,Alumno21
+2024-01-08 19:00:00,Empresa y Legislacion,tarde,Alumno22
+2024-01-08 19:00:00,Empresa y Legislacion,ausente,Alumno23
+2024-01-08 19:00:00,Empresa y Legislacion,ausente,Alumno24
+2024-01-08 19:00:00,Empresa y Legislacion,ausente,Alumno25
+2024-01-08 19:00:00,Empresa y Legislacion,ausente,Alumno26
+2024-01-08 19:00:00,Empresa y Legislacion,ausente,Alumno27
+2024-01-08 19:00:00,Empresa y Legislacion,ausente,Alumno28
+2024-01-08 19:00:00,Empresa y Legislacion,ausente,Alumno29
+2024-01-08 19:00:00,Empresa y Legislacion,ausente,Alumno30
+2024-01-08 19:00:00,Empresa y Legislacion,ausente,Alumno31
+2024-01-08 19:00:00,Empresa y Legislacion,ausente,Alumno32
+2024-01-08 19:00:00,Empresa y Legislacion,ausente,Alumno33
+2024-01-08 19:00:00,Empresa y Legislacion,ausente,Alumno34
+2024-01-08 19:00:00,Empresa y Legislacion,ausente,Alumno35
+2024-01-08 19:00:00,Empresa y Legislacion,presente,Alumno36
+2024-01-08 19:00:00,Empresa y Legislacion,ausente,Alumno37
+2024-01-08 19:00:00,Empresa y Legislacion,ausente,Alumno38
+2024-01-08 19:00:00,Empresa y Legislacion,ausente,Alumno39
+2024-01-08 19:00:00,Empresa y Legislacion,ausente,Alumno40
+2024-01-08 19:00:00,Empresa y Legislacion,ausente,Alumno41
+2024-01-08 19:00:00,Empresa y Legislacion,ausente,Alumno42
+2024-01-08 19:00:00,Empresa y Legislacion,ausente,Alumno43
+2024-01-08 19:00:00,Empresa y Legislacion,ausente,Alumno44
+2024-01-08 19:00:00,Empresa y Legislacion,,Alumno45
+2024-01-08 19:00:00,Empresa y Legislacion,ausente,Alumno46
+2024-01-08 19:00:00,Empresa y Legislacion,ausente,Alumno47
+2024-01-08 19:00:00,Empresa y Legislacion,ausente,Alumno48
+2024-01-08 19:00:00,Empresa y Legislacion,presente,Alumno49
+2024-01-08 19:00:00,Empresa y Legislacion,ausente,Alumno50
+2024-01-08 21:00:00,Big Data,ausente,Alumno1
+2024-01-08 21:00:00,Big Data,ausente,Alumno2
+2024-01-08 21:00:00,Big Data,ausente,Alumno3
+2024-01-08 21:00:00,Big Data,ausente,Alumno4
+2024-01-08 21:00:00,Big Data,ausente,Alumno5
+2024-01-08 21:00:00,Big Data,ausente,Alumno6
+2024-01-08 21:00:00,Big Data,presente,Alumno7
+2024-01-08 21:00:00,Big Data,ausente,Alumno8
+2024-01-08 21:00:00,Big Data,ausente,Alumno9
+2024-01-08 21:00:00,Big Data,presente,Alumno10
+2024-01-08 21:00:00,Big Data,ausente,Alumno11
+2024-01-08 21:00:00,Big Data,ausente,Alumno12
+2024-01-08 21:00:00,Big Data,ausente,Alumno13
+2024-01-08 21:00:00,Big Data,ausente,Alumno14
+2024-01-08 21:00:00,Big Data,ausente,Alumno15
+2024-01-08 21:00:00,Big Data,ausente,Alumno16
+2024-01-08 21:00:00,Big Data,ausente,Alumno17
+2024-01-08 21:00:00,Big Data,presente,Alumno18
+2024-01-08 21:00:00,Big Data,ausente,Alumno19
+2024-01-08 21:00:00,Big Data,tarde,Alumno20
+2024-01-08 21:00:00,Big Data,ausente,Alumno21
+2024-01-08 21:00:00,Big Data,ausente,Alumno22
+2024-01-08 21:00:00,Big Data,presente,Alumno23
+2024-01-08 21:00:00,Big Data,ausente,Alumno24
+2024-01-08 21:00:00,Big Data,ausente,Alumno25
+2024-01-08 21:00:00,Big Data,,Alumno26
+2024-01-08 21:00:00,Big Data,tarde,Alumno27
+2024-01-08 21:00:00,Big Data,ausente,Alumno28
+2024-01-08 21:00:00,Big Data,ausente,Alumno29
+2024-01-08 21:00:00,Big Data,ausente,Alumno30
+2024-01-08 21:00:00,Big Data,ausente,Alumno31
+2024-01-08 21:00:00,Big Data,ausente,Alumno32
+2024-01-08 21:00:00,Big Data,ausente,Alumno33
+2024-01-08 21:00:00,Big Data,ausente,Alumno34
+2024-01-08 21:00:00,Big Data,presente,Alumno35
+2024-01-08 21:00:00,Big Data,tarde,Alumno36
+2024-01-08 21:00:00,Big Data,ausente,Alumno37
+2024-01-08 21:00:00,Big Data,tarde,Alumno38
+2024-01-08 21:00:00,Big Data,ausente,Alumno39
+2024-01-08 21:00:00,Big Data,ausente,Alumno40
+2024-01-08 21:00:00,Big Data,ausente,Alumno41
+2024-01-08 21:00:00,Big Data,ausente,Alumno42
+2024-01-08 21:00:00,Big Data,tarde,Alumno43
+2024-01-08 21:00:00,Big Data,ausente,Alumno44
+2024-01-08 21:00:00,Big Data,ausente,Alumno45
+2024-01-08 21:00:00,Big Data,tarde,Alumno46
+2024-01-08 21:00:00,Big Data,ausente,Alumno47
+2024-01-08 21:00:00,Big Data,ausente,Alumno48
+2024-01-08 21:00:00,Big Data,ausente,Alumno49
+2024-01-08 21:00:00,Big Data,ausente,Alumno50
+2024-01-08 23:00:00,Empresa y Legislacion,presente,Alumno1
+2024-01-08 23:00:00,Empresa y Legislacion,ausente,Alumno2
+2024-01-08 23:00:00,Empresa y Legislacion,ausente,Alumno3
+2024-01-08 23:00:00,Empresa y Legislacion,ausente,Alumno4
+2024-01-08 23:00:00,Empresa y Legislacion,ausente,Alumno5
+2024-01-08 23:00:00,Empresa y Legislacion,,Alumno6
+2024-01-08 23:00:00,Empresa y Legislacion,ausente,Alumno7
+2024-01-08 23:00:00,Empresa y Legislacion,ausente,Alumno8
+2024-01-08 23:00:00,Empresa y Legislacion,ausente,Alumno9
+2024-01-08 23:00:00,Empresa y Legislacion,tarde,Alumno10
+2024-01-08 23:00:00,Empresa y Legislacion,presente,Alumno11
+2024-01-08 23:00:00,Empresa y Legislacion,ausente,Alumno12
+2024-01-08 23:00:00,Empresa y Legislacion,ausente,Alumno13
+2024-01-08 23:00:00,Empresa y Legislacion,ausente,Alumno14
+2024-01-08 23:00:00,Empresa y Legislacion,ausente,Alumno15
+2024-01-08 23:00:00,Empresa y Legislacion,ausente,Alumno16
+2024-01-08 23:00:00,Empresa y Legislacion,ausente,Alumno17
+2024-01-08 23:00:00,Empresa y Legislacion,ausente,Alumno18
+2024-01-08 23:00:00,Empresa y Legislacion,ausente,Alumno19
+2024-01-08 23:00:00,Empresa y Legislacion,presente,Alumno20
+2024-01-08 23:00:00,Empresa y Legislacion,ausente,Alumno21
+2024-01-08 23:00:00,Empresa y Legislacion,ausente,Alumno22
+2024-01-08 23:00:00,Empresa y Legislacion,ausente,Alumno23
+2024-01-08 23:00:00,Empresa y Legislacion,ausente,Alumno24
+2024-01-08 23:00:00,Empresa y Legislacion,ausente,Alumno25
+2024-01-08 23:00:00,Empresa y Legislacion,tarde,Alumno26
+2024-01-08 23:00:00,Empresa y Legislacion,ausente,Alumno27
+2024-01-08 23:00:00,Empresa y Legislacion,ausente,Alumno28
+2024-01-08 23:00:00,Empresa y Legislacion,presente,Alumno29
+2024-01-08 23:00:00,Empresa y Legislacion,ausente,Alumno30
+2024-01-08 23:00:00,Empresa y Legislacion,ausente,Alumno31
+2024-01-08 23:00:00,Empresa y Legislacion,ausente,Alumno32
+2024-01-08 23:00:00,Empresa y Legislacion,presente,Alumno33
+2024-01-08 23:00:00,Empresa y Legislacion,ausente,Alumno34
+2024-01-08 23:00:00,Empresa y Legislacion,ausente,Alumno35
+2024-01-08 23:00:00,Empresa y Legislacion,ausente,Alumno36
+2024-01-08 23:00:00,Empresa y Legislacion,ausente,Alumno37
+2024-01-08 23:00:00,Empresa y Legislacion,ausente,Alumno38
+2024-01-08 23:00:00,Empresa y Legislacion,ausente,Alumno39
+2024-01-08 23:00:00,Empresa y Legislacion,presente,Alumno40
+2024-01-08 23:00:00,Empresa y Legislacion,ausente,Alumno41
+2024-01-08 23:00:00,Empresa y Legislacion,ausente,Alumno42
+2024-01-08 23:00:00,Empresa y Legislacion,ausente,Alumno43
+2024-01-08 23:00:00,Empresa y Legislacion,ausente,Alumno44
+2024-01-08 23:00:00,Empresa y Legislacion,ausente,Alumno45
+2024-01-08 23:00:00,Empresa y Legislacion,ausente,Alumno46
+2024-01-08 23:00:00,Empresa y Legislacion,ausente,Alumno47
+2024-01-08 23:00:00,Empresa y Legislacion,ausente,Alumno48
+2024-01-08 23:00:00,,ausente,Alumno49
+2024-01-08 23:00:00,Empresa y Legislacion,ausente,Alumno50
+2024-01-09 01:00:00,Administracion de Sistemas,presente,Alumno1
+2024-01-09 01:00:00,Administracion de Sistemas,ausente,Alumno2
+2024-01-09 01:00:00,Administracion de Sistemas,tarde,Alumno3
+2024-01-09 01:00:00,Administracion de Sistemas,ausente,Alumno4
+2024-01-09 01:00:00,Administracion de Sistemas,ausente,Alumno5
+2024-01-09 01:00:00,Administracion de Sistemas,presente,Alumno6
+2024-01-09 01:00:00,Administracion de Sistemas,ausente,Alumno7
+2024-01-09 01:00:00,Administracion de Sistemas,ausente,Alumno8
+2024-01-09 01:00:00,Administracion de Sistemas,ausente,Alumno9
+2024-01-09 01:00:00,Administracion de Sistemas,ausente,Alumno10
+2024-01-09 01:00:00,Administracion de Sistemas,tarde,Alumno11
+2024-01-09 01:00:00,Administracion de Sistemas,ausente,Alumno12
+2024-01-09 01:00:00,Administracion de Sistemas,ausente,Alumno13
+2024-01-09 01:00:00,Administracion de Sistemas,ausente,Alumno14
+2024-01-09 01:00:00,Administracion de Sistemas,ausente,Alumno15
+2024-01-09 01:00:00,Administracion de Sistemas,presente,Alumno16
+2024-01-09 01:00:00,Administracion de Sistemas,ausente,Alumno17
+2024-01-09 01:00:00,Administracion de Sistemas,ausente,Alumno18
+2024-01-09 01:00:00,Administracion de Sistemas,tarde,Alumno19
+2024-01-09 01:00:00,Administracion de Sistemas,ausente,Alumno20
+2024-01-09 01:00:00,Administracion de Sistemas,ausente,Alumno21
+2024-01-09 01:00:00,Administracion de Sistemas,presente,Alumno22
+2024-01-09 01:00:00,Administracion de Sistemas,tarde,Alumno23
+2024-01-09 01:00:00,Administracion de Sistemas,presente,Alumno24
+2024-01-09 01:00:00,Administracion de Sistemas,tarde,Alumno25
+2024-01-09 01:00:00,Administracion de Sistemas,ausente,Alumno26
+2024-01-09 01:00:00,Administracion de Sistemas,presente,Alumno27
+2024-01-09 01:00:00,Administracion de Sistemas,presente,Alumno28
+2024-01-09 01:00:00,Administracion de Sistemas,ausente,Alumno29
+2024-01-09 01:00:00,Administracion de Sistemas,tarde,Alumno30
+2024-01-09 01:00:00,Administracion de Sistemas,ausente,Alumno31
+2024-01-09 01:00:00,Administracion de Sistemas,ausente,Alumno32
+2024-01-09 01:00:00,Administracion de Sistemas,ausente,Alumno33
+2024-01-09 01:00:00,Administracion de Sistemas,ausente,Alumno34
+2024-01-09 01:00:00,Administracion de Sistemas,tarde,Alumno35
+2024-01-09 01:00:00,Administracion de Sistemas,ausente,Alumno36
+2024-01-09 01:00:00,Administracion de Sistemas,ausente,Alumno37
+2024-01-09 01:00:00,Administracion de Sistemas,ausente,Alumno38
+2024-01-09 01:00:00,Administracion de Sistemas,tarde,Alumno39
+2024-01-09 01:00:00,Administracion de Sistemas,ausente,Alumno40
+2024-01-09 01:00:00,Administracion de Sistemas,ausente,Alumno41
+2024-01-09 01:00:00,Administracion de Sistemas,tarde,Alumno42
+2024-01-09 01:00:00,Administracion de Sistemas,ausente,
+2024-01-09 01:00:00,Administracion de Sistemas,ausente,Alumno44
+2024-01-09 01:00:00,Administracion de Sistemas,presente,Alumno45
+2024-01-09 01:00:00,Administracion de Sistemas,ausente,Alumno46
+2024-01-09 01:00:00,Administracion de Sistemas,ausente,Alumno47
+2024-01-09 01:00:00,Administracion de Sistemas,presente,Alumno48
+2024-01-09 01:00:00,Administracion de Sistemas,tarde,Alumno49
+2024-01-09 01:00:00,Administracion de Sistemas,ausente,Alumno50
+2024-01-09 03:00:00,Empresa y Legislacion,presente,Alumno1
+2024-01-09 03:00:00,Empresa y Legislacion,presente,Alumno2
+2024-01-09 03:00:00,Empresa y Legislacion,ausente,Alumno3
+2024-01-09 03:00:00,Empresa y Legislacion,tarde,Alumno4
+2024-01-09 03:00:00,Empresa y Legislacion,ausente,Alumno5
+2024-01-09 03:00:00,Empresa y Legislacion,ausente,
+2024-01-09 03:00:00,Empresa y Legislacion,ausente,Alumno7
+2024-01-09 03:00:00,Empresa y Legislacion,ausente,Alumno8
+2024-01-09 03:00:00,Empresa y Legislacion,ausente,Alumno9
+2024-01-09 03:00:00,Empresa y Legislacion,ausente,Alumno10
+2024-01-09 03:00:00,Empresa y Legislacion,ausente,Alumno11
+2024-01-09 03:00:00,Empresa y Legislacion,ausente,Alumno12
+2024-01-09 03:00:00,Empresa y Legislacion,ausente,Alumno13
+2024-01-09 03:00:00,Empresa y Legislacion,ausente,Alumno14
+2024-01-09 03:00:00,Empresa y Legislacion,tarde,Alumno15
+2024-01-09 03:00:00,Empresa y Legislacion,ausente,Alumno16
+2024-01-09 03:00:00,Empresa y Legislacion,ausente,Alumno17
+2024-01-09 03:00:00,Empresa y Legislacion,tarde,Alumno18
+2024-01-09 03:00:00,Empresa y Legislacion,ausente,Alumno19
+2024-01-09 03:00:00,Empresa y Legislacion,ausente,Alumno20
+2024-01-09 03:00:00,Empresa y Legislacion,tarde,Alumno21
+2024-01-09 03:00:00,Empresa y Legislacion,tarde,Alumno22
+2024-01-09 03:00:00,Empresa y Legislacion,presente,Alumno23
+2024-01-09 03:00:00,Empresa y Legislacion,tarde,Alumno24
+2024-01-09 03:00:00,Empresa y Legislacion,presente,Alumno25
+2024-01-09 03:00:00,Empresa y Legislacion,ausente,Alumno26
+2024-01-09 03:00:00,Empresa y Legislacion,ausente,Alumno27
+2024-01-09 03:00:00,Empresa y Legislacion,ausente,Alumno28
+2024-01-09 03:00:00,Empresa y Legislacion,ausente,Alumno29
+2024-01-09 03:00:00,Empresa y Legislacion,presente,Alumno30
+2024-01-09 03:00:00,Empresa y Legislacion,tarde,Alumno31
+2024-01-09 03:00:00,Empresa y Legislacion,ausente,Alumno32
+2024-01-09 03:00:00,Empresa y Legislacion,tarde,Alumno33
+2024-01-09 03:00:00,Empresa y Legislacion,ausente,Alumno34
+2024-01-09 03:00:00,Empresa y Legislacion,ausente,Alumno35
+2024-01-09 03:00:00,Empresa y Legislacion,presente,Alumno36
+2024-01-09 03:00:00,Empresa y Legislacion,presente,Alumno37
+2024-01-09 03:00:00,Empresa y Legislacion,ausente,Alumno38
+2024-01-09 03:00:00,Empresa y Legislacion,ausente,Alumno39
+2024-01-09 03:00:00,Empresa y Legislacion,ausente,Alumno40
+2024-01-09 03:00:00,Empresa y Legislacion,tarde,Alumno41
+2024-01-09 03:00:00,Empresa y Legislacion,ausente,Alumno42
+2024-01-09 03:00:00,Empresa y Legislacion,tarde,Alumno43
+2024-01-09 03:00:00,Empresa y Legislacion,ausente,Alumno44
+2024-01-09 03:00:00,Empresa y Legislacion,tarde,Alumno45
+2024-01-09 03:00:00,Empresa y Legislacion,ausente,Alumno46
+2024-01-09 03:00:00,Empresa y Legislacion,ausente,Alumno47
+2024-01-09 03:00:00,Empresa y Legislacion,tarde,Alumno48
+2024-01-09 03:00:00,Empresa y Legislacion,ausente,Alumno49
+2024-01-09 03:00:00,Empresa y Legislacion,presente,Alumno50
+2024-01-09 05:00:00,Empresa y Legislacion,ausente,Alumno1
+2024-01-09 05:00:00,Empresa y Legislacion,tarde,Alumno2
+2024-01-09 05:00:00,Empresa y Legislacion,ausente,Alumno3
+2024-01-09 05:00:00,Empresa y Legislacion,ausente,Alumno4
+2024-01-09 05:00:00,Empresa y Legislacion,tarde,Alumno5
+2024-01-09 05:00:00,Empresa y Legislacion,tarde,Alumno6
+,Empresa y Legislacion,ausente,Alumno7
+2024-01-09 05:00:00,Empresa y Legislacion,ausente,Alumno8
+2024-01-09 05:00:00,Empresa y Legislacion,ausente,Alumno9
+2024-01-09 05:00:00,Empresa y Legislacion,ausente,Alumno10
+2024-01-09 05:00:00,Empresa y Legislacion,presente,Alumno11
+2024-01-09 05:00:00,Empresa y Legislacion,ausente,Alumno12
+2024-01-09 05:00:00,Empresa y Legislacion,ausente,Alumno13
+2024-01-09 05:00:00,Empresa y Legislacion,ausente,Alumno14
+2024-01-09 05:00:00,Empresa y Legislacion,ausente,Alumno15
+2024-01-09 05:00:00,Empresa y Legislacion,ausente,Alumno16
+2024-01-09 05:00:00,Empresa y Legislacion,tarde,Alumno17
+2024-01-09 05:00:00,Empresa y Legislacion,ausente,Alumno18
+2024-01-09 05:00:00,Empresa y Legislacion,presente,Alumno19
+2024-01-09 05:00:00,Empresa y Legislacion,ausente,Alumno20
+2024-01-09 05:00:00,Empresa y Legislacion,presente,Alumno21
+2024-01-09 05:00:00,Empresa y Legislacion,ausente,Alumno22
+2024-01-09 05:00:00,Empresa y Legislacion,ausente,Alumno23
+2024-01-09 05:00:00,Empresa y Legislacion,presente,Alumno24
+2024-01-09 05:00:00,Empresa y Legislacion,ausente,Alumno25
+2024-01-09 05:00:00,Empresa y Legislacion,tarde,Alumno26
+2024-01-09 05:00:00,Empresa y Legislacion,presente,Alumno27
+2024-01-09 05:00:00,Empresa y Legislacion,ausente,Alumno28
+2024-01-09 05:00:00,Empresa y Legislacion,ausente,Alumno29
+2024-01-09 05:00:00,Empresa y Legislacion,ausente,Alumno30
+2024-01-09 05:00:00,Empresa y Legislacion,ausente,Alumno31
+2024-01-09 05:00:00,Empresa y Legislacion,ausente,Alumno32
+2024-01-09 05:00:00,Empresa y Legislacion,ausente,Alumno33
+2024-01-09 05:00:00,Empresa y Legislacion,tarde,Alumno34
+2024-01-09 05:00:00,Empresa y Legislacion,ausente,Alumno35
+2024-01-09 05:00:00,Empresa y Legislacion,ausente,Alumno36
+2024-01-09 05:00:00,Empresa y Legislacion,ausente,Alumno37
+2024-01-09 05:00:00,Empresa y Legislacion,presente,Alumno38
+2024-01-09 05:00:00,Empresa y Legislacion,ausente,Alumno39
+2024-01-09 05:00:00,Empresa y Legislacion,ausente,Alumno40
+2024-01-09 05:00:00,Empresa y Legislacion,ausente,Alumno41
+2024-01-09 05:00:00,Empresa y Legislacion,ausente,Alumno42
+2024-01-09 05:00:00,Empresa y Legislacion,ausente,Alumno43
+2024-01-09 05:00:00,Empresa y Legislacion,ausente,Alumno44
+2024-01-09 05:00:00,Empresa y Legislacion,ausente,Alumno45
+2024-01-09 05:00:00,Empresa y Legislacion,presente,Alumno46
+2024-01-09 05:00:00,Empresa y Legislacion,ausente,Alumno47
+2024-01-09 05:00:00,Empresa y Legislacion,tarde,Alumno48
+2024-01-09 05:00:00,Empresa y Legislacion,tarde,Alumno49
+2024-01-09 05:00:00,Empresa y Legislacion,ausente,Alumno50
+2024-01-09 07:00:00,,ausente,Alumno1
+2024-01-09 07:00:00,Administracion de Sistemas,presente,Alumno2
+2024-01-09 07:00:00,Administracion de Sistemas,ausente,Alumno3
+2024-01-09 07:00:00,Administracion de Sistemas,ausente,Alumno4
+2024-01-09 07:00:00,Administracion de Sistemas,presente,Alumno5
+2024-01-09 07:00:00,Administracion de Sistemas,ausente,Alumno6
+2024-01-09 07:00:00,Administracion de Sistemas,ausente,Alumno7
+2024-01-09 07:00:00,Administracion de Sistemas,ausente,Alumno8
+2024-01-09 07:00:00,Administracion de Sistemas,ausente,Alumno9
+2024-01-09 07:00:00,Administracion de Sistemas,ausente,Alumno10
+2024-01-09 07:00:00,Administracion de Sistemas,ausente,Alumno11
+2024-01-09 07:00:00,Administracion de Sistemas,ausente,Alumno12
+2024-01-09 07:00:00,Administracion de Sistemas,ausente,Alumno13
+2024-01-09 07:00:00,Administracion de Sistemas,tarde,Alumno14
+2024-01-09 07:00:00,Administracion de Sistemas,tarde,Alumno15
+2024-01-09 07:00:00,Administracion de Sistemas,presente,Alumno16
+2024-01-09 07:00:00,Administracion de Sistemas,ausente,Alumno17
+2024-01-09 07:00:00,Administracion de Sistemas,ausente,Alumno18
+2024-01-09 07:00:00,Administracion de Sistemas,ausente,Alumno19
+2024-01-09 07:00:00,Administracion de Sistemas,ausente,Alumno20
+2024-01-09 07:00:00,Administracion de Sistemas,ausente,Alumno21
+2024-01-09 07:00:00,Administracion de Sistemas,ausente,Alumno22
+2024-01-09 07:00:00,Administracion de Sistemas,ausente,Alumno23
+2024-01-09 07:00:00,Administracion de Sistemas,tarde,Alumno24
+2024-01-09 07:00:00,Administracion de Sistemas,ausente,Alumno25
+2024-01-09 07:00:00,Administracion de Sistemas,ausente,Alumno26
+2024-01-09 07:00:00,Administracion de Sistemas,ausente,Alumno27
+2024-01-09 07:00:00,Administracion de Sistemas,ausente,Alumno28
+2024-01-09 07:00:00,Administracion de Sistemas,ausente,Alumno29
+2024-01-09 07:00:00,Administracion de Sistemas,ausente,Alumno30
+2024-01-09 07:00:00,Administracion de Sistemas,tarde,Alumno31
+2024-01-09 07:00:00,Administracion de Sistemas,presente,Alumno32
+2024-01-09 07:00:00,Administracion de Sistemas,ausente,Alumno33
+2024-01-09 07:00:00,Administracion de Sistemas,ausente,Alumno34
+2024-01-09 07:00:00,Administracion de Sistemas,ausente,Alumno35
+2024-01-09 07:00:00,Administracion de Sistemas,tarde,Alumno36
+2024-01-09 07:00:00,Administracion de Sistemas,presente,Alumno37
+2024-01-09 07:00:00,Administracion de Sistemas,ausente,Alumno38
+2024-01-09 07:00:00,Administracion de Sistemas,ausente,Alumno39
+2024-01-09 07:00:00,Administracion de Sistemas,presente,Alumno40
+2024-01-09 07:00:00,Administracion de Sistemas,ausente,Alumno41
+2024-01-09 07:00:00,Administracion de Sistemas,presente,Alumno42
+2024-01-09 07:00:00,Administracion de Sistemas,ausente,Alumno43
+2024-01-09 07:00:00,Administracion de Sistemas,ausente,Alumno44
+2024-01-09 07:00:00,Administracion de Sistemas,ausente,Alumno45
+2024-01-09 07:00:00,Administracion de Sistemas,ausente,Alumno46
+2024-01-09 07:00:00,Administracion de Sistemas,tarde,Alumno47
+2024-01-09 07:00:00,Administracion de Sistemas,ausente,Alumno48
+2024-01-09 07:00:00,Administracion de Sistemas,tarde,Alumno49
+2024-01-09 07:00:00,Administracion de Sistemas,tarde,Alumno50
+2024-01-09 09:00:00,Ingenieria del Software,ausente,Alumno1
+2024-01-09 09:00:00,Ingenieria del Software,ausente,Alumno2
+2024-01-09 09:00:00,Ingenieria del Software,,Alumno3
+2024-01-09 09:00:00,Ingenieria del Software,ausente,Alumno4
+2024-01-09 09:00:00,Ingenieria del Software,ausente,Alumno5
+2024-01-09 09:00:00,Ingenieria del Software,ausente,Alumno6
+2024-01-09 09:00:00,Ingenieria del Software,ausente,Alumno7
+2024-01-09 09:00:00,Ingenieria del Software,ausente,Alumno8
+2024-01-09 09:00:00,Ingenieria del Software,tarde,Alumno9
+2024-01-09 09:00:00,Ingenieria del Software,tarde,Alumno10
+2024-01-09 09:00:00,Ingenieria del Software,tarde,Alumno11
+2024-01-09 09:00:00,Ingenieria del Software,presente,Alumno12
+2024-01-09 09:00:00,Ingenieria del Software,presente,Alumno13
+2024-01-09 09:00:00,Ingenieria del Software,ausente,Alumno14
+2024-01-09 09:00:00,Ingenieria del Software,ausente,Alumno15
+2024-01-09 09:00:00,Ingenieria del Software,ausente,Alumno16
+2024-01-09 09:00:00,Ingenieria del Software,ausente,Alumno17
+2024-01-09 09:00:00,Ingenieria del Software,ausente,Alumno18
+2024-01-09 09:00:00,Ingenieria del Software,ausente,Alumno19
+2024-01-09 09:00:00,Ingenieria del Software,ausente,Alumno20
+2024-01-09 09:00:00,Ingenieria del Software,tarde,Alumno21
+2024-01-09 09:00:00,Ingenieria del Software,ausente,Alumno22
+2024-01-09 09:00:00,Ingenieria del Software,ausente,Alumno23
+2024-01-09 09:00:00,Ingenieria del Software,ausente,Alumno24
+2024-01-09 09:00:00,Ingenieria del Software,ausente,Alumno25
+2024-01-09 09:00:00,Ingenieria del Software,ausente,Alumno26
+2024-01-09 09:00:00,Ingenieria del Software,ausente,Alumno27
+2024-01-09 09:00:00,Ingenieria del Software,ausente,Alumno28
+2024-01-09 09:00:00,Ingenieria del Software,ausente,Alumno29
+2024-01-09 09:00:00,Ingenieria del Software,tarde,Alumno30
+2024-01-09 09:00:00,Ingenieria del Software,ausente,Alumno31
+2024-01-09 09:00:00,Ingenieria del Software,presente,Alumno32
+2024-01-09 09:00:00,Ingenieria del Software,ausente,Alumno33
+2024-01-09 09:00:00,Ingenieria del Software,tarde,Alumno34
+2024-01-09 09:00:00,Ingenieria del Software,,Alumno35
+2024-01-09 09:00:00,Ingenieria del Software,ausente,Alumno36
+2024-01-09 09:00:00,Ingenieria del Software,ausente,Alumno37
+2024-01-09 09:00:00,Ingenieria del Software,ausente,Alumno38
+2024-01-09 09:00:00,Ingenieria del Software,tarde,Alumno39
+2024-01-09 09:00:00,Ingenieria del Software,tarde,Alumno40
+2024-01-09 09:00:00,Ingenieria del Software,ausente,Alumno41
+2024-01-09 09:00:00,Ingenieria del Software,ausente,Alumno42
+2024-01-09 09:00:00,Ingenieria del Software,ausente,Alumno43
+2024-01-09 09:00:00,Ingenieria del Software,ausente,Alumno44
+2024-01-09 09:00:00,Ingenieria del Software,ausente,Alumno45
+2024-01-09 09:00:00,Ingenieria del Software,presente,Alumno46
+2024-01-09 09:00:00,Ingenieria del Software,tarde,Alumno47
+2024-01-09 09:00:00,Ingenieria del Software,ausente,Alumno48
+2024-01-09 09:00:00,Ingenieria del Software,ausente,Alumno49
+2024-01-09 09:00:00,Ingenieria del Software,ausente,Alumno50
+2024-01-09 11:00:00,Empresa y Legislacion,ausente,Alumno1
+2024-01-09 11:00:00,Empresa y Legislacion,ausente,Alumno2
+2024-01-09 11:00:00,Empresa y Legislacion,ausente,Alumno3
+2024-01-09 11:00:00,Empresa y Legislacion,presente,Alumno4
+2024-01-09 11:00:00,Empresa y Legislacion,tarde,Alumno5
+2024-01-09 11:00:00,Empresa y Legislacion,presente,Alumno6
+2024-01-09 11:00:00,Empresa y Legislacion,ausente,Alumno7
+2024-01-09 11:00:00,Empresa y Legislacion,ausente,Alumno8
+2024-01-09 11:00:00,Empresa y Legislacion,tarde,Alumno9
+2024-01-09 11:00:00,Empresa y Legislacion,ausente,Alumno10
+2024-01-09 11:00:00,Empresa y Legislacion,ausente,Alumno11
+2024-01-09 11:00:00,Empresa y Legislacion,tarde,Alumno12
+2024-01-09 11:00:00,Empresa y Legislacion,ausente,Alumno13
+2024-01-09 11:00:00,Empresa y Legislacion,presente,Alumno14
+2024-01-09 11:00:00,Empresa y Legislacion,ausente,Alumno15
+2024-01-09 11:00:00,Empresa y Legislacion,ausente,Alumno16
+2024-01-09 11:00:00,Empresa y Legislacion,,Alumno17
+2024-01-09 11:00:00,Empresa y Legislacion,ausente,Alumno18
+2024-01-09 11:00:00,Empresa y Legislacion,ausente,Alumno19
+2024-01-09 11:00:00,Empresa y Legislacion,presente,Alumno20
+2024-01-09 11:00:00,Empresa y Legislacion,tarde,Alumno21
+2024-01-09 11:00:00,Empresa y Legislacion,ausente,Alumno22
+2024-01-09 11:00:00,Empresa y Legislacion,ausente,Alumno23
+2024-01-09 11:00:00,Empresa y Legislacion,ausente,Alumno24
+2024-01-09 11:00:00,Empresa y Legislacion,tarde,Alumno25
+2024-01-09 11:00:00,Empresa y Legislacion,ausente,Alumno26
+2024-01-09 11:00:00,Empresa y Legislacion,ausente,Alumno27
+2024-01-09 11:00:00,Empresa y Legislacion,ausente,Alumno28
+2024-01-09 11:00:00,Empresa y Legislacion,ausente,Alumno29
+2024-01-09 11:00:00,Empresa y Legislacion,ausente,Alumno30
+2024-01-09 11:00:00,Empresa y Legislacion,tarde,Alumno31
+2024-01-09 11:00:00,Empresa y Legislacion,ausente,Alumno32
+2024-01-09 11:00:00,Empresa y Legislacion,tarde,Alumno33
+2024-01-09 11:00:00,Empresa y Legislacion,tarde,Alumno34
+2024-01-09 11:00:00,Empresa y Legislacion,ausente,Alumno35
+2024-01-09 11:00:00,Empresa y Legislacion,presente,Alumno36
+2024-01-09 11:00:00,Empresa y Legislacion,tarde,Alumno37
+2024-01-09 11:00:00,Empresa y Legislacion,ausente,Alumno38
+2024-01-09 11:00:00,Empresa y Legislacion,ausente,Alumno39
+2024-01-09 11:00:00,Empresa y Legislacion,presente,Alumno40
+2024-01-09 11:00:00,Empresa y Legislacion,ausente,Alumno41
+2024-01-09 11:00:00,Empresa y Legislacion,ausente,Alumno42
+2024-01-09 11:00:00,Empresa y Legislacion,presente,Alumno43
+2024-01-09 11:00:00,Empresa y Legislacion,ausente,Alumno44
+2024-01-09 11:00:00,Empresa y Legislacion,ausente,Alumno45
+2024-01-09 11:00:00,Empresa y Legislacion,tarde,Alumno46
+2024-01-09 11:00:00,Empresa y Legislacion,tarde,Alumno47
+2024-01-09 11:00:00,Empresa y Legislacion,tarde,Alumno48
+2024-01-09 11:00:00,Empresa y Legislacion,ausente,Alumno49
+2024-01-09 11:00:00,Empresa y Legislacion,ausente,Alumno50
+2024-01-09 13:00:00,Empresa y Legislacion,ausente,Alumno1
+2024-01-09 13:00:00,Empresa y Legislacion,ausente,Alumno2
+2024-01-09 13:00:00,Empresa y Legislacion,ausente,Alumno3
+2024-01-09 13:00:00,Empresa y Legislacion,ausente,Alumno4
+2024-01-09 13:00:00,Empresa y Legislacion,ausente,Alumno5
+2024-01-09 13:00:00,Empresa y Legislacion,ausente,Alumno6
+2024-01-09 13:00:00,Empresa y Legislacion,ausente,Alumno7
+2024-01-09 13:00:00,Empresa y Legislacion,ausente,Alumno8
+2024-01-09 13:00:00,Empresa y Legislacion,ausente,Alumno9
+2024-01-09 13:00:00,Empresa y Legislacion,ausente,Alumno10
+2024-01-09 13:00:00,Empresa y Legislacion,tarde,Alumno11
+2024-01-09 13:00:00,Empresa y Legislacion,tarde,Alumno12
+,Empresa y Legislacion,ausente,Alumno13
+2024-01-09 13:00:00,Empresa y Legislacion,ausente,Alumno14
+2024-01-09 13:00:00,Empresa y Legislacion,ausente,Alumno15
+,Empresa y Legislacion,ausente,Alumno16
+2024-01-09 13:00:00,Empresa y Legislacion,ausente,Alumno17
+2024-01-09 13:00:00,Empresa y Legislacion,tarde,Alumno18
+2024-01-09 13:00:00,Empresa y Legislacion,ausente,Alumno19
+2024-01-09 13:00:00,Empresa y Legislacion,presente,Alumno20
+2024-01-09 13:00:00,Empresa y Legislacion,ausente,Alumno21
+2024-01-09 13:00:00,Empresa y Legislacion,ausente,Alumno22
+2024-01-09 13:00:00,Empresa y Legislacion,ausente,Alumno23
+2024-01-09 13:00:00,Empresa y Legislacion,presente,Alumno24
+2024-01-09 13:00:00,Empresa y Legislacion,ausente,Alumno25
+2024-01-09 13:00:00,Empresa y Legislacion,ausente,Alumno26
+2024-01-09 13:00:00,Empresa y Legislacion,ausente,Alumno27
+2024-01-09 13:00:00,Empresa y Legislacion,tarde,Alumno28
+2024-01-09 13:00:00,Empresa y Legislacion,ausente,Alumno29
+2024-01-09 13:00:00,Empresa y Legislacion,ausente,Alumno30
+2024-01-09 13:00:00,Empresa y Legislacion,tarde,Alumno31
+2024-01-09 13:00:00,Empresa y Legislacion,ausente,Alumno32
+2024-01-09 13:00:00,Empresa y Legislacion,ausente,Alumno33
+2024-01-09 13:00:00,Empresa y Legislacion,ausente,Alumno34
+2024-01-09 13:00:00,Empresa y Legislacion,ausente,Alumno35
+2024-01-09 13:00:00,Empresa y Legislacion,ausente,Alumno36
+2024-01-09 13:00:00,Empresa y Legislacion,ausente,Alumno37
+2024-01-09 13:00:00,Empresa y Legislacion,ausente,Alumno38
+2024-01-09 13:00:00,Empresa y Legislacion,ausente,Alumno39
+2024-01-09 13:00:00,Empresa y Legislacion,ausente,Alumno40
+2024-01-09 13:00:00,Empresa y Legislacion,ausente,Alumno41
+2024-01-09 13:00:00,Empresa y Legislacion,ausente,Alumno42
+2024-01-09 13:00:00,Empresa y Legislacion,ausente,Alumno43
+2024-01-09 13:00:00,Empresa y Legislacion,ausente,Alumno44
+2024-01-09 13:00:00,Empresa y Legislacion,ausente,Alumno45
+2024-01-09 13:00:00,Empresa y Legislacion,ausente,Alumno46
+2024-01-09 13:00:00,Empresa y Legislacion,presente,Alumno47
+2024-01-09 13:00:00,Empresa y Legislacion,ausente,Alumno48
+2024-01-09 13:00:00,Empresa y Legislacion,ausente,Alumno49
+2024-01-09 13:00:00,Empresa y Legislacion,ausente,Alumno50
+2024-01-09 15:00:00,Big Data,tarde,Alumno1
+2024-01-09 15:00:00,Big Data,ausente,Alumno2
+2024-01-09 15:00:00,Big Data,ausente,Alumno3
+2024-01-09 15:00:00,Big Data,tarde,Alumno4
+2024-01-09 15:00:00,Big Data,ausente,Alumno5
+2024-01-09 15:00:00,Big Data,tarde,Alumno6
+2024-01-09 15:00:00,Big Data,ausente,Alumno7
+2024-01-09 15:00:00,Big Data,ausente,Alumno8
+2024-01-09 15:00:00,Big Data,presente,Alumno9
+2024-01-09 15:00:00,Big Data,tarde,Alumno10
+2024-01-09 15:00:00,Big Data,ausente,Alumno11
+2024-01-09 15:00:00,Big Data,tarde,Alumno12
+2024-01-09 15:00:00,Big Data,presente,Alumno13
+2024-01-09 15:00:00,Big Data,ausente,Alumno14
+2024-01-09 15:00:00,Big Data,ausente,Alumno15
+2024-01-09 15:00:00,Big Data,ausente,Alumno16
+2024-01-09 15:00:00,Big Data,ausente,Alumno17
+2024-01-09 15:00:00,Big Data,ausente,Alumno18
+2024-01-09 15:00:00,Big Data,ausente,Alumno19
+2024-01-09 15:00:00,Big Data,ausente,Alumno20
+2024-01-09 15:00:00,Big Data,ausente,Alumno21
+2024-01-09 15:00:00,Big Data,ausente,Alumno22
+2024-01-09 15:00:00,Big Data,ausente,Alumno23
+2024-01-09 15:00:00,Big Data,ausente,Alumno24
+2024-01-09 15:00:00,Big Data,tarde,Alumno25
+2024-01-09 15:00:00,Big Data,ausente,Alumno26
+2024-01-09 15:00:00,Big Data,ausente,Alumno27
+2024-01-09 15:00:00,Big Data,ausente,Alumno28
+2024-01-09 15:00:00,Big Data,tarde,Alumno29
+2024-01-09 15:00:00,Big Data,presente,Alumno30
+2024-01-09 15:00:00,Big Data,tarde,Alumno31
+2024-01-09 15:00:00,,tarde,Alumno32
+2024-01-09 15:00:00,Big Data,ausente,Alumno33
+2024-01-09 15:00:00,Big Data,ausente,Alumno34
+2024-01-09 15:00:00,Big Data,ausente,Alumno35
+2024-01-09 15:00:00,Big Data,tarde,Alumno36
+2024-01-09 15:00:00,Big Data,ausente,Alumno37
+2024-01-09 15:00:00,Big Data,presente,Alumno38
+2024-01-09 15:00:00,Big Data,ausente,Alumno39
+2024-01-09 15:00:00,Big Data,ausente,Alumno40
+2024-01-09 15:00:00,Big Data,ausente,Alumno41
+2024-01-09 15:00:00,Big Data,presente,Alumno42
+2024-01-09 15:00:00,Big Data,presente,Alumno43
+2024-01-09 15:00:00,Big Data,tarde,Alumno44
+2024-01-09 15:00:00,Big Data,ausente,Alumno45
+2024-01-09 15:00:00,Big Data,presente,Alumno46
+2024-01-09 15:00:00,Big Data,ausente,Alumno47
+2024-01-09 15:00:00,Big Data,ausente,Alumno48
+2024-01-09 15:00:00,Big Data,ausente,
+2024-01-09 15:00:00,Big Data,ausente,Alumno50
+2024-01-09 17:00:00,Ingenieria del Software,ausente,Alumno1
+2024-01-09 17:00:00,Ingenieria del Software,ausente,Alumno2
+2024-01-09 17:00:00,Ingenieria del Software,presente,Alumno3
+2024-01-09 17:00:00,Ingenieria del Software,presente,Alumno4
+2024-01-09 17:00:00,Ingenieria del Software,ausente,Alumno5
+2024-01-09 17:00:00,Ingenieria del Software,ausente,Alumno6
+2024-01-09 17:00:00,Ingenieria del Software,presente,Alumno7
+2024-01-09 17:00:00,Ingenieria del Software,presente,Alumno8
+2024-01-09 17:00:00,Ingenieria del Software,tarde,Alumno9
+2024-01-09 17:00:00,Ingenieria del Software,presente,Alumno10
+2024-01-09 17:00:00,Ingenieria del Software,ausente,Alumno11
+2024-01-09 17:00:00,Ingenieria del Software,ausente,Alumno12
+2024-01-09 17:00:00,Ingenieria del Software,ausente,Alumno13
+2024-01-09 17:00:00,Ingenieria del Software,ausente,Alumno14
+2024-01-09 17:00:00,Ingenieria del Software,,Alumno15
+2024-01-09 17:00:00,Ingenieria del Software,ausente,Alumno16
+2024-01-09 17:00:00,Ingenieria del Software,ausente,Alumno17
+2024-01-09 17:00:00,Ingenieria del Software,ausente,Alumno18
+2024-01-09 17:00:00,Ingenieria del Software,ausente,Alumno19
+2024-01-09 17:00:00,Ingenieria del Software,ausente,Alumno20
+2024-01-09 17:00:00,Ingenieria del Software,ausente,Alumno21
+2024-01-09 17:00:00,Ingenieria del Software,ausente,Alumno22
+2024-01-09 17:00:00,Ingenieria del Software,ausente,Alumno23
+2024-01-09 17:00:00,Ingenieria del Software,ausente,Alumno24
+2024-01-09 17:00:00,Ingenieria del Software,ausente,Alumno25
+2024-01-09 17:00:00,Ingenieria del Software,ausente,Alumno26
+2024-01-09 17:00:00,Ingenieria del Software,ausente,Alumno27
+2024-01-09 17:00:00,Ingenieria del Software,ausente,Alumno28
+2024-01-09 17:00:00,Ingenieria del Software,ausente,Alumno29
+2024-01-09 17:00:00,Ingenieria del Software,ausente,Alumno30
+,Ingenieria del Software,ausente,Alumno31
+2024-01-09 17:00:00,Ingenieria del Software,ausente,Alumno32
+2024-01-09 17:00:00,Ingenieria del Software,ausente,Alumno33
+2024-01-09 17:00:00,Ingenieria del Software,ausente,Alumno34
+2024-01-09 17:00:00,Ingenieria del Software,ausente,Alumno35
+2024-01-09 17:00:00,Ingenieria del Software,ausente,Alumno36
+2024-01-09 17:00:00,Ingenieria del Software,ausente,Alumno37
+2024-01-09 17:00:00,Ingenieria del Software,presente,Alumno38
+2024-01-09 17:00:00,Ingenieria del Software,ausente,Alumno39
+2024-01-09 17:00:00,Ingenieria del Software,ausente,Alumno40
+2024-01-09 17:00:00,Ingenieria del Software,presente,Alumno41
+2024-01-09 17:00:00,Ingenieria del Software,ausente,Alumno42
+2024-01-09 17:00:00,Ingenieria del Software,ausente,Alumno43
+2024-01-09 17:00:00,Ingenieria del Software,ausente,Alumno44
+2024-01-09 17:00:00,Ingenieria del Software,ausente,Alumno45
+2024-01-09 17:00:00,Ingenieria del Software,presente,Alumno46
+2024-01-09 17:00:00,Ingenieria del Software,ausente,Alumno47
+2024-01-09 17:00:00,Ingenieria del Software,ausente,Alumno48
+2024-01-09 17:00:00,Ingenieria del Software,ausente,Alumno49
+2024-01-09 17:00:00,Ingenieria del Software,ausente,Alumno50
+2024-01-09 19:00:00,Empresa y Legislacion,ausente,Alumno1
+2024-01-09 19:00:00,Empresa y Legislacion,tarde,Alumno2
+2024-01-09 19:00:00,Empresa y Legislacion,presente,Alumno3
+2024-01-09 19:00:00,Empresa y Legislacion,tarde,Alumno4
+2024-01-09 19:00:00,Empresa y Legislacion,ausente,Alumno5
+2024-01-09 19:00:00,Empresa y Legislacion,ausente,Alumno6
+2024-01-09 19:00:00,Empresa y Legislacion,presente,Alumno7
+2024-01-09 19:00:00,Empresa y Legislacion,ausente,Alumno8
+2024-01-09 19:00:00,Empresa y Legislacion,tarde,Alumno9
+2024-01-09 19:00:00,Empresa y Legislacion,ausente,Alumno10
+2024-01-09 19:00:00,Empresa y Legislacion,ausente,Alumno11
+2024-01-09 19:00:00,Empresa y Legislacion,presente,Alumno12
+2024-01-09 19:00:00,Empresa y Legislacion,ausente,Alumno13
+2024-01-09 19:00:00,Empresa y Legislacion,ausente,Alumno14
+2024-01-09 19:00:00,Empresa y Legislacion,ausente,Alumno15
+2024-01-09 19:00:00,Empresa y Legislacion,presente,Alumno16
+2024-01-09 19:00:00,Empresa y Legislacion,tarde,Alumno17
+2024-01-09 19:00:00,Empresa y Legislacion,presente,Alumno18
+2024-01-09 19:00:00,Empresa y Legislacion,ausente,Alumno19
+2024-01-09 19:00:00,Empresa y Legislacion,ausente,Alumno20
+2024-01-09 19:00:00,Empresa y Legislacion,ausente,Alumno21
+2024-01-09 19:00:00,Empresa y Legislacion,tarde,Alumno22
+2024-01-09 19:00:00,Empresa y Legislacion,tarde,Alumno23
+2024-01-09 19:00:00,Empresa y Legislacion,ausente,Alumno24
+2024-01-09 19:00:00,Empresa y Legislacion,ausente,Alumno25
+2024-01-09 19:00:00,Empresa y Legislacion,tarde,Alumno26
+2024-01-09 19:00:00,Empresa y Legislacion,ausente,Alumno27
+2024-01-09 19:00:00,Empresa y Legislacion,presente,Alumno28
+2024-01-09 19:00:00,Empresa y Legislacion,ausente,Alumno29
+2024-01-09 19:00:00,Empresa y Legislacion,presente,Alumno30
+2024-01-09 19:00:00,Empresa y Legislacion,presente,Alumno31
+2024-01-09 19:00:00,Empresa y Legislacion,ausente,Alumno32
+2024-01-09 19:00:00,Empresa y Legislacion,ausente,Alumno33
+2024-01-09 19:00:00,Empresa y Legislacion,ausente,Alumno34
+2024-01-09 19:00:00,Empresa y Legislacion,ausente,Alumno35
+2024-01-09 19:00:00,Empresa y Legislacion,ausente,Alumno36
+2024-01-09 19:00:00,Empresa y Legislacion,ausente,Alumno37
+2024-01-09 19:00:00,Empresa y Legislacion,tarde,Alumno38
+2024-01-09 19:00:00,Empresa y Legislacion,ausente,Alumno39
+2024-01-09 19:00:00,Empresa y Legislacion,ausente,Alumno40
+2024-01-09 19:00:00,Empresa y Legislacion,ausente,Alumno41
+2024-01-09 19:00:00,Empresa y Legislacion,ausente,Alumno42
+2024-01-09 19:00:00,Empresa y Legislacion,ausente,Alumno43
+2024-01-09 19:00:00,Empresa y Legislacion,ausente,Alumno44
+2024-01-09 19:00:00,Empresa y Legislacion,tarde,Alumno45
+2024-01-09 19:00:00,Empresa y Legislacion,ausente,Alumno46
+2024-01-09 19:00:00,Empresa y Legislacion,ausente,Alumno47
+2024-01-09 19:00:00,Empresa y Legislacion,ausente,Alumno48
+2024-01-09 19:00:00,Empresa y Legislacion,ausente,Alumno49
+2024-01-09 19:00:00,Empresa y Legislacion,ausente,Alumno50
+,Ingenieria del Software,ausente,Alumno1
+2024-01-09 21:00:00,Ingenieria del Software,ausente,Alumno2
+2024-01-09 21:00:00,Ingenieria del Software,ausente,Alumno3
+2024-01-09 21:00:00,Ingenieria del Software,,Alumno4
+2024-01-09 21:00:00,Ingenieria del Software,ausente,Alumno5
+2024-01-09 21:00:00,Ingenieria del Software,ausente,Alumno6
+2024-01-09 21:00:00,Ingenieria del Software,ausente,Alumno7
+2024-01-09 21:00:00,Ingenieria del Software,ausente,Alumno8
+2024-01-09 21:00:00,Ingenieria del Software,presente,Alumno9
+2024-01-09 21:00:00,Ingenieria del Software,ausente,Alumno10
+2024-01-09 21:00:00,Ingenieria del Software,ausente,Alumno11
+2024-01-09 21:00:00,Ingenieria del Software,ausente,Alumno12
+2024-01-09 21:00:00,Ingenieria del Software,ausente,Alumno13
+2024-01-09 21:00:00,Ingenieria del Software,ausente,Alumno14
+2024-01-09 21:00:00,Ingenieria del Software,tarde,Alumno15
+2024-01-09 21:00:00,Ingenieria del Software,ausente,Alumno16
+2024-01-09 21:00:00,Ingenieria del Software,ausente,Alumno17
+2024-01-09 21:00:00,Ingenieria del Software,ausente,Alumno18
+2024-01-09 21:00:00,Ingenieria del Software,presente,Alumno19
+2024-01-09 21:00:00,Ingenieria del Software,ausente,
+2024-01-09 21:00:00,Ingenieria del Software,ausente,Alumno21
+2024-01-09 21:00:00,Ingenieria del Software,ausente,Alumno22
+2024-01-09 21:00:00,Ingenieria del Software,tarde,Alumno23
+2024-01-09 21:00:00,Ingenieria del Software,ausente,Alumno24
+2024-01-09 21:00:00,Ingenieria del Software,ausente,Alumno25
+2024-01-09 21:00:00,Ingenieria del Software,ausente,Alumno26
+2024-01-09 21:00:00,Ingenieria del Software,ausente,Alumno27
+2024-01-09 21:00:00,Ingenieria del Software,ausente,Alumno28
+2024-01-09 21:00:00,Ingenieria del Software,tarde,Alumno29
+2024-01-09 21:00:00,Ingenieria del Software,tarde,Alumno30
+2024-01-09 21:00:00,Ingenieria del Software,ausente,Alumno31
+2024-01-09 21:00:00,Ingenieria del Software,presente,Alumno32
+2024-01-09 21:00:00,Ingenieria del Software,ausente,Alumno33
+2024-01-09 21:00:00,Ingenieria del Software,ausente,Alumno34
+2024-01-09 21:00:00,Ingenieria del Software,ausente,Alumno35
+2024-01-09 21:00:00,Ingenieria del Software,ausente,Alumno36
+2024-01-09 21:00:00,Ingenieria del Software,ausente,Alumno37
+2024-01-09 21:00:00,Ingenieria del Software,tarde,
+2024-01-09 21:00:00,Ingenieria del Software,ausente,Alumno39
+2024-01-09 21:00:00,Ingenieria del Software,ausente,Alumno40
+2024-01-09 21:00:00,Ingenieria del Software,presente,Alumno41
+2024-01-09 21:00:00,Ingenieria del Software,ausente,Alumno42
+2024-01-09 21:00:00,Ingenieria del Software,ausente,Alumno43
+2024-01-09 21:00:00,Ingenieria del Software,ausente,Alumno44
+2024-01-09 21:00:00,Ingenieria del Software,tarde,Alumno45
+2024-01-09 21:00:00,Ingenieria del Software,tarde,Alumno46
+2024-01-09 21:00:00,Ingenieria del Software,presente,Alumno47
+2024-01-09 21:00:00,Ingenieria del Software,tarde,Alumno48
+2024-01-09 21:00:00,Ingenieria del Software,ausente,Alumno49
+2024-01-09 21:00:00,Ingenieria del Software,ausente,Alumno50
+2024-01-09 23:00:00,Ingenieria del Software,tarde,Alumno1
+2024-01-09 23:00:00,Ingenieria del Software,ausente,Alumno2
+2024-01-09 23:00:00,Ingenieria del Software,ausente,Alumno3
+2024-01-09 23:00:00,Ingenieria del Software,ausente,Alumno4
+2024-01-09 23:00:00,Ingenieria del Software,ausente,Alumno5
+2024-01-09 23:00:00,Ingenieria del Software,presente,Alumno6
+2024-01-09 23:00:00,Ingenieria del Software,tarde,Alumno7
+2024-01-09 23:00:00,Ingenieria del Software,ausente,Alumno8
+2024-01-09 23:00:00,Ingenieria del Software,ausente,Alumno9
+2024-01-09 23:00:00,Ingenieria del Software,tarde,Alumno10
+2024-01-09 23:00:00,Ingenieria del Software,ausente,Alumno11
+2024-01-09 23:00:00,Ingenieria del Software,ausente,Alumno12
+,Ingenieria del Software,ausente,Alumno13
+2024-01-09 23:00:00,Ingenieria del Software,ausente,Alumno14
+2024-01-09 23:00:00,Ingenieria del Software,tarde,Alumno15
+2024-01-09 23:00:00,Ingenieria del Software,presente,Alumno16
+2024-01-09 23:00:00,Ingenieria del Software,ausente,Alumno17
+2024-01-09 23:00:00,Ingenieria del Software,ausente,Alumno18
+2024-01-09 23:00:00,Ingenieria del Software,presente,Alumno19
+2024-01-09 23:00:00,Ingenieria del Software,ausente,Alumno20
+2024-01-09 23:00:00,Ingenieria del Software,tarde,Alumno21
+2024-01-09 23:00:00,Ingenieria del Software,ausente,Alumno22
+2024-01-09 23:00:00,Ingenieria del Software,ausente,Alumno23
+2024-01-09 23:00:00,Ingenieria del Software,tarde,Alumno24
+2024-01-09 23:00:00,Ingenieria del Software,tarde,Alumno25
+2024-01-09 23:00:00,Ingenieria del Software,ausente,Alumno26
+2024-01-09 23:00:00,Ingenieria del Software,ausente,Alumno27
+2024-01-09 23:00:00,Ingenieria del Software,ausente,Alumno28
+2024-01-09 23:00:00,Ingenieria del Software,ausente,Alumno29
+2024-01-09 23:00:00,Ingenieria del Software,tarde,Alumno30
+2024-01-09 23:00:00,Ingenieria del Software,tarde,Alumno31
+2024-01-09 23:00:00,Ingenieria del Software,tarde,Alumno32
+2024-01-09 23:00:00,Ingenieria del Software,tarde,Alumno33
+2024-01-09 23:00:00,Ingenieria del Software,ausente,Alumno34
+2024-01-09 23:00:00,Ingenieria del Software,ausente,Alumno35
+2024-01-09 23:00:00,Ingenieria del Software,ausente,Alumno36
+2024-01-09 23:00:00,Ingenieria del Software,ausente,Alumno37
+2024-01-09 23:00:00,Ingenieria del Software,ausente,Alumno38
+2024-01-09 23:00:00,Ingenieria del Software,presente,Alumno39
+2024-01-09 23:00:00,,ausente,Alumno40
+2024-01-09 23:00:00,Ingenieria del Software,ausente,Alumno41
+2024-01-09 23:00:00,Ingenieria del Software,ausente,Alumno42
+2024-01-09 23:00:00,Ingenieria del Software,ausente,Alumno43
+2024-01-09 23:00:00,Ingenieria del Software,ausente,Alumno44
+2024-01-09 23:00:00,Ingenieria del Software,tarde,Alumno45
+2024-01-09 23:00:00,Ingenieria del Software,presente,Alumno46
+2024-01-09 23:00:00,Ingenieria del Software,ausente,Alumno47
+2024-01-09 23:00:00,Ingenieria del Software,ausente,Alumno48
+2024-01-09 23:00:00,Ingenieria del Software,ausente,Alumno49
+2024-01-09 23:00:00,Ingenieria del Software,ausente,Alumno50
+2024-01-10 01:00:00,Empresa y Legislacion,presente,Alumno1
+2024-01-10 01:00:00,Empresa y Legislacion,presente,Alumno2
+2024-01-10 01:00:00,Empresa y Legislacion,ausente,Alumno3
+2024-01-10 01:00:00,Empresa y Legislacion,presente,Alumno4
+2024-01-10 01:00:00,Empresa y Legislacion,ausente,Alumno5
+2024-01-10 01:00:00,Empresa y Legislacion,ausente,Alumno6
+2024-01-10 01:00:00,Empresa y Legislacion,ausente,Alumno7
+2024-01-10 01:00:00,Empresa y Legislacion,ausente,Alumno8
+2024-01-10 01:00:00,Empresa y Legislacion,ausente,Alumno9
+2024-01-10 01:00:00,Empresa y Legislacion,ausente,Alumno10
+2024-01-10 01:00:00,Empresa y Legislacion,presente,Alumno11
+2024-01-10 01:00:00,Empresa y Legislacion,ausente,Alumno12
+2024-01-10 01:00:00,Empresa y Legislacion,ausente,Alumno13
+2024-01-10 01:00:00,Empresa y Legislacion,ausente,Alumno14
+2024-01-10 01:00:00,Empresa y Legislacion,ausente,Alumno15
+2024-01-10 01:00:00,Empresa y Legislacion,tarde,Alumno16
+2024-01-10 01:00:00,Empresa y Legislacion,ausente,Alumno17
+2024-01-10 01:00:00,Empresa y Legislacion,tarde,Alumno18
+2024-01-10 01:00:00,Empresa y Legislacion,presente,Alumno19
+2024-01-10 01:00:00,Empresa y Legislacion,ausente,Alumno20
+2024-01-10 01:00:00,Empresa y Legislacion,ausente,Alumno21
+2024-01-10 01:00:00,Empresa y Legislacion,presente,Alumno22
+2024-01-10 01:00:00,Empresa y Legislacion,ausente,Alumno23
+2024-01-10 01:00:00,Empresa y Legislacion,ausente,Alumno24
+2024-01-10 01:00:00,Empresa y Legislacion,ausente,Alumno25
+2024-01-10 01:00:00,Empresa y Legislacion,ausente,Alumno26
+2024-01-10 01:00:00,Empresa y Legislacion,ausente,Alumno27
+2024-01-10 01:00:00,Empresa y Legislacion,presente,Alumno28
+2024-01-10 01:00:00,Empresa y Legislacion,ausente,Alumno29
+2024-01-10 01:00:00,,presente,Alumno30
+2024-01-10 01:00:00,Empresa y Legislacion,ausente,Alumno31
+2024-01-10 01:00:00,Empresa y Legislacion,ausente,Alumno32
+2024-01-10 01:00:00,Empresa y Legislacion,ausente,Alumno33
+2024-01-10 01:00:00,Empresa y Legislacion,ausente,Alumno34
+2024-01-10 01:00:00,Empresa y Legislacion,ausente,Alumno35
+2024-01-10 01:00:00,Empresa y Legislacion,ausente,Alumno36
+2024-01-10 01:00:00,Empresa y Legislacion,ausente,Alumno37
+2024-01-10 01:00:00,Empresa y Legislacion,ausente,Alumno38
+2024-01-10 01:00:00,Empresa y Legislacion,ausente,Alumno39
+2024-01-10 01:00:00,Empresa y Legislacion,ausente,Alumno40
+2024-01-10 01:00:00,Empresa y Legislacion,ausente,Alumno41
+2024-01-10 01:00:00,Empresa y Legislacion,ausente,Alumno42
+2024-01-10 01:00:00,Empresa y Legislacion,ausente,Alumno43
+2024-01-10 01:00:00,Empresa y Legislacion,ausente,Alumno44
+2024-01-10 01:00:00,Empresa y Legislacion,ausente,Alumno45
+2024-01-10 01:00:00,Empresa y Legislacion,presente,Alumno46
+2024-01-10 01:00:00,Empresa y Legislacion,ausente,Alumno47
+2024-01-10 01:00:00,Empresa y Legislacion,ausente,Alumno48
+2024-01-10 01:00:00,Empresa y Legislacion,ausente,Alumno49
+2024-01-10 01:00:00,Empresa y Legislacion,ausente,Alumno50
+2024-01-10 03:00:00,Big Data,ausente,Alumno1
+2024-01-10 03:00:00,Big Data,presente,Alumno2
+2024-01-10 03:00:00,Big Data,ausente,Alumno3
+2024-01-10 03:00:00,Big Data,ausente,Alumno4
+2024-01-10 03:00:00,Big Data,ausente,Alumno5
+2024-01-10 03:00:00,Big Data,tarde,Alumno6
+2024-01-10 03:00:00,Big Data,ausente,Alumno7
+2024-01-10 03:00:00,Big Data,ausente,Alumno8
+2024-01-10 03:00:00,Big Data,ausente,Alumno9
+2024-01-10 03:00:00,Big Data,ausente,Alumno10
+2024-01-10 03:00:00,Big Data,presente,Alumno11
+2024-01-10 03:00:00,Big Data,ausente,Alumno12
+2024-01-10 03:00:00,Big Data,tarde,Alumno13
+2024-01-10 03:00:00,Big Data,ausente,Alumno14
+2024-01-10 03:00:00,Big Data,ausente,Alumno15
+2024-01-10 03:00:00,Big Data,presente,Alumno16
+2024-01-10 03:00:00,Big Data,ausente,Alumno17
+2024-01-10 03:00:00,Big Data,presente,Alumno18
+2024-01-10 03:00:00,Big Data,tarde,Alumno19
+2024-01-10 03:00:00,Big Data,ausente,Alumno20
+2024-01-10 03:00:00,Big Data,ausente,Alumno21
+2024-01-10 03:00:00,Big Data,tarde,Alumno22
+2024-01-10 03:00:00,Big Data,ausente,Alumno23
+2024-01-10 03:00:00,Big Data,ausente,Alumno24
+2024-01-10 03:00:00,Big Data,ausente,Alumno25
+2024-01-10 03:00:00,Big Data,,Alumno26
+2024-01-10 03:00:00,Big Data,tarde,Alumno27
+2024-01-10 03:00:00,Big Data,presente,Alumno28
+2024-01-10 03:00:00,Big Data,presente,Alumno29
+2024-01-10 03:00:00,Big Data,ausente,Alumno30
+2024-01-10 03:00:00,Big Data,ausente,Alumno31
+2024-01-10 03:00:00,Big Data,ausente,Alumno32
+2024-01-10 03:00:00,Big Data,ausente,Alumno33
+2024-01-10 03:00:00,Big Data,ausente,Alumno34
+2024-01-10 03:00:00,Big Data,tarde,Alumno35
+2024-01-10 03:00:00,Big Data,presente,Alumno36
+2024-01-10 03:00:00,Big Data,ausente,Alumno37
+2024-01-10 03:00:00,Big Data,ausente,Alumno38
+2024-01-10 03:00:00,Big Data,ausente,Alumno39
+2024-01-10 03:00:00,Big Data,ausente,Alumno40
+2024-01-10 03:00:00,Big Data,ausente,Alumno41
+2024-01-10 03:00:00,Big Data,ausente,Alumno42
+2024-01-10 03:00:00,Big Data,ausente,
+2024-01-10 03:00:00,Big Data,ausente,Alumno44
+2024-01-10 03:00:00,Big Data,ausente,Alumno45
+2024-01-10 03:00:00,Big Data,ausente,Alumno46
+2024-01-10 03:00:00,Big Data,tarde,Alumno47
+2024-01-10 03:00:00,Big Data,ausente,Alumno48
+2024-01-10 03:00:00,Big Data,ausente,Alumno49
+2024-01-10 03:00:00,Big Data,ausente,Alumno50
+2024-01-10 05:00:00,Big Data,tarde,Alumno1
+2024-01-10 05:00:00,Big Data,ausente,Alumno2
+2024-01-10 05:00:00,Big Data,ausente,Alumno3
+2024-01-10 05:00:00,Big Data,ausente,Alumno4
+2024-01-10 05:00:00,Big Data,ausente,Alumno5
+2024-01-10 05:00:00,Big Data,ausente,Alumno6
+2024-01-10 05:00:00,Big Data,ausente,Alumno7
+2024-01-10 05:00:00,Big Data,ausente,Alumno8
+2024-01-10 05:00:00,Big Data,tarde,Alumno9
+2024-01-10 05:00:00,Big Data,ausente,Alumno10
+2024-01-10 05:00:00,Big Data,ausente,Alumno11
+2024-01-10 05:00:00,Big Data,ausente,Alumno12
+2024-01-10 05:00:00,Big Data,presente,Alumno13
+2024-01-10 05:00:00,Big Data,tarde,Alumno14
+2024-01-10 05:00:00,Big Data,ausente,Alumno15
+2024-01-10 05:00:00,Big Data,ausente,Alumno16
+2024-01-10 05:00:00,Big Data,tarde,Alumno17
+2024-01-10 05:00:00,Big Data,ausente,Alumno18
+2024-01-10 05:00:00,Big Data,ausente,Alumno19
+2024-01-10 05:00:00,Big Data,ausente,Alumno20
+2024-01-10 05:00:00,Big Data,ausente,Alumno21
+2024-01-10 05:00:00,Big Data,ausente,Alumno22
+2024-01-10 05:00:00,Big Data,ausente,Alumno23
+2024-01-10 05:00:00,Big Data,ausente,Alumno24
+2024-01-10 05:00:00,Big Data,ausente,Alumno25
+2024-01-10 05:00:00,Big Data,presente,Alumno26
+2024-01-10 05:00:00,Big Data,ausente,Alumno27
+2024-01-10 05:00:00,Big Data,ausente,Alumno28
+2024-01-10 05:00:00,Big Data,ausente,Alumno29
+2024-01-10 05:00:00,Big Data,ausente,Alumno30
+2024-01-10 05:00:00,Big Data,ausente,Alumno31
+2024-01-10 05:00:00,Big Data,ausente,Alumno32
+2024-01-10 05:00:00,Big Data,presente,Alumno33
+2024-01-10 05:00:00,Big Data,ausente,Alumno34
+2024-01-10 05:00:00,Big Data,ausente,Alumno35
+2024-01-10 05:00:00,Big Data,ausente,Alumno36
+2024-01-10 05:00:00,Big Data,presente,Alumno37
+2024-01-10 05:00:00,Big Data,ausente,Alumno38
+2024-01-10 05:00:00,Big Data,ausente,Alumno39
+2024-01-10 05:00:00,Big Data,,Alumno40
+2024-01-10 05:00:00,Big Data,ausente,Alumno41
+2024-01-10 05:00:00,Big Data,ausente,Alumno42
+2024-01-10 05:00:00,Big Data,presente,Alumno43
+2024-01-10 05:00:00,Big Data,ausente,Alumno44
+2024-01-10 05:00:00,Big Data,ausente,Alumno45
+2024-01-10 05:00:00,Big Data,ausente,Alumno46
+2024-01-10 05:00:00,Big Data,presente,Alumno47
+2024-01-10 05:00:00,Big Data,ausente,Alumno48
+2024-01-10 05:00:00,Big Data,tarde,Alumno49
+2024-01-10 05:00:00,Big Data,ausente,Alumno50
+2024-01-10 07:00:00,Empresa y Legislacion,ausente,Alumno1
+2024-01-10 07:00:00,Empresa y Legislacion,presente,Alumno2
+2024-01-10 07:00:00,Empresa y Legislacion,tarde,Alumno3
+2024-01-10 07:00:00,Empresa y Legislacion,ausente,Alumno4
+2024-01-10 07:00:00,Empresa y Legislacion,ausente,Alumno5
+,Empresa y Legislacion,ausente,Alumno6
+2024-01-10 07:00:00,Empresa y Legislacion,ausente,Alumno7
+2024-01-10 07:00:00,Empresa y Legislacion,ausente,Alumno8
+2024-01-10 07:00:00,Empresa y Legislacion,ausente,Alumno9
+2024-01-10 07:00:00,Empresa y Legislacion,ausente,Alumno10
+2024-01-10 07:00:00,Empresa y Legislacion,ausente,Alumno11
+2024-01-10 07:00:00,Empresa y Legislacion,ausente,Alumno12
+2024-01-10 07:00:00,Empresa y Legislacion,ausente,Alumno13
+2024-01-10 07:00:00,Empresa y Legislacion,ausente,Alumno14
+2024-01-10 07:00:00,Empresa y Legislacion,ausente,Alumno15
+2024-01-10 07:00:00,Empresa y Legislacion,ausente,Alumno16
+2024-01-10 07:00:00,Empresa y Legislacion,ausente,Alumno17
+2024-01-10 07:00:00,Empresa y Legislacion,ausente,Alumno18
+2024-01-10 07:00:00,Empresa y Legislacion,tarde,Alumno19
+2024-01-10 07:00:00,Empresa y Legislacion,ausente,Alumno20
+2024-01-10 07:00:00,Empresa y Legislacion,presente,Alumno21
+2024-01-10 07:00:00,Empresa y Legislacion,ausente,Alumno22
+2024-01-10 07:00:00,Empresa y Legislacion,tarde,Alumno23
+2024-01-10 07:00:00,Empresa y Legislacion,ausente,Alumno24
+2024-01-10 07:00:00,Empresa y Legislacion,ausente,Alumno25
+2024-01-10 07:00:00,Empresa y Legislacion,tarde,Alumno26
+2024-01-10 07:00:00,Empresa y Legislacion,ausente,Alumno27
+2024-01-10 07:00:00,Empresa y Legislacion,ausente,Alumno28
+2024-01-10 07:00:00,Empresa y Legislacion,presente,Alumno29
+2024-01-10 07:00:00,Empresa y Legislacion,ausente,Alumno30
+2024-01-10 07:00:00,Empresa y Legislacion,ausente,Alumno31
+2024-01-10 07:00:00,Empresa y Legislacion,presente,Alumno32
+2024-01-10 07:00:00,Empresa y Legislacion,ausente,Alumno33
+2024-01-10 07:00:00,Empresa y Legislacion,ausente,Alumno34
+2024-01-10 07:00:00,Empresa y Legislacion,ausente,Alumno35
+2024-01-10 07:00:00,Empresa y Legislacion,ausente,Alumno36
+2024-01-10 07:00:00,Empresa y Legislacion,presente,Alumno37
+2024-01-10 07:00:00,Empresa y Legislacion,ausente,Alumno38
+2024-01-10 07:00:00,Empresa y Legislacion,ausente,Alumno39
+2024-01-10 07:00:00,Empresa y Legislacion,presente,Alumno40
+2024-01-10 07:00:00,Empresa y Legislacion,ausente,Alumno41
+2024-01-10 07:00:00,Empresa y Legislacion,ausente,Alumno42
+2024-01-10 07:00:00,Empresa y Legislacion,presente,Alumno43
+2024-01-10 07:00:00,Empresa y Legislacion,ausente,Alumno44
+2024-01-10 07:00:00,Empresa y Legislacion,ausente,Alumno45
+2024-01-10 07:00:00,Empresa y Legislacion,presente,Alumno46
+2024-01-10 07:00:00,Empresa y Legislacion,tarde,Alumno47
+2024-01-10 07:00:00,Empresa y Legislacion,presente,Alumno48
+2024-01-10 07:00:00,Empresa y Legislacion,ausente,Alumno49
+2024-01-10 07:00:00,Empresa y Legislacion,ausente,Alumno50
+2024-01-10 09:00:00,Ingenieria del Software,ausente,Alumno1
+2024-01-10 09:00:00,Ingenieria del Software,ausente,Alumno2
+2024-01-10 09:00:00,Ingenieria del Software,ausente,Alumno3
+2024-01-10 09:00:00,Ingenieria del Software,ausente,Alumno4
+2024-01-10 09:00:00,Ingenieria del Software,tarde,Alumno5
+2024-01-10 09:00:00,Ingenieria del Software,presente,Alumno6
+2024-01-10 09:00:00,Ingenieria del Software,ausente,Alumno7
+2024-01-10 09:00:00,Ingenieria del Software,ausente,Alumno8
+2024-01-10 09:00:00,Ingenieria del Software,tarde,Alumno9
+2024-01-10 09:00:00,Ingenieria del Software,ausente,Alumno10
+2024-01-10 09:00:00,Ingenieria del Software,ausente,Alumno11
+2024-01-10 09:00:00,Ingenieria del Software,presente,Alumno12
+2024-01-10 09:00:00,Ingenieria del Software,tarde,Alumno13
+2024-01-10 09:00:00,Ingenieria del Software,tarde,Alumno14
+2024-01-10 09:00:00,Ingenieria del Software,ausente,Alumno15
+2024-01-10 09:00:00,Ingenieria del Software,ausente,Alumno16
+2024-01-10 09:00:00,Ingenieria del Software,ausente,Alumno17
+2024-01-10 09:00:00,Ingenieria del Software,ausente,Alumno18
+2024-01-10 09:00:00,Ingenieria del Software,tarde,Alumno19
+2024-01-10 09:00:00,Ingenieria del Software,presente,Alumno20
+2024-01-10 09:00:00,Ingenieria del Software,ausente,Alumno21
+2024-01-10 09:00:00,Ingenieria del Software,presente,Alumno22
+2024-01-10 09:00:00,Ingenieria del Software,ausente,Alumno23
+2024-01-10 09:00:00,Ingenieria del Software,ausente,Alumno24
+2024-01-10 09:00:00,Ingenieria del Software,ausente,Alumno25
+2024-01-10 09:00:00,Ingenieria del Software,ausente,Alumno26
+2024-01-10 09:00:00,Ingenieria del Software,ausente,Alumno27
+2024-01-10 09:00:00,Ingenieria del Software,ausente,Alumno28
+2024-01-10 09:00:00,Ingenieria del Software,tarde,Alumno29
+2024-01-10 09:00:00,Ingenieria del Software,tarde,Alumno30
+2024-01-10 09:00:00,Ingenieria del Software,tarde,Alumno31
+2024-01-10 09:00:00,Ingenieria del Software,ausente,Alumno32
+2024-01-10 09:00:00,Ingenieria del Software,ausente,Alumno33
+2024-01-10 09:00:00,Ingenieria del Software,ausente,Alumno34
+2024-01-10 09:00:00,Ingenieria del Software,ausente,Alumno35
+2024-01-10 09:00:00,Ingenieria del Software,ausente,Alumno36
+2024-01-10 09:00:00,Ingenieria del Software,ausente,Alumno37
+2024-01-10 09:00:00,Ingenieria del Software,tarde,Alumno38
+2024-01-10 09:00:00,Ingenieria del Software,ausente,Alumno39
+2024-01-10 09:00:00,Ingenieria del Software,ausente,Alumno40
+2024-01-10 09:00:00,Ingenieria del Software,presente,Alumno41
+2024-01-10 09:00:00,Ingenieria del Software,tarde,Alumno42
+2024-01-10 09:00:00,Ingenieria del Software,tarde,Alumno43
+2024-01-10 09:00:00,Ingenieria del Software,ausente,Alumno44
+2024-01-10 09:00:00,Ingenieria del Software,ausente,Alumno45
+2024-01-10 09:00:00,Ingenieria del Software,ausente,Alumno46
+2024-01-10 09:00:00,Ingenieria del Software,presente,Alumno47
+2024-01-10 09:00:00,Ingenieria del Software,presente,Alumno48
+2024-01-10 09:00:00,Ingenieria del Software,ausente,Alumno49
+2024-01-10 09:00:00,Ingenieria del Software,ausente,Alumno50
+2024-01-10 11:00:00,Ingenieria del Software,ausente,Alumno1
+2024-01-10 11:00:00,Ingenieria del Software,ausente,Alumno2
+2024-01-10 11:00:00,Ingenieria del Software,ausente,Alumno3
+2024-01-10 11:00:00,Ingenieria del Software,ausente,Alumno4
+2024-01-10 11:00:00,Ingenieria del Software,ausente,Alumno5
+2024-01-10 11:00:00,Ingenieria del Software,ausente,Alumno6
+2024-01-10 11:00:00,Ingenieria del Software,tarde,Alumno7
+2024-01-10 11:00:00,Ingenieria del Software,ausente,Alumno8
+2024-01-10 11:00:00,Ingenieria del Software,ausente,Alumno9
+2024-01-10 11:00:00,Ingenieria del Software,ausente,Alumno10
+2024-01-10 11:00:00,Ingenieria del Software,ausente,Alumno11
+2024-01-10 11:00:00,Ingenieria del Software,ausente,Alumno12
+2024-01-10 11:00:00,Ingenieria del Software,tarde,Alumno13
+2024-01-10 11:00:00,Ingenieria del Software,tarde,Alumno14
+2024-01-10 11:00:00,Ingenieria del Software,ausente,Alumno15
+2024-01-10 11:00:00,Ingenieria del Software,ausente,Alumno16
+2024-01-10 11:00:00,Ingenieria del Software,ausente,Alumno17
+2024-01-10 11:00:00,Ingenieria del Software,tarde,Alumno18
+2024-01-10 11:00:00,Ingenieria del Software,presente,Alumno19
+2024-01-10 11:00:00,Ingenieria del Software,ausente,Alumno20
+2024-01-10 11:00:00,Ingenieria del Software,ausente,Alumno21
+2024-01-10 11:00:00,Ingenieria del Software,tarde,Alumno22
+2024-01-10 11:00:00,Ingenieria del Software,presente,Alumno23
+2024-01-10 11:00:00,Ingenieria del Software,ausente,Alumno24
+2024-01-10 11:00:00,Ingenieria del Software,tarde,Alumno25
+2024-01-10 11:00:00,Ingenieria del Software,ausente,Alumno26
+2024-01-10 11:00:00,Ingenieria del Software,tarde,Alumno27
+2024-01-10 11:00:00,Ingenieria del Software,ausente,Alumno28
+2024-01-10 11:00:00,Ingenieria del Software,ausente,Alumno29
+2024-01-10 11:00:00,Ingenieria del Software,presente,Alumno30
+2024-01-10 11:00:00,Ingenieria del Software,presente,Alumno31
+2024-01-10 11:00:00,Ingenieria del Software,ausente,Alumno32
+2024-01-10 11:00:00,Ingenieria del Software,ausente,Alumno33
+2024-01-10 11:00:00,Ingenieria del Software,ausente,Alumno34
+2024-01-10 11:00:00,Ingenieria del Software,ausente,Alumno35
+2024-01-10 11:00:00,Ingenieria del Software,ausente,Alumno36
+2024-01-10 11:00:00,Ingenieria del Software,ausente,Alumno37
+2024-01-10 11:00:00,Ingenieria del Software,tarde,Alumno38
+2024-01-10 11:00:00,Ingenieria del Software,tarde,Alumno39
+2024-01-10 11:00:00,Ingenieria del Software,ausente,Alumno40
+2024-01-10 11:00:00,Ingenieria del Software,ausente,Alumno41
+2024-01-10 11:00:00,Ingenieria del Software,ausente,Alumno42
+2024-01-10 11:00:00,Ingenieria del Software,ausente,Alumno43
+2024-01-10 11:00:00,Ingenieria del Software,presente,Alumno44
+2024-01-10 11:00:00,Ingenieria del Software,ausente,Alumno45
+2024-01-10 11:00:00,Ingenieria del Software,ausente,Alumno46
+2024-01-10 11:00:00,Ingenieria del Software,ausente,Alumno47
+2024-01-10 11:00:00,Ingenieria del Software,ausente,Alumno48
+2024-01-10 11:00:00,Ingenieria del Software,ausente,Alumno49
+2024-01-10 11:00:00,Ingenieria del Software,ausente,Alumno50
+2024-01-10 13:00:00,Big Data,ausente,Alumno1
+2024-01-10 13:00:00,Big Data,ausente,Alumno2
+2024-01-10 13:00:00,Big Data,ausente,Alumno3
+2024-01-10 13:00:00,Big Data,ausente,Alumno4
+2024-01-10 13:00:00,Big Data,ausente,Alumno5
+2024-01-10 13:00:00,Big Data,ausente,Alumno6
+2024-01-10 13:00:00,Big Data,ausente,Alumno7
+2024-01-10 13:00:00,Big Data,ausente,Alumno8
+2024-01-10 13:00:00,Big Data,ausente,Alumno9
+2024-01-10 13:00:00,Big Data,ausente,Alumno10
+2024-01-10 13:00:00,Big Data,ausente,Alumno11
+2024-01-10 13:00:00,Big Data,ausente,Alumno12
+2024-01-10 13:00:00,Big Data,ausente,Alumno13
+2024-01-10 13:00:00,Big Data,ausente,Alumno14
+2024-01-10 13:00:00,Big Data,ausente,Alumno15
+2024-01-10 13:00:00,Big Data,ausente,Alumno16
+2024-01-10 13:00:00,Big Data,ausente,Alumno17
+2024-01-10 13:00:00,Big Data,presente,Alumno18
+2024-01-10 13:00:00,Big Data,ausente,Alumno19
+2024-01-10 13:00:00,Big Data,tarde,Alumno20
+2024-01-10 13:00:00,Big Data,tarde,Alumno21
+2024-01-10 13:00:00,Big Data,ausente,Alumno22
+2024-01-10 13:00:00,Big Data,ausente,Alumno23
+2024-01-10 13:00:00,Big Data,ausente,Alumno24
+2024-01-10 13:00:00,Big Data,ausente,Alumno25
+2024-01-10 13:00:00,Big Data,ausente,Alumno26
+2024-01-10 13:00:00,Big Data,ausente,Alumno27
+2024-01-10 13:00:00,Big Data,ausente,Alumno28
+2024-01-10 13:00:00,Big Data,ausente,Alumno29
+2024-01-10 13:00:00,Big Data,ausente,Alumno30
+2024-01-10 13:00:00,Big Data,ausente,Alumno31
+2024-01-10 13:00:00,Big Data,ausente,Alumno32
+2024-01-10 13:00:00,Big Data,ausente,Alumno33
+2024-01-10 13:00:00,Big Data,ausente,Alumno34
+2024-01-10 13:00:00,Big Data,ausente,Alumno35
+2024-01-10 13:00:00,Big Data,ausente,Alumno36
+2024-01-10 13:00:00,Big Data,ausente,Alumno37
+2024-01-10 13:00:00,Big Data,ausente,Alumno38
+2024-01-10 13:00:00,Big Data,ausente,Alumno39
+2024-01-10 13:00:00,Big Data,tarde,Alumno40
+2024-01-10 13:00:00,Big Data,ausente,Alumno41
+2024-01-10 13:00:00,Big Data,ausente,Alumno42
+2024-01-10 13:00:00,Big Data,ausente,Alumno43
+2024-01-10 13:00:00,Big Data,ausente,Alumno44
+2024-01-10 13:00:00,Big Data,presente,Alumno45
+2024-01-10 13:00:00,Big Data,ausente,Alumno46
+2024-01-10 13:00:00,Big Data,ausente,Alumno47
+2024-01-10 13:00:00,Big Data,ausente,Alumno48
+2024-01-10 13:00:00,Big Data,ausente,Alumno49
+2024-01-10 13:00:00,Big Data,ausente,Alumno50
+2024-01-10 15:00:00,Empresa y Legislacion,ausente,Alumno1
+2024-01-10 15:00:00,Empresa y Legislacion,ausente,Alumno2
+2024-01-10 15:00:00,Empresa y Legislacion,tarde,Alumno3
+2024-01-10 15:00:00,Empresa y Legislacion,ausente,Alumno4
+2024-01-10 15:00:00,Empresa y Legislacion,ausente,Alumno5
+2024-01-10 15:00:00,Empresa y Legislacion,ausente,Alumno6
+2024-01-10 15:00:00,Empresa y Legislacion,ausente,Alumno7
+2024-01-10 15:00:00,Empresa y Legislacion,ausente,Alumno8
+2024-01-10 15:00:00,Empresa y Legislacion,ausente,Alumno9
+2024-01-10 15:00:00,Empresa y Legislacion,ausente,Alumno10
+2024-01-10 15:00:00,Empresa y Legislacion,tarde,Alumno11
+2024-01-10 15:00:00,Empresa y Legislacion,ausente,Alumno12
+2024-01-10 15:00:00,Empresa y Legislacion,tarde,Alumno13
+2024-01-10 15:00:00,Empresa y Legislacion,tarde,Alumno14
+2024-01-10 15:00:00,Empresa y Legislacion,ausente,Alumno15
+2024-01-10 15:00:00,Empresa y Legislacion,ausente,Alumno16
+2024-01-10 15:00:00,Empresa y Legislacion,ausente,Alumno17
+2024-01-10 15:00:00,Empresa y Legislacion,ausente,Alumno18
+2024-01-10 15:00:00,Empresa y Legislacion,ausente,Alumno19
+2024-01-10 15:00:00,Empresa y Legislacion,ausente,Alumno20
+2024-01-10 15:00:00,Empresa y Legislacion,tarde,Alumno21
+2024-01-10 15:00:00,Empresa y Legislacion,presente,Alumno22
+2024-01-10 15:00:00,Empresa y Legislacion,ausente,Alumno23
+2024-01-10 15:00:00,Empresa y Legislacion,ausente,Alumno24
+2024-01-10 15:00:00,Empresa y Legislacion,ausente,Alumno25
+2024-01-10 15:00:00,Empresa y Legislacion,ausente,Alumno26
+2024-01-10 15:00:00,Empresa y Legislacion,ausente,Alumno27
+2024-01-10 15:00:00,Empresa y Legislacion,presente,Alumno28
+2024-01-10 15:00:00,Empresa y Legislacion,ausente,Alumno29
+2024-01-10 15:00:00,Empresa y Legislacion,ausente,Alumno30
+2024-01-10 15:00:00,Empresa y Legislacion,ausente,Alumno31
+2024-01-10 15:00:00,Empresa y Legislacion,tarde,Alumno32
+2024-01-10 15:00:00,Empresa y Legislacion,ausente,Alumno33
+2024-01-10 15:00:00,Empresa y Legislacion,ausente,Alumno34
+2024-01-10 15:00:00,Empresa y Legislacion,ausente,Alumno35
+2024-01-10 15:00:00,Empresa y Legislacion,ausente,Alumno36
+2024-01-10 15:00:00,Empresa y Legislacion,ausente,Alumno37
+2024-01-10 15:00:00,Empresa y Legislacion,ausente,Alumno38
+2024-01-10 15:00:00,Empresa y Legislacion,tarde,Alumno39
+2024-01-10 15:00:00,Empresa y Legislacion,ausente,Alumno40
+2024-01-10 15:00:00,Empresa y Legislacion,ausente,Alumno41
+2024-01-10 15:00:00,Empresa y Legislacion,ausente,Alumno42
+2024-01-10 15:00:00,Empresa y Legislacion,ausente,Alumno43
+2024-01-10 15:00:00,Empresa y Legislacion,ausente,Alumno44
+2024-01-10 15:00:00,Empresa y Legislacion,ausente,Alumno45
+2024-01-10 15:00:00,Empresa y Legislacion,ausente,Alumno46
+2024-01-10 15:00:00,Empresa y Legislacion,ausente,Alumno47
+2024-01-10 15:00:00,Empresa y Legislacion,ausente,Alumno48
+2024-01-10 15:00:00,Empresa y Legislacion,ausente,Alumno49
+2024-01-10 15:00:00,Empresa y Legislacion,ausente,Alumno50
+2024-01-10 17:00:00,Ingenieria del Software,tarde,Alumno1
+2024-01-10 17:00:00,Ingenieria del Software,ausente,Alumno2
+2024-01-10 17:00:00,Ingenieria del Software,ausente,Alumno3
+2024-01-10 17:00:00,Ingenieria del Software,ausente,Alumno4
+2024-01-10 17:00:00,Ingenieria del Software,ausente,Alumno5
+2024-01-10 17:00:00,Ingenieria del Software,ausente,Alumno6
+2024-01-10 17:00:00,Ingenieria del Software,ausente,Alumno7
+2024-01-10 17:00:00,Ingenieria del Software,ausente,Alumno8
+2024-01-10 17:00:00,Ingenieria del Software,ausente,Alumno9
+2024-01-10 17:00:00,Ingenieria del Software,ausente,Alumno10
+2024-01-10 17:00:00,Ingenieria del Software,ausente,Alumno11
+2024-01-10 17:00:00,Ingenieria del Software,ausente,Alumno12
+2024-01-10 17:00:00,Ingenieria del Software,presente,Alumno13
+2024-01-10 17:00:00,Ingenieria del Software,ausente,Alumno14
+2024-01-10 17:00:00,Ingenieria del Software,ausente,Alumno15
+2024-01-10 17:00:00,Ingenieria del Software,ausente,Alumno16
+2024-01-10 17:00:00,Ingenieria del Software,ausente,Alumno17
+2024-01-10 17:00:00,Ingenieria del Software,ausente,Alumno18
+2024-01-10 17:00:00,Ingenieria del Software,presente,Alumno19
+2024-01-10 17:00:00,Ingenieria del Software,ausente,Alumno20
+2024-01-10 17:00:00,Ingenieria del Software,ausente,Alumno21
+2024-01-10 17:00:00,Ingenieria del Software,ausente,Alumno22
+2024-01-10 17:00:00,Ingenieria del Software,ausente,Alumno23
+2024-01-10 17:00:00,Ingenieria del Software,ausente,Alumno24
+2024-01-10 17:00:00,Ingenieria del Software,ausente,Alumno25
+2024-01-10 17:00:00,Ingenieria del Software,ausente,Alumno26
+2024-01-10 17:00:00,Ingenieria del Software,ausente,Alumno27
+2024-01-10 17:00:00,Ingenieria del Software,ausente,Alumno28
+2024-01-10 17:00:00,Ingenieria del Software,ausente,Alumno29
+2024-01-10 17:00:00,Ingenieria del Software,ausente,Alumno30
+2024-01-10 17:00:00,Ingenieria del Software,ausente,Alumno31
+2024-01-10 17:00:00,Ingenieria del Software,ausente,Alumno32
+2024-01-10 17:00:00,Ingenieria del Software,ausente,Alumno33
+2024-01-10 17:00:00,Ingenieria del Software,ausente,Alumno34
+2024-01-10 17:00:00,Ingenieria del Software,ausente,Alumno35
+2024-01-10 17:00:00,Ingenieria del Software,presente,Alumno36
+2024-01-10 17:00:00,Ingenieria del Software,ausente,Alumno37
+2024-01-10 17:00:00,Ingenieria del Software,ausente,Alumno38
+2024-01-10 17:00:00,Ingenieria del Software,ausente,Alumno39
+2024-01-10 17:00:00,Ingenieria del Software,ausente,Alumno40
+2024-01-10 17:00:00,Ingenieria del Software,ausente,Alumno41
+2024-01-10 17:00:00,Ingenieria del Software,presente,Alumno42
+2024-01-10 17:00:00,Ingenieria del Software,ausente,Alumno43
+2024-01-10 17:00:00,Ingenieria del Software,ausente,Alumno44
+2024-01-10 17:00:00,Ingenieria del Software,presente,Alumno45
+2024-01-10 17:00:00,Ingenieria del Software,ausente,Alumno46
+2024-01-10 17:00:00,Ingenieria del Software,presente,Alumno47
+2024-01-10 17:00:00,Ingenieria del Software,ausente,Alumno48
+2024-01-10 17:00:00,Ingenieria del Software,ausente,Alumno49
+2024-01-10 17:00:00,Ingenieria del Software,ausente,Alumno50
+2024-01-10 19:00:00,Ingenieria del Software,ausente,Alumno1
+2024-01-10 19:00:00,Ingenieria del Software,ausente,Alumno2
+2024-01-10 19:00:00,Ingenieria del Software,ausente,Alumno3
+2024-01-10 19:00:00,Ingenieria del Software,presente,Alumno4
+2024-01-10 19:00:00,Ingenieria del Software,presente,Alumno5
+2024-01-10 19:00:00,Ingenieria del Software,tarde,Alumno6
+2024-01-10 19:00:00,Ingenieria del Software,ausente,Alumno7
+2024-01-10 19:00:00,Ingenieria del Software,ausente,Alumno8
+2024-01-10 19:00:00,Ingenieria del Software,presente,Alumno9
+2024-01-10 19:00:00,Ingenieria del Software,ausente,Alumno10
+2024-01-10 19:00:00,Ingenieria del Software,ausente,Alumno11
+2024-01-10 19:00:00,Ingenieria del Software,ausente,Alumno12
+2024-01-10 19:00:00,Ingenieria del Software,ausente,Alumno13
+2024-01-10 19:00:00,Ingenieria del Software,ausente,Alumno14
+2024-01-10 19:00:00,Ingenieria del Software,ausente,Alumno15
+2024-01-10 19:00:00,Ingenieria del Software,ausente,Alumno16
+2024-01-10 19:00:00,Ingenieria del Software,ausente,Alumno17
+2024-01-10 19:00:00,Ingenieria del Software,tarde,Alumno18
+2024-01-10 19:00:00,Ingenieria del Software,ausente,Alumno19
+2024-01-10 19:00:00,Ingenieria del Software,ausente,Alumno20
+2024-01-10 19:00:00,Ingenieria del Software,ausente,Alumno21
+2024-01-10 19:00:00,Ingenieria del Software,ausente,Alumno22
+2024-01-10 19:00:00,Ingenieria del Software,ausente,Alumno23
+2024-01-10 19:00:00,Ingenieria del Software,ausente,Alumno24
+2024-01-10 19:00:00,Ingenieria del Software,ausente,Alumno25
+2024-01-10 19:00:00,Ingenieria del Software,ausente,Alumno26
+2024-01-10 19:00:00,Ingenieria del Software,ausente,Alumno27
+2024-01-10 19:00:00,Ingenieria del Software,ausente,Alumno28
+2024-01-10 19:00:00,Ingenieria del Software,ausente,Alumno29
+2024-01-10 19:00:00,Ingenieria del Software,ausente,Alumno30
+2024-01-10 19:00:00,Ingenieria del Software,ausente,Alumno31
+2024-01-10 19:00:00,Ingenieria del Software,ausente,Alumno32
+2024-01-10 19:00:00,Ingenieria del Software,ausente,Alumno33
+2024-01-10 19:00:00,Ingenieria del Software,ausente,Alumno34
+2024-01-10 19:00:00,Ingenieria del Software,ausente,Alumno35
+2024-01-10 19:00:00,Ingenieria del Software,tarde,Alumno36
+2024-01-10 19:00:00,Ingenieria del Software,ausente,Alumno37
+2024-01-10 19:00:00,Ingenieria del Software,presente,Alumno38
+2024-01-10 19:00:00,Ingenieria del Software,ausente,Alumno39
+2024-01-10 19:00:00,Ingenieria del Software,ausente,Alumno40
+2024-01-10 19:00:00,Ingenieria del Software,ausente,Alumno41
+2024-01-10 19:00:00,Ingenieria del Software,ausente,Alumno42
+2024-01-10 19:00:00,Ingenieria del Software,ausente,Alumno43
+2024-01-10 19:00:00,Ingenieria del Software,ausente,Alumno44
+2024-01-10 19:00:00,Ingenieria del Software,tarde,Alumno45
+2024-01-10 19:00:00,Ingenieria del Software,presente,Alumno46
+2024-01-10 19:00:00,Ingenieria del Software,tarde,Alumno47
+2024-01-10 19:00:00,Ingenieria del Software,ausente,Alumno48
+2024-01-10 19:00:00,Ingenieria del Software,ausente,Alumno49
+2024-01-10 19:00:00,Ingenieria del Software,presente,Alumno50
+2024-01-10 21:00:00,Ingenieria del Software,ausente,Alumno1
+2024-01-10 21:00:00,Ingenieria del Software,ausente,Alumno2
+2024-01-10 21:00:00,Ingenieria del Software,presente,Alumno3
+2024-01-10 21:00:00,Ingenieria del Software,ausente,Alumno4
+2024-01-10 21:00:00,Ingenieria del Software,ausente,Alumno5
+2024-01-10 21:00:00,Ingenieria del Software,presente,Alumno6
+2024-01-10 21:00:00,Ingenieria del Software,ausente,Alumno7
+2024-01-10 21:00:00,Ingenieria del Software,ausente,Alumno8
+2024-01-10 21:00:00,Ingenieria del Software,ausente,Alumno9
+2024-01-10 21:00:00,Ingenieria del Software,ausente,Alumno10
+2024-01-10 21:00:00,Ingenieria del Software,ausente,Alumno11
+2024-01-10 21:00:00,Ingenieria del Software,ausente,Alumno12
+2024-01-10 21:00:00,Ingenieria del Software,ausente,Alumno13
+2024-01-10 21:00:00,Ingenieria del Software,tarde,Alumno14
+2024-01-10 21:00:00,Ingenieria del Software,ausente,Alumno15
+2024-01-10 21:00:00,Ingenieria del Software,ausente,Alumno16
+2024-01-10 21:00:00,Ingenieria del Software,ausente,Alumno17
+2024-01-10 21:00:00,Ingenieria del Software,ausente,Alumno18
+2024-01-10 21:00:00,Ingenieria del Software,tarde,Alumno19
+2024-01-10 21:00:00,Ingenieria del Software,ausente,Alumno20
+2024-01-10 21:00:00,Ingenieria del Software,ausente,Alumno21
+2024-01-10 21:00:00,Ingenieria del Software,presente,Alumno22
+2024-01-10 21:00:00,Ingenieria del Software,ausente,Alumno23
+2024-01-10 21:00:00,Ingenieria del Software,tarde,Alumno24
+2024-01-10 21:00:00,Ingenieria del Software,ausente,Alumno25
+2024-01-10 21:00:00,Ingenieria del Software,ausente,Alumno26
+2024-01-10 21:00:00,Ingenieria del Software,presente,Alumno27
+2024-01-10 21:00:00,Ingenieria del Software,ausente,Alumno28
+2024-01-10 21:00:00,Ingenieria del Software,presente,Alumno29
+2024-01-10 21:00:00,Ingenieria del Software,ausente,Alumno30
+2024-01-10 21:00:00,Ingenieria del Software,ausente,Alumno31
+2024-01-10 21:00:00,Ingenieria del Software,ausente,Alumno32
+2024-01-10 21:00:00,Ingenieria del Software,ausente,Alumno33
+2024-01-10 21:00:00,Ingenieria del Software,ausente,Alumno34
+2024-01-10 21:00:00,Ingenieria del Software,presente,Alumno35
+2024-01-10 21:00:00,Ingenieria del Software,tarde,Alumno36
+2024-01-10 21:00:00,Ingenieria del Software,presente,Alumno37
+2024-01-10 21:00:00,Ingenieria del Software,ausente,Alumno38
+2024-01-10 21:00:00,Ingenieria del Software,ausente,Alumno39
+2024-01-10 21:00:00,Ingenieria del Software,ausente,Alumno40
+2024-01-10 21:00:00,Ingenieria del Software,ausente,Alumno41
+2024-01-10 21:00:00,Ingenieria del Software,ausente,Alumno42
+2024-01-10 21:00:00,Ingenieria del Software,ausente,Alumno43
+2024-01-10 21:00:00,Ingenieria del Software,ausente,Alumno44
+2024-01-10 21:00:00,Ingenieria del Software,presente,Alumno45
+2024-01-10 21:00:00,Ingenieria del Software,ausente,Alumno46
+2024-01-10 21:00:00,Ingenieria del Software,ausente,Alumno47
+2024-01-10 21:00:00,Ingenieria del Software,tarde,Alumno48
+2024-01-10 21:00:00,Ingenieria del Software,ausente,Alumno49
+2024-01-10 21:00:00,Ingenieria del Software,tarde,Alumno50
+2024-01-10 23:00:00,Ingenieria del Software,tarde,Alumno1
+2024-01-10 23:00:00,Ingenieria del Software,presente,Alumno2
+2024-01-10 23:00:00,Ingenieria del Software,ausente,Alumno3
+2024-01-10 23:00:00,Ingenieria del Software,presente,Alumno4
+2024-01-10 23:00:00,Ingenieria del Software,ausente,Alumno5
+2024-01-10 23:00:00,Ingenieria del Software,presente,Alumno6
+2024-01-10 23:00:00,Ingenieria del Software,presente,Alumno7
+2024-01-10 23:00:00,Ingenieria del Software,presente,Alumno8
+2024-01-10 23:00:00,Ingenieria del Software,ausente,Alumno9
+2024-01-10 23:00:00,Ingenieria del Software,presente,Alumno10
+2024-01-10 23:00:00,Ingenieria del Software,presente,Alumno11
+2024-01-10 23:00:00,Ingenieria del Software,ausente,Alumno12
+2024-01-10 23:00:00,Ingenieria del Software,ausente,Alumno13
+2024-01-10 23:00:00,Ingenieria del Software,ausente,Alumno14
+2024-01-10 23:00:00,Ingenieria del Software,presente,Alumno15
+2024-01-10 23:00:00,Ingenieria del Software,ausente,Alumno16
+2024-01-10 23:00:00,Ingenieria del Software,ausente,Alumno17
+2024-01-10 23:00:00,Ingenieria del Software,ausente,Alumno18
+2024-01-10 23:00:00,Ingenieria del Software,tarde,Alumno19
+2024-01-10 23:00:00,Ingenieria del Software,ausente,Alumno20
+2024-01-10 23:00:00,Ingenieria del Software,ausente,Alumno21
+2024-01-10 23:00:00,Ingenieria del Software,tarde,Alumno22
+2024-01-10 23:00:00,Ingenieria del Software,ausente,Alumno23
+2024-01-10 23:00:00,Ingenieria del Software,ausente,Alumno24
+2024-01-10 23:00:00,Ingenieria del Software,ausente,Alumno25
+2024-01-10 23:00:00,Ingenieria del Software,ausente,Alumno26
+2024-01-10 23:00:00,Ingenieria del Software,ausente,Alumno27
+2024-01-10 23:00:00,Ingenieria del Software,ausente,Alumno28
+2024-01-10 23:00:00,Ingenieria del Software,tarde,Alumno29
+2024-01-10 23:00:00,Ingenieria del Software,ausente,Alumno30
+2024-01-10 23:00:00,Ingenieria del Software,ausente,Alumno31
+2024-01-10 23:00:00,Ingenieria del Software,ausente,Alumno32
+2024-01-10 23:00:00,Ingenieria del Software,presente,Alumno33
+2024-01-10 23:00:00,Ingenieria del Software,ausente,Alumno34
+2024-01-10 23:00:00,Ingenieria del Software,ausente,Alumno35
+2024-01-10 23:00:00,Ingenieria del Software,presente,Alumno36
+2024-01-10 23:00:00,Ingenieria del Software,presente,Alumno37
+2024-01-10 23:00:00,Ingenieria del Software,ausente,Alumno38
+2024-01-10 23:00:00,Ingenieria del Software,ausente,Alumno39
+2024-01-10 23:00:00,Ingenieria del Software,presente,Alumno40
+2024-01-10 23:00:00,Ingenieria del Software,ausente,Alumno41
+2024-01-10 23:00:00,Ingenieria del Software,ausente,Alumno42
+2024-01-10 23:00:00,Ingenieria del Software,tarde,Alumno43
+2024-01-10 23:00:00,Ingenieria del Software,ausente,Alumno44
+2024-01-10 23:00:00,Ingenieria del Software,ausente,Alumno45
+2024-01-10 23:00:00,Ingenieria del Software,tarde,Alumno46
+2024-01-10 23:00:00,Ingenieria del Software,ausente,Alumno47
+2024-01-10 23:00:00,Ingenieria del Software,ausente,Alumno48
+2024-01-10 23:00:00,Ingenieria del Software,tarde,Alumno49
+2024-01-10 23:00:00,Ingenieria del Software,ausente,Alumno50
+2024-01-11 01:00:00,Big Data,ausente,Alumno1
+2024-01-11 01:00:00,Big Data,presente,Alumno2
+2024-01-11 01:00:00,Big Data,tarde,Alumno3
+2024-01-11 01:00:00,Big Data,ausente,Alumno4
+2024-01-11 01:00:00,Big Data,presente,Alumno5
+2024-01-11 01:00:00,Big Data,ausente,Alumno6
+2024-01-11 01:00:00,Big Data,ausente,Alumno7
+2024-01-11 01:00:00,Big Data,ausente,Alumno8
+2024-01-11 01:00:00,Big Data,tarde,Alumno9
+2024-01-11 01:00:00,Big Data,ausente,Alumno10
+2024-01-11 01:00:00,Big Data,ausente,Alumno11
+2024-01-11 01:00:00,Big Data,ausente,Alumno12
+2024-01-11 01:00:00,Big Data,ausente,Alumno13
+2024-01-11 01:00:00,Big Data,ausente,Alumno14
+2024-01-11 01:00:00,Big Data,ausente,Alumno15
+2024-01-11 01:00:00,Big Data,ausente,Alumno16
+2024-01-11 01:00:00,Big Data,ausente,Alumno17
+2024-01-11 01:00:00,Big Data,ausente,Alumno18
+2024-01-11 01:00:00,Big Data,ausente,Alumno19
+2024-01-11 01:00:00,Big Data,ausente,Alumno20
+2024-01-11 01:00:00,Big Data,presente,Alumno21
+2024-01-11 01:00:00,Big Data,ausente,Alumno22
+2024-01-11 01:00:00,Big Data,ausente,Alumno23
+2024-01-11 01:00:00,Big Data,ausente,Alumno24
+2024-01-11 01:00:00,Big Data,presente,Alumno25
+2024-01-11 01:00:00,Big Data,ausente,Alumno26
+2024-01-11 01:00:00,Big Data,ausente,Alumno27
+2024-01-11 01:00:00,Big Data,ausente,Alumno28
+2024-01-11 01:00:00,Big Data,ausente,Alumno29
+2024-01-11 01:00:00,Big Data,ausente,Alumno30
+2024-01-11 01:00:00,Big Data,ausente,Alumno31
+2024-01-11 01:00:00,Big Data,presente,Alumno32
+2024-01-11 01:00:00,Big Data,tarde,Alumno33
+2024-01-11 01:00:00,Big Data,ausente,Alumno34
+2024-01-11 01:00:00,Big Data,ausente,Alumno35
+2024-01-11 01:00:00,Big Data,tarde,Alumno36
+2024-01-11 01:00:00,Big Data,presente,Alumno37
+2024-01-11 01:00:00,Big Data,ausente,Alumno38
+2024-01-11 01:00:00,Big Data,ausente,Alumno39
+2024-01-11 01:00:00,Big Data,presente,Alumno40
+2024-01-11 01:00:00,Big Data,presente,Alumno41
+2024-01-11 01:00:00,Big Data,ausente,Alumno42
+2024-01-11 01:00:00,Big Data,presente,Alumno43
+2024-01-11 01:00:00,Big Data,ausente,Alumno44
+2024-01-11 01:00:00,Big Data,ausente,Alumno45
+2024-01-11 01:00:00,Big Data,presente,Alumno46
+2024-01-11 01:00:00,Big Data,tarde,Alumno47
+2024-01-11 01:00:00,Big Data,ausente,Alumno48
+2024-01-11 01:00:00,Big Data,ausente,Alumno49
+2024-01-11 01:00:00,Big Data,ausente,Alumno50
+2024-01-11 03:00:00,Empresa y Legislacion,presente,Alumno1
+2024-01-11 03:00:00,Empresa y Legislacion,presente,Alumno2
+2024-01-11 03:00:00,Empresa y Legislacion,ausente,Alumno3
+2024-01-11 03:00:00,Empresa y Legislacion,presente,Alumno4
+2024-01-11 03:00:00,Empresa y Legislacion,ausente,Alumno5
+2024-01-11 03:00:00,Empresa y Legislacion,ausente,Alumno6
+2024-01-11 03:00:00,Empresa y Legislacion,ausente,Alumno7
+2024-01-11 03:00:00,Empresa y Legislacion,ausente,Alumno8
+2024-01-11 03:00:00,Empresa y Legislacion,ausente,Alumno9
+2024-01-11 03:00:00,Empresa y Legislacion,ausente,Alumno10
+2024-01-11 03:00:00,Empresa y Legislacion,presente,Alumno11
+2024-01-11 03:00:00,Empresa y Legislacion,ausente,Alumno12
+2024-01-11 03:00:00,Empresa y Legislacion,ausente,Alumno13
+2024-01-11 03:00:00,Empresa y Legislacion,ausente,Alumno14
+2024-01-11 03:00:00,Empresa y Legislacion,ausente,Alumno15
+2024-01-11 03:00:00,Empresa y Legislacion,ausente,Alumno16
+2024-01-11 03:00:00,Empresa y Legislacion,ausente,Alumno17
+2024-01-11 03:00:00,Empresa y Legislacion,ausente,Alumno18
+2024-01-11 03:00:00,Empresa y Legislacion,ausente,Alumno19
+2024-01-11 03:00:00,Empresa y Legislacion,tarde,Alumno20
+2024-01-11 03:00:00,Empresa y Legislacion,ausente,Alumno21
+2024-01-11 03:00:00,Empresa y Legislacion,ausente,Alumno22
+2024-01-11 03:00:00,Empresa y Legislacion,presente,Alumno23
+2024-01-11 03:00:00,Empresa y Legislacion,tarde,Alumno24
+2024-01-11 03:00:00,Empresa y Legislacion,tarde,Alumno25
+2024-01-11 03:00:00,Empresa y Legislacion,ausente,Alumno26
+2024-01-11 03:00:00,Empresa y Legislacion,ausente,Alumno27
+2024-01-11 03:00:00,Empresa y Legislacion,ausente,Alumno28
+2024-01-11 03:00:00,Empresa y Legislacion,ausente,Alumno29
+2024-01-11 03:00:00,Empresa y Legislacion,presente,Alumno30
+2024-01-11 03:00:00,Empresa y Legislacion,ausente,Alumno31
+2024-01-11 03:00:00,Empresa y Legislacion,ausente,Alumno32
+2024-01-11 03:00:00,Empresa y Legislacion,ausente,Alumno33
+2024-01-11 03:00:00,Empresa y Legislacion,presente,Alumno34
+2024-01-11 03:00:00,Empresa y Legislacion,ausente,Alumno35
+2024-01-11 03:00:00,Empresa y Legislacion,ausente,Alumno36
+2024-01-11 03:00:00,Empresa y Legislacion,ausente,Alumno37
+2024-01-11 03:00:00,Empresa y Legislacion,ausente,Alumno38
+2024-01-11 03:00:00,Empresa y Legislacion,ausente,Alumno39
+2024-01-11 03:00:00,Empresa y Legislacion,tarde,Alumno40
+2024-01-11 03:00:00,Empresa y Legislacion,tarde,Alumno41
+2024-01-11 03:00:00,Empresa y Legislacion,ausente,Alumno42
+2024-01-11 03:00:00,Empresa y Legislacion,ausente,Alumno43
+2024-01-11 03:00:00,Empresa y Legislacion,ausente,Alumno44
+2024-01-11 03:00:00,Empresa y Legislacion,ausente,Alumno45
+2024-01-11 03:00:00,Empresa y Legislacion,ausente,Alumno46
+2024-01-11 03:00:00,Empresa y Legislacion,ausente,Alumno47
+2024-01-11 03:00:00,Empresa y Legislacion,ausente,Alumno48
+2024-01-11 03:00:00,Empresa y Legislacion,ausente,Alumno49
+2024-01-11 03:00:00,Empresa y Legislacion,ausente,Alumno50
+2024-01-11 05:00:00,Ingenieria del Software,ausente,Alumno1
+2024-01-11 05:00:00,Ingenieria del Software,ausente,Alumno2
+2024-01-11 05:00:00,Ingenieria del Software,ausente,Alumno3
+2024-01-11 05:00:00,Ingenieria del Software,ausente,Alumno4
+2024-01-11 05:00:00,Ingenieria del Software,presente,Alumno5
+2024-01-11 05:00:00,Ingenieria del Software,ausente,Alumno6
+2024-01-11 05:00:00,Ingenieria del Software,ausente,Alumno7
+2024-01-11 05:00:00,Ingenieria del Software,ausente,Alumno8
+2024-01-11 05:00:00,Ingenieria del Software,ausente,Alumno9
+2024-01-11 05:00:00,Ingenieria del Software,tarde,Alumno10
+2024-01-11 05:00:00,Ingenieria del Software,tarde,Alumno11
+2024-01-11 05:00:00,Ingenieria del Software,ausente,Alumno12
+2024-01-11 05:00:00,Ingenieria del Software,ausente,Alumno13
+2024-01-11 05:00:00,Ingenieria del Software,presente,Alumno14
+2024-01-11 05:00:00,Ingenieria del Software,tarde,Alumno15
+2024-01-11 05:00:00,Ingenieria del Software,ausente,Alumno16
+2024-01-11 05:00:00,Ingenieria del Software,ausente,Alumno17
+2024-01-11 05:00:00,Ingenieria del Software,presente,Alumno18
+2024-01-11 05:00:00,Ingenieria del Software,presente,Alumno19
+2024-01-11 05:00:00,Ingenieria del Software,ausente,Alumno20
+2024-01-11 05:00:00,Ingenieria del Software,tarde,Alumno21
+2024-01-11 05:00:00,Ingenieria del Software,ausente,Alumno22
+2024-01-11 05:00:00,Ingenieria del Software,tarde,Alumno23
+2024-01-11 05:00:00,Ingenieria del Software,tarde,Alumno24
+2024-01-11 05:00:00,Ingenieria del Software,presente,Alumno25
+2024-01-11 05:00:00,Ingenieria del Software,ausente,Alumno26
+2024-01-11 05:00:00,Ingenieria del Software,tarde,Alumno27
+2024-01-11 05:00:00,Ingenieria del Software,ausente,Alumno28
+2024-01-11 05:00:00,Ingenieria del Software,presente,Alumno29
+2024-01-11 05:00:00,Ingenieria del Software,ausente,Alumno30
+2024-01-11 05:00:00,Ingenieria del Software,ausente,Alumno31
+2024-01-11 05:00:00,Ingenieria del Software,ausente,Alumno32
+2024-01-11 05:00:00,Ingenieria del Software,tarde,Alumno33
+2024-01-11 05:00:00,Ingenieria del Software,ausente,Alumno34
+2024-01-11 05:00:00,Ingenieria del Software,presente,Alumno35
+2024-01-11 05:00:00,Ingenieria del Software,presente,Alumno36
+2024-01-11 05:00:00,Ingenieria del Software,ausente,Alumno37
+2024-01-11 05:00:00,Ingenieria del Software,ausente,Alumno38
+2024-01-11 05:00:00,Ingenieria del Software,ausente,Alumno39
+2024-01-11 05:00:00,Ingenieria del Software,ausente,Alumno40
+2024-01-11 05:00:00,Ingenieria del Software,presente,Alumno41
+2024-01-11 05:00:00,Ingenieria del Software,ausente,Alumno42
+2024-01-11 05:00:00,Ingenieria del Software,ausente,Alumno43
+2024-01-11 05:00:00,Ingenieria del Software,ausente,Alumno44
+2024-01-11 05:00:00,Ingenieria del Software,ausente,Alumno45
+2024-01-11 05:00:00,Ingenieria del Software,tarde,Alumno46
+2024-01-11 05:00:00,Ingenieria del Software,ausente,Alumno47
+2024-01-11 05:00:00,Ingenieria del Software,ausente,Alumno48
+2024-01-11 05:00:00,Ingenieria del Software,ausente,Alumno49
+2024-01-11 05:00:00,Ingenieria del Software,ausente,Alumno50
+2024-01-11 07:00:00,Empresa y Legislacion,ausente,Alumno1
+2024-01-11 07:00:00,Empresa y Legislacion,tarde,Alumno2
+2024-01-11 07:00:00,Empresa y Legislacion,ausente,Alumno3
+2024-01-11 07:00:00,Empresa y Legislacion,tarde,Alumno4
+2024-01-11 07:00:00,Empresa y Legislacion,tarde,Alumno5
+2024-01-11 07:00:00,Empresa y Legislacion,ausente,Alumno6
+2024-01-11 07:00:00,Empresa y Legislacion,ausente,Alumno7
+2024-01-11 07:00:00,Empresa y Legislacion,presente,Alumno8
+2024-01-11 07:00:00,Empresa y Legislacion,presente,Alumno9
+2024-01-11 07:00:00,Empresa y Legislacion,presente,Alumno10
+2024-01-11 07:00:00,Empresa y Legislacion,ausente,Alumno11
+2024-01-11 07:00:00,Empresa y Legislacion,ausente,Alumno12
+2024-01-11 07:00:00,Empresa y Legislacion,tarde,Alumno13
+2024-01-11 07:00:00,Empresa y Legislacion,ausente,Alumno14
+2024-01-11 07:00:00,Empresa y Legislacion,ausente,Alumno15
+2024-01-11 07:00:00,Empresa y Legislacion,ausente,Alumno16
+2024-01-11 07:00:00,Empresa y Legislacion,ausente,Alumno17
+2024-01-11 07:00:00,Empresa y Legislacion,tarde,Alumno18
+2024-01-11 07:00:00,Empresa y Legislacion,ausente,Alumno19
+2024-01-11 07:00:00,Empresa y Legislacion,ausente,Alumno20
+2024-01-11 07:00:00,Empresa y Legislacion,ausente,Alumno21
+2024-01-11 07:00:00,Empresa y Legislacion,ausente,Alumno22
+2024-01-11 07:00:00,Empresa y Legislacion,ausente,Alumno23
+2024-01-11 07:00:00,Empresa y Legislacion,tarde,Alumno24
+2024-01-11 07:00:00,Empresa y Legislacion,tarde,Alumno25
+2024-01-11 07:00:00,Empresa y Legislacion,ausente,Alumno26
+2024-01-11 07:00:00,Empresa y Legislacion,ausente,Alumno27
+2024-01-11 07:00:00,Empresa y Legislacion,presente,Alumno28
+2024-01-11 07:00:00,Empresa y Legislacion,tarde,Alumno29
+2024-01-11 07:00:00,Empresa y Legislacion,ausente,Alumno30
+2024-01-11 07:00:00,Empresa y Legislacion,ausente,Alumno31
+2024-01-11 07:00:00,Empresa y Legislacion,presente,Alumno32
+2024-01-11 07:00:00,Empresa y Legislacion,ausente,Alumno33
+2024-01-11 07:00:00,Empresa y Legislacion,ausente,Alumno34
+2024-01-11 07:00:00,Empresa y Legislacion,ausente,Alumno35
+2024-01-11 07:00:00,Empresa y Legislacion,presente,Alumno36
+2024-01-11 07:00:00,Empresa y Legislacion,ausente,Alumno37
+2024-01-11 07:00:00,Empresa y Legislacion,ausente,Alumno38
+2024-01-11 07:00:00,Empresa y Legislacion,ausente,Alumno39
+2024-01-11 07:00:00,Empresa y Legislacion,presente,Alumno40
+2024-01-11 07:00:00,Empresa y Legislacion,ausente,Alumno41
+2024-01-11 07:00:00,Empresa y Legislacion,ausente,Alumno42
+2024-01-11 07:00:00,Empresa y Legislacion,ausente,Alumno43
+2024-01-11 07:00:00,Empresa y Legislacion,ausente,Alumno44
+2024-01-11 07:00:00,Empresa y Legislacion,ausente,Alumno45
+2024-01-11 07:00:00,Empresa y Legislacion,ausente,Alumno46
+2024-01-11 07:00:00,Empresa y Legislacion,ausente,Alumno47
+2024-01-11 07:00:00,Empresa y Legislacion,ausente,Alumno48
+2024-01-11 07:00:00,Empresa y Legislacion,ausente,Alumno49
+2024-01-11 07:00:00,Empresa y Legislacion,tarde,Alumno50
+2024-01-11 09:00:00,Ingenieria del Software,ausente,Alumno1
+2024-01-11 09:00:00,Ingenieria del Software,presente,Alumno2
+2024-01-11 09:00:00,Ingenieria del Software,tarde,Alumno3
+2024-01-11 09:00:00,Ingenieria del Software,ausente,Alumno4
+2024-01-11 09:00:00,Ingenieria del Software,ausente,Alumno5
+2024-01-11 09:00:00,Ingenieria del Software,tarde,Alumno6
+2024-01-11 09:00:00,Ingenieria del Software,ausente,Alumno7
+2024-01-11 09:00:00,Ingenieria del Software,tarde,Alumno8
+2024-01-11 09:00:00,Ingenieria del Software,ausente,Alumno9
+2024-01-11 09:00:00,Ingenieria del Software,ausente,Alumno10
+2024-01-11 09:00:00,Ingenieria del Software,ausente,Alumno11
+2024-01-11 09:00:00,Ingenieria del Software,ausente,Alumno12
+2024-01-11 09:00:00,Ingenieria del Software,ausente,Alumno13
+2024-01-11 09:00:00,Ingenieria del Software,ausente,Alumno14
+2024-01-11 09:00:00,Ingenieria del Software,ausente,Alumno15
+2024-01-11 09:00:00,Ingenieria del Software,ausente,Alumno16
+2024-01-11 09:00:00,Ingenieria del Software,ausente,Alumno17
+2024-01-11 09:00:00,Ingenieria del Software,ausente,Alumno18
+2024-01-11 09:00:00,Ingenieria del Software,ausente,Alumno19
+2024-01-11 09:00:00,Ingenieria del Software,ausente,Alumno20
+2024-01-11 09:00:00,Ingenieria del Software,ausente,Alumno21
+2024-01-11 09:00:00,Ingenieria del Software,ausente,Alumno22
+2024-01-11 09:00:00,Ingenieria del Software,presente,Alumno23
+2024-01-11 09:00:00,Ingenieria del Software,ausente,Alumno24
+2024-01-11 09:00:00,Ingenieria del Software,presente,Alumno25
+2024-01-11 09:00:00,Ingenieria del Software,tarde,Alumno26
+2024-01-11 09:00:00,Ingenieria del Software,ausente,Alumno27
+2024-01-11 09:00:00,Ingenieria del Software,tarde,Alumno28
+2024-01-11 09:00:00,Ingenieria del Software,ausente,Alumno29
+2024-01-11 09:00:00,Ingenieria del Software,ausente,Alumno30
+2024-01-11 09:00:00,Ingenieria del Software,ausente,Alumno31
+2024-01-11 09:00:00,Ingenieria del Software,ausente,Alumno32
+2024-01-11 09:00:00,Ingenieria del Software,ausente,Alumno33
+2024-01-11 09:00:00,Ingenieria del Software,ausente,Alumno34
+2024-01-11 09:00:00,Ingenieria del Software,ausente,Alumno35
+2024-01-11 09:00:00,Ingenieria del Software,tarde,Alumno36
+2024-01-11 09:00:00,Ingenieria del Software,ausente,Alumno37
+2024-01-11 09:00:00,Ingenieria del Software,ausente,Alumno38
+2024-01-11 09:00:00,Ingenieria del Software,ausente,Alumno39
+2024-01-11 09:00:00,Ingenieria del Software,tarde,Alumno40
+2024-01-11 09:00:00,Ingenieria del Software,ausente,Alumno41
+2024-01-11 09:00:00,Ingenieria del Software,ausente,Alumno42
+2024-01-11 09:00:00,Ingenieria del Software,presente,Alumno43
+2024-01-11 09:00:00,Ingenieria del Software,ausente,Alumno44
+2024-01-11 09:00:00,Ingenieria del Software,ausente,Alumno45
+2024-01-11 09:00:00,Ingenieria del Software,ausente,Alumno46
+2024-01-11 09:00:00,Ingenieria del Software,ausente,Alumno47
+2024-01-11 09:00:00,Ingenieria del Software,ausente,Alumno48
+2024-01-11 09:00:00,Ingenieria del Software,ausente,Alumno49
+2024-01-11 09:00:00,Ingenieria del Software,ausente,Alumno50
+2024-01-11 11:00:00,Administracion de Sistemas,presente,Alumno1
+2024-01-11 11:00:00,Administracion de Sistemas,ausente,Alumno2
+2024-01-11 11:00:00,Administracion de Sistemas,ausente,Alumno3
+2024-01-11 11:00:00,Administracion de Sistemas,ausente,Alumno4
+2024-01-11 11:00:00,Administracion de Sistemas,presente,Alumno5
+2024-01-11 11:00:00,Administracion de Sistemas,ausente,Alumno6
+2024-01-11 11:00:00,Administracion de Sistemas,ausente,Alumno7
+2024-01-11 11:00:00,Administracion de Sistemas,presente,Alumno8
+2024-01-11 11:00:00,Administracion de Sistemas,presente,Alumno9
+2024-01-11 11:00:00,Administracion de Sistemas,ausente,Alumno10
+2024-01-11 11:00:00,Administracion de Sistemas,ausente,Alumno11
+2024-01-11 11:00:00,Administracion de Sistemas,ausente,Alumno12
+2024-01-11 11:00:00,Administracion de Sistemas,ausente,Alumno13
+2024-01-11 11:00:00,Administracion de Sistemas,ausente,Alumno14
+2024-01-11 11:00:00,Administracion de Sistemas,ausente,Alumno15
+2024-01-11 11:00:00,Administracion de Sistemas,tarde,Alumno16
+2024-01-11 11:00:00,Administracion de Sistemas,ausente,Alumno17
+2024-01-11 11:00:00,Administracion de Sistemas,ausente,Alumno18
+2024-01-11 11:00:00,Administracion de Sistemas,ausente,Alumno19
+2024-01-11 11:00:00,Administracion de Sistemas,ausente,Alumno20
+2024-01-11 11:00:00,Administracion de Sistemas,ausente,Alumno21
+2024-01-11 11:00:00,Administracion de Sistemas,tarde,Alumno22
+2024-01-11 11:00:00,Administracion de Sistemas,ausente,Alumno23
+2024-01-11 11:00:00,Administracion de Sistemas,ausente,Alumno24
+2024-01-11 11:00:00,Administracion de Sistemas,ausente,Alumno25
+2024-01-11 11:00:00,Administracion de Sistemas,ausente,Alumno26
+2024-01-11 11:00:00,Administracion de Sistemas,presente,Alumno27
+2024-01-11 11:00:00,Administracion de Sistemas,presente,Alumno28
+2024-01-11 11:00:00,Administracion de Sistemas,tarde,Alumno29
+2024-01-11 11:00:00,Administracion de Sistemas,ausente,Alumno30
+2024-01-11 11:00:00,Administracion de Sistemas,presente,Alumno31
+2024-01-11 11:00:00,Administracion de Sistemas,presente,Alumno32
+2024-01-11 11:00:00,Administracion de Sistemas,ausente,Alumno33
+2024-01-11 11:00:00,Administracion de Sistemas,ausente,Alumno34
+2024-01-11 11:00:00,Administracion de Sistemas,ausente,Alumno35
+2024-01-11 11:00:00,Administracion de Sistemas,ausente,Alumno36
+2024-01-11 11:00:00,Administracion de Sistemas,tarde,Alumno37
+2024-01-11 11:00:00,Administracion de Sistemas,ausente,Alumno38
+2024-01-11 11:00:00,Administracion de Sistemas,ausente,Alumno39
+2024-01-11 11:00:00,Administracion de Sistemas,ausente,Alumno40
+2024-01-11 11:00:00,Administracion de Sistemas,presente,Alumno41
+2024-01-11 11:00:00,Administracion de Sistemas,tarde,Alumno42
+2024-01-11 11:00:00,Administracion de Sistemas,ausente,Alumno43
+2024-01-11 11:00:00,Administracion de Sistemas,tarde,Alumno44
+2024-01-11 11:00:00,Administracion de Sistemas,presente,Alumno45
+2024-01-11 11:00:00,Administracion de Sistemas,ausente,Alumno46
+2024-01-11 11:00:00,Administracion de Sistemas,ausente,Alumno47
+2024-01-11 11:00:00,Administracion de Sistemas,ausente,Alumno48
+2024-01-11 11:00:00,Administracion de Sistemas,ausente,Alumno49
+2024-01-11 11:00:00,Administracion de Sistemas,presente,Alumno50
+2024-01-11 13:00:00,Ingenieria del Software,ausente,Alumno1
+2024-01-11 13:00:00,Ingenieria del Software,presente,Alumno2
+2024-01-11 13:00:00,Ingenieria del Software,presente,Alumno3
+2024-01-11 13:00:00,Ingenieria del Software,presente,Alumno4
+2024-01-11 13:00:00,Ingenieria del Software,ausente,Alumno5
+2024-01-11 13:00:00,Ingenieria del Software,presente,Alumno6
+2024-01-11 13:00:00,Ingenieria del Software,ausente,Alumno7
+2024-01-11 13:00:00,Ingenieria del Software,presente,Alumno8
+2024-01-11 13:00:00,Ingenieria del Software,ausente,Alumno9
+2024-01-11 13:00:00,Ingenieria del Software,ausente,Alumno10
+2024-01-11 13:00:00,Ingenieria del Software,tarde,Alumno11
+2024-01-11 13:00:00,Ingenieria del Software,ausente,Alumno12
+2024-01-11 13:00:00,Ingenieria del Software,presente,Alumno13
+2024-01-11 13:00:00,Ingenieria del Software,ausente,Alumno14
+2024-01-11 13:00:00,Ingenieria del Software,ausente,Alumno15
+2024-01-11 13:00:00,Ingenieria del Software,ausente,Alumno16
+2024-01-11 13:00:00,Ingenieria del Software,tarde,Alumno17
+2024-01-11 13:00:00,Ingenieria del Software,ausente,Alumno18
+2024-01-11 13:00:00,Ingenieria del Software,ausente,Alumno19
+2024-01-11 13:00:00,Ingenieria del Software,tarde,Alumno20
+2024-01-11 13:00:00,Ingenieria del Software,ausente,Alumno21
+2024-01-11 13:00:00,Ingenieria del Software,ausente,Alumno22
+2024-01-11 13:00:00,Ingenieria del Software,ausente,Alumno23
+2024-01-11 13:00:00,Ingenieria del Software,ausente,Alumno24
+2024-01-11 13:00:00,Ingenieria del Software,ausente,Alumno25
+2024-01-11 13:00:00,Ingenieria del Software,ausente,Alumno26
+2024-01-11 13:00:00,Ingenieria del Software,ausente,Alumno27
+2024-01-11 13:00:00,Ingenieria del Software,ausente,Alumno28
+2024-01-11 13:00:00,Ingenieria del Software,presente,Alumno29
+2024-01-11 13:00:00,Ingenieria del Software,ausente,Alumno30
+2024-01-11 13:00:00,Ingenieria del Software,ausente,Alumno31
+2024-01-11 13:00:00,Ingenieria del Software,presente,Alumno32
+2024-01-11 13:00:00,Ingenieria del Software,ausente,Alumno33
+2024-01-11 13:00:00,Ingenieria del Software,ausente,Alumno34
+2024-01-11 13:00:00,Ingenieria del Software,ausente,Alumno35
+2024-01-11 13:00:00,Ingenieria del Software,ausente,Alumno36
+2024-01-11 13:00:00,Ingenieria del Software,ausente,Alumno37
+2024-01-11 13:00:00,Ingenieria del Software,ausente,Alumno38
+2024-01-11 13:00:00,Ingenieria del Software,presente,Alumno39
+2024-01-11 13:00:00,Ingenieria del Software,ausente,Alumno40
+2024-01-11 13:00:00,Ingenieria del Software,ausente,Alumno41
+2024-01-11 13:00:00,Ingenieria del Software,ausente,Alumno42
+2024-01-11 13:00:00,Ingenieria del Software,ausente,Alumno43
+2024-01-11 13:00:00,Ingenieria del Software,ausente,Alumno44
+2024-01-11 13:00:00,Ingenieria del Software,presente,Alumno45
+2024-01-11 13:00:00,Ingenieria del Software,ausente,Alumno46
+2024-01-11 13:00:00,Ingenieria del Software,ausente,Alumno47
+2024-01-11 13:00:00,Ingenieria del Software,ausente,Alumno48
+2024-01-11 13:00:00,Ingenieria del Software,tarde,Alumno49
+2024-01-11 13:00:00,Ingenieria del Software,tarde,Alumno50
+2024-01-11 15:00:00,Administracion de Sistemas,tarde,Alumno1
+2024-01-11 15:00:00,Administracion de Sistemas,presente,Alumno2
+2024-01-11 15:00:00,Administracion de Sistemas,tarde,Alumno3
+2024-01-11 15:00:00,Administracion de Sistemas,ausente,Alumno4
+2024-01-11 15:00:00,Administracion de Sistemas,tarde,Alumno5
+2024-01-11 15:00:00,Administracion de Sistemas,ausente,Alumno6
+2024-01-11 15:00:00,Administracion de Sistemas,ausente,Alumno7
+2024-01-11 15:00:00,Administracion de Sistemas,ausente,Alumno8
+2024-01-11 15:00:00,Administracion de Sistemas,tarde,Alumno9
+2024-01-11 15:00:00,Administracion de Sistemas,ausente,Alumno10
+2024-01-11 15:00:00,Administracion de Sistemas,tarde,Alumno11
+2024-01-11 15:00:00,Administracion de Sistemas,ausente,Alumno12
+2024-01-11 15:00:00,Administracion de Sistemas,ausente,Alumno13
+2024-01-11 15:00:00,Administracion de Sistemas,ausente,Alumno14
+2024-01-11 15:00:00,Administracion de Sistemas,ausente,Alumno15
+2024-01-11 15:00:00,Administracion de Sistemas,ausente,Alumno16
+2024-01-11 15:00:00,Administracion de Sistemas,ausente,Alumno17
+2024-01-11 15:00:00,Administracion de Sistemas,ausente,Alumno18
+2024-01-11 15:00:00,Administracion de Sistemas,ausente,Alumno19
+2024-01-11 15:00:00,Administracion de Sistemas,ausente,Alumno20
+2024-01-11 15:00:00,Administracion de Sistemas,tarde,Alumno21
+2024-01-11 15:00:00,Administracion de Sistemas,ausente,Alumno22
+2024-01-11 15:00:00,Administracion de Sistemas,tarde,Alumno23
+2024-01-11 15:00:00,Administracion de Sistemas,ausente,Alumno24
+2024-01-11 15:00:00,Administracion de Sistemas,ausente,Alumno25
+2024-01-11 15:00:00,Administracion de Sistemas,ausente,Alumno26
+2024-01-11 15:00:00,Administracion de Sistemas,ausente,Alumno27
+2024-01-11 15:00:00,Administracion de Sistemas,ausente,Alumno28
+2024-01-11 15:00:00,Administracion de Sistemas,ausente,Alumno29
+2024-01-11 15:00:00,Administracion de Sistemas,ausente,Alumno30
+2024-01-11 15:00:00,Administracion de Sistemas,ausente,Alumno31
+2024-01-11 15:00:00,Administracion de Sistemas,ausente,Alumno32
+2024-01-11 15:00:00,Administracion de Sistemas,ausente,Alumno33
+2024-01-11 15:00:00,Administracion de Sistemas,ausente,Alumno34
+2024-01-11 15:00:00,Administracion de Sistemas,ausente,Alumno35
+2024-01-11 15:00:00,Administracion de Sistemas,ausente,Alumno36
+2024-01-11 15:00:00,Administracion de Sistemas,ausente,Alumno37
+2024-01-11 15:00:00,Administracion de Sistemas,ausente,Alumno38
+2024-01-11 15:00:00,Administracion de Sistemas,ausente,Alumno39
+2024-01-11 15:00:00,Administracion de Sistemas,ausente,Alumno40
+2024-01-11 15:00:00,Administracion de Sistemas,tarde,Alumno41
+2024-01-11 15:00:00,Administracion de Sistemas,ausente,Alumno42
+2024-01-11 15:00:00,Administracion de Sistemas,ausente,Alumno43
+2024-01-11 15:00:00,Administracion de Sistemas,ausente,Alumno44
+2024-01-11 15:00:00,Administracion de Sistemas,ausente,Alumno45
+2024-01-11 15:00:00,Administracion de Sistemas,presente,Alumno46
+2024-01-11 15:00:00,Administracion de Sistemas,ausente,Alumno47
+2024-01-11 15:00:00,Administracion de Sistemas,ausente,Alumno48
+2024-01-11 15:00:00,Administracion de Sistemas,presente,Alumno49
+2024-01-11 15:00:00,Administracion de Sistemas,tarde,Alumno50
+2024-01-11 17:00:00,Empresa y Legislacion,tarde,Alumno1
+2024-01-11 17:00:00,Empresa y Legislacion,ausente,Alumno2
+2024-01-11 17:00:00,Empresa y Legislacion,ausente,Alumno3
+2024-01-11 17:00:00,Empresa y Legislacion,ausente,Alumno4
+2024-01-11 17:00:00,Empresa y Legislacion,tarde,Alumno5
+2024-01-11 17:00:00,Empresa y Legislacion,ausente,Alumno6
+2024-01-11 17:00:00,Empresa y Legislacion,tarde,Alumno7
+2024-01-11 17:00:00,Empresa y Legislacion,ausente,Alumno8
+2024-01-11 17:00:00,Empresa y Legislacion,ausente,Alumno9
+2024-01-11 17:00:00,Empresa y Legislacion,presente,Alumno10
+2024-01-11 17:00:00,Empresa y Legislacion,presente,Alumno11
+2024-01-11 17:00:00,Empresa y Legislacion,ausente,Alumno12
+2024-01-11 17:00:00,Empresa y Legislacion,presente,Alumno13
+2024-01-11 17:00:00,Empresa y Legislacion,ausente,Alumno14
+2024-01-11 17:00:00,Empresa y Legislacion,ausente,Alumno15
+2024-01-11 17:00:00,Empresa y Legislacion,ausente,Alumno16
+2024-01-11 17:00:00,Empresa y Legislacion,ausente,Alumno17
+2024-01-11 17:00:00,Empresa y Legislacion,tarde,Alumno18
+2024-01-11 17:00:00,Empresa y Legislacion,presente,Alumno19
+2024-01-11 17:00:00,Empresa y Legislacion,ausente,Alumno20
+2024-01-11 17:00:00,Empresa y Legislacion,tarde,Alumno21
+2024-01-11 17:00:00,Empresa y Legislacion,tarde,Alumno22
+2024-01-11 17:00:00,Empresa y Legislacion,ausente,Alumno23
+2024-01-11 17:00:00,Empresa y Legislacion,ausente,Alumno24
+2024-01-11 17:00:00,Empresa y Legislacion,tarde,Alumno25
+2024-01-11 17:00:00,Empresa y Legislacion,ausente,Alumno26
+2024-01-11 17:00:00,Empresa y Legislacion,ausente,Alumno27
+2024-01-11 17:00:00,Empresa y Legislacion,tarde,Alumno28
+2024-01-11 17:00:00,Empresa y Legislacion,presente,Alumno29
+2024-01-11 17:00:00,Empresa y Legislacion,tarde,Alumno30
+2024-01-11 17:00:00,Empresa y Legislacion,ausente,Alumno31
+2024-01-11 17:00:00,Empresa y Legislacion,tarde,Alumno32
+2024-01-11 17:00:00,Empresa y Legislacion,ausente,Alumno33
+2024-01-11 17:00:00,Empresa y Legislacion,ausente,Alumno34
+2024-01-11 17:00:00,Empresa y Legislacion,presente,Alumno35
+2024-01-11 17:00:00,Empresa y Legislacion,ausente,Alumno36
+2024-01-11 17:00:00,Empresa y Legislacion,ausente,Alumno37
+2024-01-11 17:00:00,Empresa y Legislacion,ausente,Alumno38
+2024-01-11 17:00:00,Empresa y Legislacion,tarde,Alumno39
+2024-01-11 17:00:00,Empresa y Legislacion,presente,Alumno40
+2024-01-11 17:00:00,Empresa y Legislacion,presente,Alumno41
+2024-01-11 17:00:00,Empresa y Legislacion,ausente,Alumno42
+2024-01-11 17:00:00,Empresa y Legislacion,ausente,Alumno43
+2024-01-11 17:00:00,Empresa y Legislacion,ausente,Alumno44
+2024-01-11 17:00:00,Empresa y Legislacion,ausente,Alumno45
+2024-01-11 17:00:00,Empresa y Legislacion,ausente,Alumno46
+2024-01-11 17:00:00,Empresa y Legislacion,ausente,Alumno47
+2024-01-11 17:00:00,Empresa y Legislacion,ausente,Alumno48
+2024-01-11 17:00:00,Empresa y Legislacion,ausente,Alumno49
+2024-01-11 17:00:00,Empresa y Legislacion,ausente,Alumno50
+2024-01-11 19:00:00,Empresa y Legislacion,ausente,Alumno1
+2024-01-11 19:00:00,Empresa y Legislacion,ausente,Alumno2
+2024-01-11 19:00:00,Empresa y Legislacion,ausente,Alumno3
+2024-01-11 19:00:00,Empresa y Legislacion,presente,Alumno4
+2024-01-11 19:00:00,Empresa y Legislacion,ausente,Alumno5
+2024-01-11 19:00:00,Empresa y Legislacion,ausente,Alumno6
+2024-01-11 19:00:00,Empresa y Legislacion,ausente,Alumno7
+2024-01-11 19:00:00,Empresa y Legislacion,ausente,Alumno8
+2024-01-11 19:00:00,Empresa y Legislacion,presente,Alumno9
+2024-01-11 19:00:00,Empresa y Legislacion,ausente,Alumno10
+2024-01-11 19:00:00,Empresa y Legislacion,ausente,Alumno11
+2024-01-11 19:00:00,Empresa y Legislacion,presente,Alumno12
+2024-01-11 19:00:00,Empresa y Legislacion,ausente,Alumno13
+2024-01-11 19:00:00,Empresa y Legislacion,ausente,Alumno14
+2024-01-11 19:00:00,Empresa y Legislacion,ausente,Alumno15
+2024-01-11 19:00:00,Empresa y Legislacion,ausente,Alumno16
+2024-01-11 19:00:00,Empresa y Legislacion,ausente,Alumno17
+2024-01-11 19:00:00,Empresa y Legislacion,ausente,Alumno18
+2024-01-11 19:00:00,Empresa y Legislacion,ausente,Alumno19
+2024-01-11 19:00:00,Empresa y Legislacion,ausente,Alumno20
+2024-01-11 19:00:00,Empresa y Legislacion,ausente,Alumno21
+2024-01-11 19:00:00,Empresa y Legislacion,ausente,Alumno22
+2024-01-11 19:00:00,Empresa y Legislacion,ausente,Alumno23
+2024-01-11 19:00:00,Empresa y Legislacion,ausente,Alumno24
+2024-01-11 19:00:00,Empresa y Legislacion,ausente,Alumno25
+2024-01-11 19:00:00,Empresa y Legislacion,ausente,Alumno26
+2024-01-11 19:00:00,Empresa y Legislacion,tarde,Alumno27
+2024-01-11 19:00:00,Empresa y Legislacion,ausente,Alumno28
+2024-01-11 19:00:00,Empresa y Legislacion,ausente,Alumno29
+2024-01-11 19:00:00,Empresa y Legislacion,ausente,Alumno30
+2024-01-11 19:00:00,Empresa y Legislacion,ausente,Alumno31
+2024-01-11 19:00:00,Empresa y Legislacion,ausente,Alumno32
+2024-01-11 19:00:00,Empresa y Legislacion,tarde,Alumno33
+2024-01-11 19:00:00,Empresa y Legislacion,ausente,Alumno34
+2024-01-11 19:00:00,Empresa y Legislacion,ausente,Alumno35
+2024-01-11 19:00:00,Empresa y Legislacion,ausente,Alumno36
+2024-01-11 19:00:00,Empresa y Legislacion,ausente,Alumno37
+2024-01-11 19:00:00,Empresa y Legislacion,ausente,Alumno38
+2024-01-11 19:00:00,Empresa y Legislacion,ausente,Alumno39
+2024-01-11 19:00:00,Empresa y Legislacion,ausente,Alumno40
+2024-01-11 19:00:00,Empresa y Legislacion,ausente,Alumno41
+2024-01-11 19:00:00,Empresa y Legislacion,ausente,Alumno42
+2024-01-11 19:00:00,Empresa y Legislacion,ausente,Alumno43
+2024-01-11 19:00:00,Empresa y Legislacion,ausente,Alumno44
+2024-01-11 19:00:00,Empresa y Legislacion,ausente,Alumno45
+2024-01-11 19:00:00,Empresa y Legislacion,ausente,Alumno46
+2024-01-11 19:00:00,Empresa y Legislacion,ausente,Alumno47
+2024-01-11 19:00:00,Empresa y Legislacion,ausente,Alumno48
+2024-01-11 19:00:00,Empresa y Legislacion,ausente,Alumno49
+2024-01-11 19:00:00,Empresa y Legislacion,ausente,Alumno50
+2024-01-11 21:00:00,Administracion de Sistemas,tarde,Alumno1
+2024-01-11 21:00:00,Administracion de Sistemas,ausente,Alumno2
+2024-01-11 21:00:00,Administracion de Sistemas,ausente,Alumno3
+2024-01-11 21:00:00,Administracion de Sistemas,ausente,Alumno4
+2024-01-11 21:00:00,Administracion de Sistemas,tarde,Alumno5
+2024-01-11 21:00:00,Administracion de Sistemas,ausente,Alumno6
+2024-01-11 21:00:00,Administracion de Sistemas,ausente,Alumno7
+2024-01-11 21:00:00,Administracion de Sistemas,ausente,Alumno8
+2024-01-11 21:00:00,Administracion de Sistemas,tarde,Alumno9
+2024-01-11 21:00:00,Administracion de Sistemas,ausente,Alumno10
+2024-01-11 21:00:00,Administracion de Sistemas,tarde,Alumno11
+2024-01-11 21:00:00,Administracion de Sistemas,ausente,Alumno12
+2024-01-11 21:00:00,Administracion de Sistemas,ausente,Alumno13
+2024-01-11 21:00:00,Administracion de Sistemas,ausente,Alumno14
+2024-01-11 21:00:00,Administracion de Sistemas,ausente,Alumno15
+2024-01-11 21:00:00,Administracion de Sistemas,presente,Alumno16
+2024-01-11 21:00:00,Administracion de Sistemas,ausente,Alumno17
+2024-01-11 21:00:00,Administracion de Sistemas,ausente,Alumno18
+2024-01-11 21:00:00,Administracion de Sistemas,ausente,Alumno19
+2024-01-11 21:00:00,Administracion de Sistemas,tarde,Alumno20
+2024-01-11 21:00:00,Administracion de Sistemas,presente,Alumno21
+2024-01-11 21:00:00,Administracion de Sistemas,ausente,Alumno22
+2024-01-11 21:00:00,Administracion de Sistemas,ausente,Alumno23
+2024-01-11 21:00:00,Administracion de Sistemas,presente,Alumno24
+2024-01-11 21:00:00,Administracion de Sistemas,ausente,Alumno25
+2024-01-11 21:00:00,Administracion de Sistemas,ausente,Alumno26
+2024-01-11 21:00:00,Administracion de Sistemas,ausente,Alumno27
+2024-01-11 21:00:00,Administracion de Sistemas,ausente,Alumno28
+2024-01-11 21:00:00,Administracion de Sistemas,ausente,Alumno29
+2024-01-11 21:00:00,Administracion de Sistemas,ausente,Alumno30
+2024-01-11 21:00:00,Administracion de Sistemas,tarde,Alumno31
+2024-01-11 21:00:00,Administracion de Sistemas,ausente,Alumno32
+2024-01-11 21:00:00,Administracion de Sistemas,ausente,Alumno33
+2024-01-11 21:00:00,Administracion de Sistemas,ausente,Alumno34
+2024-01-11 21:00:00,Administracion de Sistemas,ausente,Alumno35
+2024-01-11 21:00:00,Administracion de Sistemas,ausente,Alumno36
+2024-01-11 21:00:00,Administracion de Sistemas,ausente,Alumno37
+2024-01-11 21:00:00,Administracion de Sistemas,ausente,Alumno38
+2024-01-11 21:00:00,Administracion de Sistemas,ausente,Alumno39
+2024-01-11 21:00:00,Administracion de Sistemas,ausente,Alumno40
+2024-01-11 21:00:00,Administracion de Sistemas,ausente,Alumno41
+2024-01-11 21:00:00,Administracion de Sistemas,ausente,Alumno42
+2024-01-11 21:00:00,Administracion de Sistemas,ausente,Alumno43
+2024-01-11 21:00:00,Administracion de Sistemas,tarde,Alumno44
+2024-01-11 21:00:00,Administracion de Sistemas,ausente,Alumno45
+2024-01-11 21:00:00,Administracion de Sistemas,ausente,Alumno46
+2024-01-11 21:00:00,Administracion de Sistemas,ausente,Alumno47
+2024-01-11 21:00:00,Administracion de Sistemas,ausente,Alumno48
+2024-01-11 21:00:00,Administracion de Sistemas,presente,Alumno49
+2024-01-11 21:00:00,Administracion de Sistemas,presente,Alumno50
+2024-01-11 23:00:00,Ingenieria del Software,ausente,Alumno1
+2024-01-11 23:00:00,Ingenieria del Software,ausente,Alumno2
+2024-01-11 23:00:00,Ingenieria del Software,ausente,Alumno3
+2024-01-11 23:00:00,Ingenieria del Software,ausente,Alumno4
+2024-01-11 23:00:00,Ingenieria del Software,ausente,Alumno5
+2024-01-11 23:00:00,Ingenieria del Software,tarde,Alumno6
+2024-01-11 23:00:00,Ingenieria del Software,ausente,Alumno7
+2024-01-11 23:00:00,Ingenieria del Software,ausente,Alumno8
+2024-01-11 23:00:00,Ingenieria del Software,ausente,Alumno9
+2024-01-11 23:00:00,Ingenieria del Software,ausente,Alumno10
+2024-01-11 23:00:00,Ingenieria del Software,ausente,Alumno11
+2024-01-11 23:00:00,Ingenieria del Software,tarde,Alumno12
+2024-01-11 23:00:00,Ingenieria del Software,ausente,Alumno13
+2024-01-11 23:00:00,Ingenieria del Software,ausente,Alumno14
+2024-01-11 23:00:00,Ingenieria del Software,tarde,Alumno15
+2024-01-11 23:00:00,Ingenieria del Software,presente,Alumno16
+2024-01-11 23:00:00,Ingenieria del Software,ausente,Alumno17
+2024-01-11 23:00:00,Ingenieria del Software,presente,Alumno18
+2024-01-11 23:00:00,Ingenieria del Software,presente,Alumno19
+2024-01-11 23:00:00,Ingenieria del Software,ausente,Alumno20
+2024-01-11 23:00:00,Ingenieria del Software,presente,Alumno21
+2024-01-11 23:00:00,Ingenieria del Software,ausente,Alumno22
+2024-01-11 23:00:00,Ingenieria del Software,tarde,Alumno23
+2024-01-11 23:00:00,Ingenieria del Software,ausente,Alumno24
+2024-01-11 23:00:00,Ingenieria del Software,ausente,Alumno25
+2024-01-11 23:00:00,Ingenieria del Software,ausente,Alumno26
+2024-01-11 23:00:00,Ingenieria del Software,ausente,Alumno27
+2024-01-11 23:00:00,Ingenieria del Software,ausente,Alumno28
+2024-01-11 23:00:00,Ingenieria del Software,ausente,Alumno29
+2024-01-11 23:00:00,Ingenieria del Software,ausente,Alumno30
+2024-01-11 23:00:00,Ingenieria del Software,ausente,Alumno31
+2024-01-11 23:00:00,Ingenieria del Software,ausente,Alumno32
+2024-01-11 23:00:00,Ingenieria del Software,ausente,Alumno33
+2024-01-11 23:00:00,Ingenieria del Software,ausente,Alumno34
+2024-01-11 23:00:00,Ingenieria del Software,tarde,Alumno35
+2024-01-11 23:00:00,Ingenieria del Software,ausente,Alumno36
+2024-01-11 23:00:00,Ingenieria del Software,ausente,Alumno37
+2024-01-11 23:00:00,Ingenieria del Software,ausente,Alumno38
+2024-01-11 23:00:00,Ingenieria del Software,ausente,Alumno39
+2024-01-11 23:00:00,Ingenieria del Software,ausente,Alumno40
+2024-01-11 23:00:00,Ingenieria del Software,ausente,Alumno41
+2024-01-11 23:00:00,Ingenieria del Software,tarde,Alumno42
+2024-01-11 23:00:00,Ingenieria del Software,presente,Alumno43
+2024-01-11 23:00:00,Ingenieria del Software,ausente,Alumno44
+2024-01-11 23:00:00,Ingenieria del Software,ausente,Alumno45
+2024-01-11 23:00:00,Ingenieria del Software,tarde,Alumno46
+2024-01-11 23:00:00,Ingenieria del Software,ausente,Alumno47
+2024-01-11 23:00:00,Ingenieria del Software,presente,Alumno48
+2024-01-11 23:00:00,Ingenieria del Software,presente,Alumno49
+2024-01-11 23:00:00,Ingenieria del Software,ausente,Alumno50
+2024-01-12 01:00:00,Big Data,tarde,Alumno1
+2024-01-12 01:00:00,Big Data,ausente,Alumno2
+2024-01-12 01:00:00,Big Data,presente,Alumno3
+2024-01-12 01:00:00,Big Data,ausente,Alumno4
+2024-01-12 01:00:00,Big Data,ausente,Alumno5
+2024-01-12 01:00:00,Big Data,ausente,Alumno6
+2024-01-12 01:00:00,Big Data,ausente,Alumno7
+2024-01-12 01:00:00,Big Data,ausente,Alumno8
+2024-01-12 01:00:00,Big Data,ausente,Alumno9
+2024-01-12 01:00:00,Big Data,ausente,Alumno10
+2024-01-12 01:00:00,Big Data,presente,Alumno11
+2024-01-12 01:00:00,Big Data,presente,Alumno12
+2024-01-12 01:00:00,Big Data,presente,Alumno13
+2024-01-12 01:00:00,Big Data,ausente,Alumno14
+2024-01-12 01:00:00,Big Data,ausente,Alumno15
+2024-01-12 01:00:00,Big Data,ausente,Alumno16
+2024-01-12 01:00:00,Big Data,ausente,Alumno17
+2024-01-12 01:00:00,Big Data,presente,Alumno18
+2024-01-12 01:00:00,Big Data,ausente,Alumno19
+2024-01-12 01:00:00,Big Data,presente,Alumno20
+2024-01-12 01:00:00,Big Data,ausente,Alumno21
+2024-01-12 01:00:00,Big Data,ausente,Alumno22
+2024-01-12 01:00:00,Big Data,ausente,Alumno23
+2024-01-12 01:00:00,Big Data,ausente,Alumno24
+2024-01-12 01:00:00,Big Data,tarde,Alumno25
+2024-01-12 01:00:00,Big Data,ausente,Alumno26
+2024-01-12 01:00:00,Big Data,ausente,Alumno27
+2024-01-12 01:00:00,Big Data,ausente,Alumno28
+2024-01-12 01:00:00,Big Data,ausente,Alumno29
+2024-01-12 01:00:00,Big Data,ausente,Alumno30
+2024-01-12 01:00:00,Big Data,presente,Alumno31
+2024-01-12 01:00:00,Big Data,ausente,Alumno32
+2024-01-12 01:00:00,Big Data,ausente,Alumno33
+2024-01-12 01:00:00,Big Data,tarde,Alumno34
+2024-01-12 01:00:00,Big Data,tarde,Alumno35
+2024-01-12 01:00:00,Big Data,ausente,Alumno36
+2024-01-12 01:00:00,Big Data,tarde,Alumno37
+2024-01-12 01:00:00,Big Data,ausente,Alumno38
+2024-01-12 01:00:00,Big Data,presente,Alumno39
+2024-01-12 01:00:00,Big Data,tarde,Alumno40
+2024-01-12 01:00:00,Big Data,ausente,Alumno41
+2024-01-12 01:00:00,Big Data,presente,Alumno42
+2024-01-12 01:00:00,Big Data,ausente,Alumno43
+2024-01-12 01:00:00,Big Data,tarde,Alumno44
+2024-01-12 01:00:00,Big Data,ausente,Alumno45
+2024-01-12 01:00:00,Big Data,ausente,Alumno46
+2024-01-12 01:00:00,Big Data,ausente,Alumno47
+2024-01-12 01:00:00,Big Data,ausente,Alumno48
+2024-01-12 01:00:00,Big Data,ausente,Alumno49
+2024-01-12 01:00:00,Big Data,ausente,Alumno50
+2024-01-12 03:00:00,Empresa y Legislacion,ausente,Alumno1
+2024-01-12 03:00:00,Empresa y Legislacion,ausente,Alumno2
+2024-01-12 03:00:00,Empresa y Legislacion,ausente,Alumno3
+2024-01-12 03:00:00,Empresa y Legislacion,ausente,Alumno4
+2024-01-12 03:00:00,Empresa y Legislacion,ausente,Alumno5
+2024-01-12 03:00:00,Empresa y Legislacion,ausente,Alumno6
+2024-01-12 03:00:00,Empresa y Legislacion,ausente,Alumno7
+2024-01-12 03:00:00,Empresa y Legislacion,tarde,Alumno8
+2024-01-12 03:00:00,Empresa y Legislacion,tarde,Alumno9
+2024-01-12 03:00:00,Empresa y Legislacion,ausente,Alumno10
+2024-01-12 03:00:00,Empresa y Legislacion,ausente,Alumno11
+2024-01-12 03:00:00,Empresa y Legislacion,ausente,Alumno12
+2024-01-12 03:00:00,Empresa y Legislacion,ausente,Alumno13
+2024-01-12 03:00:00,Empresa y Legislacion,tarde,Alumno14
+2024-01-12 03:00:00,Empresa y Legislacion,ausente,Alumno15
+2024-01-12 03:00:00,Empresa y Legislacion,ausente,Alumno16
+2024-01-12 03:00:00,Empresa y Legislacion,ausente,Alumno17
+2024-01-12 03:00:00,Empresa y Legislacion,ausente,Alumno18
+2024-01-12 03:00:00,Empresa y Legislacion,ausente,Alumno19
+2024-01-12 03:00:00,Empresa y Legislacion,ausente,Alumno20
+2024-01-12 03:00:00,Empresa y Legislacion,tarde,Alumno21
+2024-01-12 03:00:00,Empresa y Legislacion,ausente,Alumno22
+2024-01-12 03:00:00,Empresa y Legislacion,presente,Alumno23
+2024-01-12 03:00:00,Empresa y Legislacion,tarde,Alumno24
+2024-01-12 03:00:00,Empresa y Legislacion,ausente,Alumno25
+2024-01-12 03:00:00,Empresa y Legislacion,ausente,Alumno26
+2024-01-12 03:00:00,Empresa y Legislacion,ausente,Alumno27
+2024-01-12 03:00:00,Empresa y Legislacion,ausente,Alumno28
+2024-01-12 03:00:00,Empresa y Legislacion,ausente,Alumno29
+2024-01-12 03:00:00,Empresa y Legislacion,ausente,Alumno30
+2024-01-12 03:00:00,Empresa y Legislacion,tarde,Alumno31
+2024-01-12 03:00:00,Empresa y Legislacion,ausente,Alumno32
+2024-01-12 03:00:00,Empresa y Legislacion,ausente,Alumno33
+2024-01-12 03:00:00,Empresa y Legislacion,ausente,Alumno34
+2024-01-12 03:00:00,Empresa y Legislacion,ausente,Alumno35
+2024-01-12 03:00:00,Empresa y Legislacion,ausente,Alumno36
+2024-01-12 03:00:00,Empresa y Legislacion,presente,Alumno37
+2024-01-12 03:00:00,Empresa y Legislacion,tarde,Alumno38
+2024-01-12 03:00:00,Empresa y Legislacion,tarde,Alumno39
+2024-01-12 03:00:00,Empresa y Legislacion,ausente,Alumno40
+2024-01-12 03:00:00,Empresa y Legislacion,ausente,Alumno41
+2024-01-12 03:00:00,Empresa y Legislacion,tarde,Alumno42
+2024-01-12 03:00:00,Empresa y Legislacion,presente,Alumno43
+2024-01-12 03:00:00,Empresa y Legislacion,ausente,Alumno44
+2024-01-12 03:00:00,Empresa y Legislacion,ausente,Alumno45
+2024-01-12 03:00:00,Empresa y Legislacion,presente,Alumno46
+2024-01-12 03:00:00,Empresa y Legislacion,ausente,Alumno47
+2024-01-12 03:00:00,Empresa y Legislacion,presente,Alumno48
+2024-01-12 03:00:00,Empresa y Legislacion,tarde,Alumno49
+2024-01-12 03:00:00,Empresa y Legislacion,ausente,Alumno50
+2024-01-12 05:00:00,Administracion de Sistemas,ausente,Alumno1
+2024-01-12 05:00:00,Administracion de Sistemas,ausente,Alumno2
+2024-01-12 05:00:00,Administracion de Sistemas,tarde,Alumno3
+2024-01-12 05:00:00,Administracion de Sistemas,ausente,Alumno4
+2024-01-12 05:00:00,Administracion de Sistemas,ausente,Alumno5
+2024-01-12 05:00:00,Administracion de Sistemas,ausente,Alumno6
+2024-01-12 05:00:00,Administracion de Sistemas,ausente,Alumno7
+2024-01-12 05:00:00,Administracion de Sistemas,ausente,Alumno8
+2024-01-12 05:00:00,Administracion de Sistemas,ausente,Alumno9
+2024-01-12 05:00:00,Administracion de Sistemas,presente,Alumno10
+2024-01-12 05:00:00,Administracion de Sistemas,ausente,Alumno11
+2024-01-12 05:00:00,Administracion de Sistemas,presente,Alumno12
+2024-01-12 05:00:00,Administracion de Sistemas,ausente,Alumno13
+2024-01-12 05:00:00,Administracion de Sistemas,ausente,Alumno14
+2024-01-12 05:00:00,Administracion de Sistemas,ausente,Alumno15
+2024-01-12 05:00:00,Administracion de Sistemas,presente,Alumno16
+2024-01-12 05:00:00,Administracion de Sistemas,ausente,Alumno17
+2024-01-12 05:00:00,Administracion de Sistemas,ausente,Alumno18
+2024-01-12 05:00:00,Administracion de Sistemas,presente,Alumno19
+2024-01-12 05:00:00,Administracion de Sistemas,presente,Alumno20
+2024-01-12 05:00:00,Administracion de Sistemas,ausente,Alumno21
+2024-01-12 05:00:00,Administracion de Sistemas,ausente,Alumno22
+2024-01-12 05:00:00,Administracion de Sistemas,tarde,Alumno23
+2024-01-12 05:00:00,Administracion de Sistemas,presente,Alumno24
+2024-01-12 05:00:00,Administracion de Sistemas,presente,Alumno25
+2024-01-12 05:00:00,Administracion de Sistemas,ausente,Alumno26
+2024-01-12 05:00:00,Administracion de Sistemas,tarde,Alumno27
+2024-01-12 05:00:00,Administracion de Sistemas,ausente,Alumno28
+2024-01-12 05:00:00,Administracion de Sistemas,tarde,Alumno29
+2024-01-12 05:00:00,Administracion de Sistemas,ausente,Alumno30
+2024-01-12 05:00:00,Administracion de Sistemas,tarde,Alumno31
+2024-01-12 05:00:00,Administracion de Sistemas,presente,Alumno32
+2024-01-12 05:00:00,Administracion de Sistemas,ausente,Alumno33
+2024-01-12 05:00:00,Administracion de Sistemas,ausente,Alumno34
+2024-01-12 05:00:00,Administracion de Sistemas,ausente,Alumno35
+2024-01-12 05:00:00,Administracion de Sistemas,ausente,Alumno36
+2024-01-12 05:00:00,Administracion de Sistemas,ausente,Alumno37
+2024-01-12 05:00:00,Administracion de Sistemas,tarde,Alumno38
+2024-01-12 05:00:00,Administracion de Sistemas,presente,Alumno39
+2024-01-12 05:00:00,Administracion de Sistemas,presente,Alumno40
+2024-01-12 05:00:00,Administracion de Sistemas,ausente,Alumno41
+2024-01-12 05:00:00,Administracion de Sistemas,tarde,Alumno42
+2024-01-12 05:00:00,Administracion de Sistemas,ausente,Alumno43
+2024-01-12 05:00:00,Administracion de Sistemas,ausente,Alumno44
+2024-01-12 05:00:00,Administracion de Sistemas,ausente,Alumno45
+2024-01-12 05:00:00,Administracion de Sistemas,ausente,Alumno46
+2024-01-12 05:00:00,Administracion de Sistemas,tarde,Alumno47
+2024-01-12 05:00:00,Administracion de Sistemas,ausente,Alumno48
+2024-01-12 05:00:00,Administracion de Sistemas,ausente,Alumno49
+2024-01-12 05:00:00,Administracion de Sistemas,ausente,Alumno50
+2024-01-12 07:00:00,Big Data,ausente,Alumno1
+2024-01-12 07:00:00,Big Data,ausente,Alumno2
+2024-01-12 07:00:00,Big Data,ausente,Alumno3
+2024-01-12 07:00:00,Big Data,ausente,Alumno4
+2024-01-12 07:00:00,Big Data,ausente,Alumno5
+2024-01-12 07:00:00,Big Data,ausente,Alumno6
+2024-01-12 07:00:00,Big Data,ausente,Alumno7
+2024-01-12 07:00:00,Big Data,tarde,Alumno8
+2024-01-12 07:00:00,Big Data,ausente,Alumno9
+2024-01-12 07:00:00,Big Data,ausente,Alumno10
+2024-01-12 07:00:00,Big Data,ausente,Alumno11
+2024-01-12 07:00:00,Big Data,presente,Alumno12
+2024-01-12 07:00:00,Big Data,ausente,Alumno13
+2024-01-12 07:00:00,Big Data,ausente,Alumno14
+2024-01-12 07:00:00,Big Data,ausente,Alumno15
+2024-01-12 07:00:00,Big Data,ausente,Alumno16
+2024-01-12 07:00:00,Big Data,ausente,Alumno17
+2024-01-12 07:00:00,Big Data,ausente,Alumno18
+2024-01-12 07:00:00,Big Data,ausente,Alumno19
+2024-01-12 07:00:00,Big Data,ausente,Alumno20
+2024-01-12 07:00:00,Big Data,ausente,Alumno21
+2024-01-12 07:00:00,Big Data,ausente,Alumno22
+2024-01-12 07:00:00,Big Data,presente,Alumno23
+2024-01-12 07:00:00,Big Data,ausente,Alumno24
+2024-01-12 07:00:00,Big Data,presente,Alumno25
+2024-01-12 07:00:00,Big Data,presente,Alumno26
+2024-01-12 07:00:00,Big Data,ausente,Alumno27
+2024-01-12 07:00:00,Big Data,ausente,Alumno28
+2024-01-12 07:00:00,Big Data,ausente,Alumno29
+2024-01-12 07:00:00,Big Data,presente,Alumno30
+2024-01-12 07:00:00,Big Data,ausente,Alumno31
+2024-01-12 07:00:00,Big Data,presente,Alumno32
+2024-01-12 07:00:00,Big Data,ausente,Alumno33
+2024-01-12 07:00:00,Big Data,ausente,Alumno34
+2024-01-12 07:00:00,Big Data,ausente,Alumno35
+2024-01-12 07:00:00,Big Data,ausente,Alumno36
+2024-01-12 07:00:00,Big Data,ausente,Alumno37
+2024-01-12 07:00:00,Big Data,ausente,Alumno38
+2024-01-12 07:00:00,Big Data,ausente,Alumno39
+2024-01-12 07:00:00,Big Data,ausente,Alumno40
+2024-01-12 07:00:00,Big Data,tarde,Alumno41
+2024-01-12 07:00:00,Big Data,ausente,Alumno42
+2024-01-12 07:00:00,Big Data,ausente,Alumno43
+2024-01-12 07:00:00,Big Data,tarde,Alumno44
+2024-01-12 07:00:00,Big Data,ausente,Alumno45
+2024-01-12 07:00:00,Big Data,ausente,Alumno46
+2024-01-12 07:00:00,Big Data,ausente,Alumno47
+2024-01-12 07:00:00,Big Data,ausente,Alumno48
+2024-01-12 07:00:00,Big Data,ausente,Alumno49
+2024-01-12 07:00:00,Big Data,ausente,Alumno50
+2024-01-12 09:00:00,Ingenieria del Software,ausente,Alumno1
+2024-01-12 09:00:00,Ingenieria del Software,ausente,Alumno2
+2024-01-12 09:00:00,Ingenieria del Software,ausente,Alumno3
+2024-01-12 09:00:00,Ingenieria del Software,tarde,Alumno4
+2024-01-12 09:00:00,Ingenieria del Software,ausente,Alumno5
+2024-01-12 09:00:00,Ingenieria del Software,ausente,Alumno6
+2024-01-12 09:00:00,Ingenieria del Software,ausente,Alumno7
+2024-01-12 09:00:00,Ingenieria del Software,ausente,Alumno8
+2024-01-12 09:00:00,Ingenieria del Software,ausente,Alumno9
+2024-01-12 09:00:00,Ingenieria del Software,ausente,Alumno10
+2024-01-12 09:00:00,Ingenieria del Software,tarde,Alumno11
+2024-01-12 09:00:00,Ingenieria del Software,ausente,Alumno12
+2024-01-12 09:00:00,Ingenieria del Software,ausente,Alumno13
+2024-01-12 09:00:00,Ingenieria del Software,ausente,Alumno14
+2024-01-12 09:00:00,Ingenieria del Software,ausente,Alumno15
+2024-01-12 09:00:00,Ingenieria del Software,presente,Alumno16
+2024-01-12 09:00:00,Ingenieria del Software,tarde,Alumno17
+2024-01-12 09:00:00,Ingenieria del Software,tarde,Alumno18
+2024-01-12 09:00:00,Ingenieria del Software,ausente,Alumno19
+2024-01-12 09:00:00,Ingenieria del Software,ausente,Alumno20
+2024-01-12 09:00:00,Ingenieria del Software,ausente,Alumno21
+2024-01-12 09:00:00,Ingenieria del Software,ausente,Alumno22
+2024-01-12 09:00:00,Ingenieria del Software,ausente,Alumno23
+2024-01-12 09:00:00,Ingenieria del Software,ausente,Alumno24
+2024-01-12 09:00:00,Ingenieria del Software,ausente,Alumno25
+2024-01-12 09:00:00,Ingenieria del Software,ausente,Alumno26
+2024-01-12 09:00:00,Ingenieria del Software,tarde,Alumno27
+2024-01-12 09:00:00,Ingenieria del Software,ausente,Alumno28
+2024-01-12 09:00:00,Ingenieria del Software,tarde,Alumno29
+2024-01-12 09:00:00,Ingenieria del Software,tarde,Alumno30
+2024-01-12 09:00:00,Ingenieria del Software,ausente,Alumno31
+2024-01-12 09:00:00,Ingenieria del Software,tarde,Alumno32
+2024-01-12 09:00:00,Ingenieria del Software,tarde,Alumno33
+2024-01-12 09:00:00,Ingenieria del Software,ausente,Alumno34
+2024-01-12 09:00:00,Ingenieria del Software,ausente,Alumno35
+2024-01-12 09:00:00,Ingenieria del Software,ausente,Alumno36
+2024-01-12 09:00:00,Ingenieria del Software,ausente,Alumno37
+2024-01-12 09:00:00,Ingenieria del Software,ausente,Alumno38
+2024-01-12 09:00:00,Ingenieria del Software,ausente,Alumno39
+2024-01-12 09:00:00,Ingenieria del Software,ausente,Alumno40
+2024-01-12 09:00:00,Ingenieria del Software,ausente,Alumno41
+2024-01-12 09:00:00,Ingenieria del Software,ausente,Alumno42
+2024-01-12 09:00:00,Ingenieria del Software,tarde,Alumno43
+2024-01-12 09:00:00,Ingenieria del Software,ausente,Alumno44
+2024-01-12 09:00:00,Ingenieria del Software,ausente,Alumno45
+2024-01-12 09:00:00,Ingenieria del Software,ausente,Alumno46
+2024-01-12 09:00:00,Ingenieria del Software,ausente,Alumno47
+2024-01-12 09:00:00,Ingenieria del Software,tarde,Alumno48
+2024-01-12 09:00:00,Ingenieria del Software,ausente,Alumno49
+2024-01-12 09:00:00,Ingenieria del Software,tarde,Alumno50
+2024-01-12 11:00:00,Administracion de Sistemas,presente,Alumno1
+2024-01-12 11:00:00,Administracion de Sistemas,ausente,Alumno2
+2024-01-12 11:00:00,Administracion de Sistemas,ausente,Alumno3
+2024-01-12 11:00:00,Administracion de Sistemas,tarde,Alumno4
+2024-01-12 11:00:00,Administracion de Sistemas,ausente,Alumno5
+2024-01-12 11:00:00,Administracion de Sistemas,presente,Alumno6
+2024-01-12 11:00:00,Administracion de Sistemas,presente,Alumno7
+2024-01-12 11:00:00,Administracion de Sistemas,presente,Alumno8
+2024-01-12 11:00:00,Administracion de Sistemas,tarde,Alumno9
+2024-01-12 11:00:00,Administracion de Sistemas,ausente,Alumno10
+2024-01-12 11:00:00,Administracion de Sistemas,ausente,Alumno11
+2024-01-12 11:00:00,Administracion de Sistemas,presente,Alumno12
+2024-01-12 11:00:00,Administracion de Sistemas,presente,Alumno13
+2024-01-12 11:00:00,Administracion de Sistemas,presente,Alumno14
+2024-01-12 11:00:00,Administracion de Sistemas,ausente,Alumno15
+2024-01-12 11:00:00,Administracion de Sistemas,ausente,Alumno16
+2024-01-12 11:00:00,Administracion de Sistemas,tarde,Alumno17
+2024-01-12 11:00:00,Administracion de Sistemas,ausente,Alumno18
+2024-01-12 11:00:00,Administracion de Sistemas,ausente,Alumno19
+2024-01-12 11:00:00,Administracion de Sistemas,ausente,Alumno20
+2024-01-12 11:00:00,Administracion de Sistemas,tarde,Alumno21
+2024-01-12 11:00:00,Administracion de Sistemas,ausente,Alumno22
+2024-01-12 11:00:00,Administracion de Sistemas,presente,Alumno23
+2024-01-12 11:00:00,Administracion de Sistemas,ausente,Alumno24
+2024-01-12 11:00:00,Administracion de Sistemas,ausente,Alumno25
+2024-01-12 11:00:00,Administracion de Sistemas,ausente,Alumno26
+2024-01-12 11:00:00,Administracion de Sistemas,ausente,Alumno27
+2024-01-12 11:00:00,Administracion de Sistemas,tarde,Alumno28
+2024-01-12 11:00:00,Administracion de Sistemas,ausente,Alumno29
+2024-01-12 11:00:00,Administracion de Sistemas,ausente,Alumno30
+2024-01-12 11:00:00,Administracion de Sistemas,presente,Alumno31
+2024-01-12 11:00:00,Administracion de Sistemas,ausente,Alumno32
+2024-01-12 11:00:00,Administracion de Sistemas,ausente,Alumno33
+2024-01-12 11:00:00,Administracion de Sistemas,ausente,Alumno34
+2024-01-12 11:00:00,Administracion de Sistemas,tarde,Alumno35
+2024-01-12 11:00:00,Administracion de Sistemas,ausente,Alumno36
+2024-01-12 11:00:00,Administracion de Sistemas,ausente,Alumno37
+2024-01-12 11:00:00,Administracion de Sistemas,ausente,Alumno38
+2024-01-12 11:00:00,Administracion de Sistemas,tarde,Alumno39
+2024-01-12 11:00:00,Administracion de Sistemas,ausente,Alumno40
+2024-01-12 11:00:00,Administracion de Sistemas,tarde,Alumno41
+2024-01-12 11:00:00,Administracion de Sistemas,ausente,Alumno42
+2024-01-12 11:00:00,Administracion de Sistemas,ausente,Alumno43
+2024-01-12 11:00:00,Administracion de Sistemas,tarde,Alumno44
+2024-01-12 11:00:00,Administracion de Sistemas,ausente,Alumno45
+2024-01-12 11:00:00,Administracion de Sistemas,ausente,Alumno46
+2024-01-12 11:00:00,Administracion de Sistemas,tarde,Alumno47
+2024-01-12 11:00:00,Administracion de Sistemas,ausente,Alumno48
+2024-01-12 11:00:00,Administracion de Sistemas,ausente,Alumno49
+2024-01-12 11:00:00,Administracion de Sistemas,ausente,Alumno50
+2024-01-12 13:00:00,Empresa y Legislacion,ausente,Alumno1
+2024-01-12 13:00:00,Empresa y Legislacion,tarde,Alumno2
+2024-01-12 13:00:00,Empresa y Legislacion,presente,Alumno3
+2024-01-12 13:00:00,Empresa y Legislacion,ausente,Alumno4
+2024-01-12 13:00:00,Empresa y Legislacion,ausente,Alumno5
+2024-01-12 13:00:00,Empresa y Legislacion,tarde,Alumno6
+2024-01-12 13:00:00,Empresa y Legislacion,tarde,Alumno7
+2024-01-12 13:00:00,Empresa y Legislacion,ausente,Alumno8
+2024-01-12 13:00:00,Empresa y Legislacion,ausente,Alumno9
+2024-01-12 13:00:00,Empresa y Legislacion,presente,Alumno10
+2024-01-12 13:00:00,Empresa y Legislacion,ausente,Alumno11
+2024-01-12 13:00:00,Empresa y Legislacion,presente,Alumno12
+2024-01-12 13:00:00,Empresa y Legislacion,presente,Alumno13
+2024-01-12 13:00:00,Empresa y Legislacion,tarde,Alumno14
+2024-01-12 13:00:00,Empresa y Legislacion,presente,Alumno15
+2024-01-12 13:00:00,Empresa y Legislacion,ausente,Alumno16
+2024-01-12 13:00:00,Empresa y Legislacion,tarde,Alumno17
+2024-01-12 13:00:00,Empresa y Legislacion,tarde,Alumno18
+2024-01-12 13:00:00,Empresa y Legislacion,ausente,Alumno19
+2024-01-12 13:00:00,Empresa y Legislacion,ausente,Alumno20
+2024-01-12 13:00:00,Empresa y Legislacion,ausente,Alumno21
+2024-01-12 13:00:00,Empresa y Legislacion,ausente,Alumno22
+2024-01-12 13:00:00,Empresa y Legislacion,tarde,Alumno23
+2024-01-12 13:00:00,Empresa y Legislacion,tarde,Alumno24
+2024-01-12 13:00:00,Empresa y Legislacion,ausente,Alumno25
+2024-01-12 13:00:00,Empresa y Legislacion,ausente,Alumno26
+2024-01-12 13:00:00,Empresa y Legislacion,presente,Alumno27
+2024-01-12 13:00:00,Empresa y Legislacion,ausente,Alumno28
+2024-01-12 13:00:00,Empresa y Legislacion,ausente,Alumno29
+2024-01-12 13:00:00,Empresa y Legislacion,ausente,Alumno30
+2024-01-12 13:00:00,Empresa y Legislacion,tarde,Alumno31
+2024-01-12 13:00:00,Empresa y Legislacion,ausente,Alumno32
+2024-01-12 13:00:00,Empresa y Legislacion,ausente,Alumno33
+2024-01-12 13:00:00,Empresa y Legislacion,ausente,Alumno34
+2024-01-12 13:00:00,Empresa y Legislacion,tarde,Alumno35
+2024-01-12 13:00:00,Empresa y Legislacion,tarde,Alumno36
+2024-01-12 13:00:00,Empresa y Legislacion,presente,Alumno37
+2024-01-12 13:00:00,Empresa y Legislacion,tarde,Alumno38
+2024-01-12 13:00:00,Empresa y Legislacion,ausente,Alumno39
+2024-01-12 13:00:00,Empresa y Legislacion,ausente,Alumno40
+2024-01-12 13:00:00,Empresa y Legislacion,ausente,Alumno41
+2024-01-12 13:00:00,Empresa y Legislacion,presente,Alumno42
+2024-01-12 13:00:00,Empresa y Legislacion,ausente,Alumno43
+2024-01-12 13:00:00,Empresa y Legislacion,ausente,Alumno44
+2024-01-12 13:00:00,Empresa y Legislacion,ausente,Alumno45
+2024-01-12 13:00:00,Empresa y Legislacion,ausente,Alumno46
+2024-01-12 13:00:00,Empresa y Legislacion,tarde,Alumno47
+2024-01-12 13:00:00,Empresa y Legislacion,ausente,Alumno48
+2024-01-12 13:00:00,Empresa y Legislacion,presente,Alumno49
+2024-01-12 13:00:00,Empresa y Legislacion,ausente,Alumno50
+2024-01-12 15:00:00,Ingenieria del Software,tarde,Alumno1
+2024-01-12 15:00:00,Ingenieria del Software,tarde,Alumno2
+2024-01-12 15:00:00,Ingenieria del Software,tarde,Alumno3
+2024-01-12 15:00:00,Ingenieria del Software,ausente,Alumno4
+2024-01-12 15:00:00,Ingenieria del Software,tarde,Alumno5
+2024-01-12 15:00:00,Ingenieria del Software,ausente,Alumno6
+2024-01-12 15:00:00,Ingenieria del Software,ausente,Alumno7
+2024-01-12 15:00:00,Ingenieria del Software,presente,Alumno8
+2024-01-12 15:00:00,Ingenieria del Software,presente,Alumno9
+2024-01-12 15:00:00,Ingenieria del Software,ausente,Alumno10
+2024-01-12 15:00:00,Ingenieria del Software,ausente,Alumno11
+2024-01-12 15:00:00,Ingenieria del Software,ausente,Alumno12
+2024-01-12 15:00:00,Ingenieria del Software,ausente,Alumno13
+2024-01-12 15:00:00,Ingenieria del Software,ausente,Alumno14
+2024-01-12 15:00:00,Ingenieria del Software,ausente,Alumno15
+2024-01-12 15:00:00,Ingenieria del Software,ausente,Alumno16
+2024-01-12 15:00:00,Ingenieria del Software,ausente,Alumno17
+2024-01-12 15:00:00,Ingenieria del Software,ausente,Alumno18
+2024-01-12 15:00:00,Ingenieria del Software,ausente,Alumno19
+2024-01-12 15:00:00,Ingenieria del Software,tarde,Alumno20
+2024-01-12 15:00:00,Ingenieria del Software,ausente,Alumno21
+2024-01-12 15:00:00,Ingenieria del Software,ausente,Alumno22
+2024-01-12 15:00:00,Ingenieria del Software,ausente,Alumno23
+2024-01-12 15:00:00,Ingenieria del Software,ausente,Alumno24
+2024-01-12 15:00:00,Ingenieria del Software,tarde,Alumno25
+2024-01-12 15:00:00,Ingenieria del Software,ausente,Alumno26
+2024-01-12 15:00:00,Ingenieria del Software,ausente,Alumno27
+2024-01-12 15:00:00,Ingenieria del Software,ausente,Alumno28
+2024-01-12 15:00:00,Ingenieria del Software,tarde,Alumno29
+2024-01-12 15:00:00,Ingenieria del Software,ausente,Alumno30
+2024-01-12 15:00:00,Ingenieria del Software,presente,Alumno31
+2024-01-12 15:00:00,Ingenieria del Software,presente,Alumno32
+2024-01-12 15:00:00,Ingenieria del Software,ausente,Alumno33
+2024-01-12 15:00:00,Ingenieria del Software,ausente,Alumno34
+2024-01-12 15:00:00,Ingenieria del Software,ausente,Alumno35
+2024-01-12 15:00:00,Ingenieria del Software,ausente,Alumno36
+2024-01-12 15:00:00,Ingenieria del Software,ausente,Alumno37
+2024-01-12 15:00:00,Ingenieria del Software,ausente,Alumno38
+2024-01-12 15:00:00,Ingenieria del Software,tarde,Alumno39
+2024-01-12 15:00:00,Ingenieria del Software,ausente,Alumno40
+2024-01-12 15:00:00,Ingenieria del Software,ausente,Alumno41
+2024-01-12 15:00:00,Ingenieria del Software,ausente,Alumno42
+2024-01-12 15:00:00,Ingenieria del Software,ausente,Alumno43
+2024-01-12 15:00:00,Ingenieria del Software,ausente,Alumno44
+2024-01-12 15:00:00,Ingenieria del Software,ausente,Alumno45
+2024-01-12 15:00:00,Ingenieria del Software,ausente,Alumno46
+2024-01-12 15:00:00,Ingenieria del Software,ausente,Alumno47
+2024-01-12 15:00:00,Ingenieria del Software,ausente,Alumno48
+2024-01-12 15:00:00,Ingenieria del Software,ausente,Alumno49
+2024-01-12 15:00:00,Ingenieria del Software,ausente,Alumno50
