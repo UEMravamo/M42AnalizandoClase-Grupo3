@@ -1,90 +1,89 @@
-
+#MÉTODO 1 (perspectiva alumno)
 from pyspark.sql import SparkSession
-from pyspark.sql.functions import col, to_date, avg, max
-from pyspark.sql.window import Window
+from pyspark.sql.functions import col, when, date_format, avg
+from statsmodels.tsa.arima.model import ARIMA
+import pandas as pd
+from datetime import timedelta
 
+# Crear la sesión Spark
+spark = SparkSession.builder.appName("PrediccionAsistencia").getOrCreate()
 
-# In[226]:
-
-
-spark = SparkSession.builder \
-    .appName("Forecast de Asistencia") \
-    .getOrCreate()
-
-
-# In[228]:
-
-
-file_path = "asistencia.csv"
-
-
-# In[230]:
-
-
+# Leer el archivo CSV en PySpark
+file_path = "asistencia_test.csv"
 data = spark.read.csv(file_path, header=True, inferSchema=True)
 
-data.show(5)
-data.printSchema()
-
-
-# In[232]:
-
-
-data = data.withColumn("fecha", to_date(col("timestamp")))
-data.show(5)
-
-
-# In[234]:
-
-
-ventana_tiempo = Window.partitionBy("asignatura", "estado_asistencia") \
-                       .orderBy("fecha") \
-                       .rowsBetween(-6, 0)
-
-
-# In[236]:
-
-
-data_forecast = data.withColumn("media_movil", avg("estado_asistencia").over(ventana_tiempo))
-
-
-# In[238]:
-
-
-data_forecast.select("asignatura", "estado_asistencia", "fecha", "media_movil").show()
-
-
-# In[240]:
-
-
-ultima_fecha = data.groupBy("asignatura", "estado_asistencia") \
-                   .agg(max("fecha").alias("ultima_fecha"))
-
-
-# In[242]:
-
-
-ultima_fecha = ultima_fecha.withColumnRenamed("asignatura", "asignatura_ultima") \
-                           .withColumnRenamed("estado_asistencia", "estado_asistencia_ultima")
-
-forecast_diario = data_forecast.join(
-    ultima_fecha,
-    (data_forecast["asignatura"] == ultima_fecha["asignatura_ultima"]) &
-    (data_forecast["estado_asistencia"] == ultima_fecha["estado_asistencia_ultima"]) &
-    (data_forecast["fecha"] == ultima_fecha["ultima_fecha"])
-).select(
-    data_forecast["asignatura"],
-    data_forecast["estado_asistencia"],
-    data_forecast["media_movil"]
+# Pasar estado a valor numérico
+data = data.withColumn(
+    "estado_codificado",
+    when(col("estado_asistencia") == "presente", 1)
+    .when(col("estado_asistencia") == "tarde", 0.5)
+    .otherwise(0)
 )
 
+# Agrupamos por alumno, asignatura y día y calcular estado promedio
+series_temporales = data.groupBy(
+    "alumno",
+    "asignatura",
+    date_format("timestamp", "yyyy-MM-dd").alias("fecha") # Pasar timestamp a fecha
+).agg(
+    avg("estado_codificado").alias("estado_promedio")  # Calcula media del estado
+)
 
-forecast_diario.show()
+# Convertir el dataframe de PySpark a Pandas
+series_pandas = series_temporales.toPandas()
 
+# Ordenar los datos
+series_pandas['fecha'] = pd.to_datetime(series_pandas['fecha'])
+series_pandas = series_pandas.sort_values(by=['alumno', 'asignatura', 'fecha'])
 
-# In[248]:
+# Almacenar resultados de predicciones
+resultados_predicciones = []
 
+# ARIMA para cada alumno y asignatura
+for (alumno, asignatura), grupo in series_pandas.groupby(["alumno", "asignatura"]):
+    grupo = grupo.sort_values("fecha")
 
-forecast_csv_path = "forecast_diario_csv"
-forecast_json_path = "forecast_diario_json"
+    # Ordenar la lista por fecha
+    grupo = grupo.set_index("fecha")
+    grupo.index.freq = 'D'  # Frecuencia diaria
 
+    serie = grupo["estado_promedio"]
+
+    # Solo entrenamos si hay suficientes datos
+    if len(serie) > 10:
+        try:
+            # Entrenamiento del modelo
+            modelo = ARIMA(serie, order=(1, 1, 0)) # p, d, q
+            ajuste = modelo.fit()
+
+            # Se predice el día siguiente
+            predicciones = ajuste.forecast(steps=1)
+            ultima_fecha = grupo.index[-1]
+
+            for i, pred in enumerate(predicciones):
+                 dia_predicho = ultima_fecha + timedelta(days=i+1)
+                 estado_predicho = pred
+                 estado_categoria = (
+                     "presente" if estado_predicho >= 0.75 else
+                     "tarde" if estado_predicho >= 0.25 else
+                     "ausente"
+                 )
+
+            resultados_predicciones.append({
+                    "alumno": alumno,
+                    "asignatura": asignatura,
+                    "dia_predicho": dia_predicho.strftime("%Y-%m-%d"),
+                    "estado_predicho_valor": estado_predicho,
+                    "estado_predicho_categoria": estado_categoria
+                })
+        except Exception as e:
+            print(f"Error al ajustar ARIMA para {alumno}, {asignatura}: {e}")
+
+# Convertimos los resultados a un df de Pandas
+df_resultados = pd.DataFrame(resultados_predicciones)
+
+# Exportación de los resultados a un CSV
+output_path = "forecast_por_alumno.csv"
+df_resultados.to_csv(output_path, index=False)
+
+print(f"Predicciones guardadas en: {output_path}")
