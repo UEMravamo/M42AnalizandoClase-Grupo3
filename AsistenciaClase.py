@@ -1,6 +1,5 @@
 import pandas as pd
-from pmdarima import auto_arima  
-from pyspark.sql import SparkSession
+from pmdarima import auto_arima 
 from datetime import timedelta
 from statsmodels.tsa.arima.model import ARIMA
 from pyspark.sql.functions import col, date_format, max, count, collect_list, mean, stddev
