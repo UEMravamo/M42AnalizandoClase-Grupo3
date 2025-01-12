@@ -16,25 +16,3 @@ def generar_forecast_por_asignatura(data):
     # Diccionario inicializado para almacenar resultados del forecast
     forecast_resultados = {"presentes": 0, "tarde": 0, "ausentes": 0}
         
-    for estado in ["presente", "tarde", "ausente"]:
-        grupo_estado = totales_pandas[totales_pandas["estado_asistencia"] == estado]
-
-        if len(grupo_estado) > 10:
-            try:
-                # Serie temporal para ARIMA
-                serie = grupo_estado.set_index("fecha")["total_diario"]
-                modelo_auto = auto_arima(serie, seasonal=False, stepwise=True, trace=False)
-                modelo = ARIMA(serie, order=modelo_auto.order)
-                ajuste = modelo.fit()
-                prediccion = ajuste.forecast(steps=1)
-                # Actualiza los valores del forecast
-                if estado == "presente":
-                    forecast_resultados["presentes"] = round(prediccion.iloc[0])
-                elif estado == "tarde":
-                    forecast_resultados["tarde"] = round(prediccion.iloc[0])
-                elif estado == "ausente":
-                    forecast_resultados["ausentes"] = round(prediccion.iloc[0])
-            except Exception as e:
-                print(f"Error al ajustar ARIMA para {estado}: {str(e)}")
-
-    return forecast_resultados
