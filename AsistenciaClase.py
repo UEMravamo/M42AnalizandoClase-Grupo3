@@ -5,9 +5,7 @@ from pyspark.sql.functions import (
     col, date_format, max, count, collect_list, mean, stddev
 )
 from statsmodels.tsa.arima.model import ARIMA
-from pmdarima import auto_arima  # Auto_arima para predicción sin ajuste manual
-import pandas as pd
-from datetime import timedelta
+from pmdarima import auto_arima  
 from pyspark.sql.types import StructType, StructField, StringType, TimestampType
 from datetime import datetime
 
@@ -28,12 +26,6 @@ def mostrar_asistencia(csv_asistencia, csv_nulos, csv_filtrado):
     
     df_filtrado.show() # Mostrar la estructura del DataFrame
     return df_filtrado # Retornar el DataFrame
-
-ruta_asistencia = "././asistencia2500.csv" # Ruta del archivo CSV
-ruta_nulos = "././nulos.csv"  # Ruta de los nulos
-ruta_filtrado = "././filtrado.csv" # Ruta filtrado
-
-registro_asistencia = mostrar_asistencia(ruta_asistencia, ruta_nulos, ruta_filtrado) # Llamada a la funcion
 
 # Función para calcular métricas diarias, media y desviación por estados y asignaturas
 # y posterior guardado en JSON junto con el forecast
