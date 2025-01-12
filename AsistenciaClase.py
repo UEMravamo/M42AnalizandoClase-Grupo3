@@ -196,3 +196,6 @@ csv_input = "asistencia_clase_modificada.csv"
 csv_nulos = "nulos.csv"
 csv_filtrado = "filtrado.csv"
 json_output = "asistencia_forecast.json"
+
+registro_asistencia = procesar_datos(spark, csv_input, csv_nulos, csv_filtrado)
+calcular_metricas_y_forecast_json(registro_asistencia, json_output)
