@@ -1,0 +1,947 @@
+timestamp,asignatura,estado_asistencia,alumno
+2024-11-20 09:00:00,Administracion de Sistemas,ausente,Alumno9
+2024-11-20 09:00:00,Administracion de Sistemas,ausente,Alumno4
+2024-11-20 09:00:00,Administracion de Sistemas,ausente,Alumno10
+2024-11-20 09:00:00,Administracion de Sistemas,presente,Alumno20
+2024-11-20 09:00:00,Administracion de Sistemas,presente,Alumno14
+2024-11-20 09:00:00,Big Data,ausente,Alumno15
+2024-11-20 09:00:00,Big Data,ausente,Alumno17
+2024-11-20 09:00:00,Big Data,ausente,Alumno7
+2024-11-20 09:00:00,Big Data,ausente,Alumno22
+2024-11-20 09:00:00,Big Data,ausente,Alumno26
+2024-11-20 09:00:00,Big Data,presente,Alumno27
+2024-11-20 09:00:00,Big Data,presente,Alumno24
+2024-11-20 09:00:00,Big Data,tarde,Alumno3
+2024-11-20 09:00:00,Empresa y Legislacion,ausente,Alumno28
+2024-11-20 09:00:00,Empresa y Legislacion,ausente,Alumno5
+2024-11-20 09:00:00,Empresa y Legislacion,ausente,Alumno7
+2024-11-20 09:00:00,Empresa y Legislacion,presente,Alumno3
+2024-11-20 09:00:00,Empresa y Legislacion,presente,Alumno4
+2024-11-20 09:00:00,Empresa y Legislacion,presente,Alumno3
+2024-11-20 09:00:00,Empresa y Legislacion,tarde,Alumno14
+2024-11-20 09:00:00,Empresa y Legislacion,tarde,Alumno18
+2024-11-20 09:00:00,Ingenieria del Software,ausente,Alumno8
+2024-11-20 09:00:00,Ingenieria del Software,ausente,Alumno29
+2024-11-20 09:00:00,Ingenieria del Software,presente,Alumno7
+2024-11-20 09:00:00,Ingenieria del Software,presente,Alumno9
+2024-11-20 09:00:00,Ingenieria del Software,presente,Alumno29
+2024-11-20 09:00:00,Ingenieria del Software,presente,Alumno6
+2024-11-20 09:00:00,Ingenieria del Software,tarde,Alumno26
+2024-11-20 09:00:00,Ingenieria del Software,tarde,Alumno6
+2024-11-20 09:00:00,Ingenieria del Software,tarde,Alumno11
+2024-11-20 09:00:00,Ingenieria del Software,tarde,Alumno1
+2024-11-20 09:00:00,Ingenieria del Software,tarde,Alumno13
+2024-11-20 11:00:00,Administracion de Sistemas,ausente,Alumno11
+2024-11-20 11:00:00,Administracion de Sistemas,ausente,Alumno22
+2024-11-20 11:00:00,Administracion de Sistemas,ausente,Alumno13
+2024-11-20 11:00:00,Administracion de Sistemas,ausente,Alumno19
+2024-11-20 11:00:00,Administracion de Sistemas,ausente,Alumno11
+2024-11-20 11:00:00,Administracion de Sistemas,presente,Alumno22
+2024-11-20 11:00:00,Administracion de Sistemas,presente,Alumno13
+2024-11-20 11:00:00,Administracion de Sistemas,presente,Alumno17
+2024-11-20 11:00:00,Administracion de Sistemas,tarde,Alumno30
+2024-11-20 11:00:00,Administracion de Sistemas,tarde,Alumno23
+2024-11-20 11:00:00,Administracion de Sistemas,tarde,Alumno12
+2024-11-20 11:00:00,Administracion de Sistemas,tarde,Alumno25
+2024-11-20 11:00:00,Big Data,ausente,Alumno21
+2024-11-20 11:00:00,Big Data,ausente,Alumno7
+2024-11-20 11:00:00,Big Data,presente,Alumno4
+2024-11-20 11:00:00,Big Data,presente,Alumno19
+2024-11-20 11:00:00,Big Data,tarde,Alumno18
+2024-11-20 11:00:00,Big Data,tarde,Alumno17
+2024-11-20 11:00:00,Big Data,tarde,Alumno22
+2024-11-20 11:00:00,Big Data,tarde,Alumno21
+2024-11-20 11:00:00,Big Data,tarde,Alumno20
+2024-11-20 11:00:00,Empresa y Legislacion,presente,Alumno19
+2024-11-20 11:00:00,Empresa y Legislacion,tarde,Alumno4
+2024-11-20 11:00:00,Ingenieria del Software,ausente,Alumno26
+2024-11-20 11:00:00,Ingenieria del Software,ausente,Alumno28
+2024-11-20 11:00:00,Ingenieria del Software,ausente,Alumno5
+2024-11-20 11:00:00,Ingenieria del Software,presente,Alumno29
+2024-11-20 11:00:00,Ingenieria del Software,presente,Alumno3
+2024-11-20 11:00:00,Ingenieria del Software,tarde,Alumno8
+2024-11-20 13:00:00,Administracion de Sistemas,presente,Alumno29
+2024-11-20 13:00:00,Administracion de Sistemas,tarde,Alumno26
+2024-11-20 13:00:00,Big Data,ausente,Alumno16
+2024-11-20 13:00:00,Big Data,ausente,Alumno23
+2024-11-20 13:00:00,Big Data,presente,Alumno4
+2024-11-20 13:00:00,Big Data,tarde,Alumno16
+2024-11-20 13:00:00,Big Data,tarde,Alumno15
+2024-11-20 13:00:00,Big Data,tarde,Alumno10
+2024-11-20 13:00:00,Empresa y Legislacion,ausente,Alumno28
+2024-11-20 13:00:00,Empresa y Legislacion,ausente,Alumno7
+2024-11-20 13:00:00,Empresa y Legislacion,ausente,Alumno17
+2024-11-20 13:00:00,Empresa y Legislacion,ausente,Alumno14
+2024-11-20 13:00:00,Empresa y Legislacion,presente,Alumno22
+2024-11-20 13:00:00,Empresa y Legislacion,presente,Alumno20
+2024-11-20 13:00:00,Empresa y Legislacion,tarde,Alumno28
+2024-11-20 13:00:00,Empresa y Legislacion,tarde,Alumno30
+2024-11-20 13:00:00,Empresa y Legislacion,tarde,Alumno19
+2024-11-20 13:00:00,Ingenieria del Software,ausente,Alumno21
+2024-11-20 13:00:00,Ingenieria del Software,ausente,Alumno15
+2024-11-20 13:00:00,Ingenieria del Software,ausente,Alumno13
+2024-11-20 13:00:00,Ingenieria del Software,ausente,Alumno1
+2024-11-20 13:00:00,Ingenieria del Software,ausente,Alumno26
+2024-11-20 13:00:00,Ingenieria del Software,presente,Alumno19
+2024-11-20 13:00:00,Ingenieria del Software,presente,Alumno28
+2024-11-20 15:00:00,Administracion de Sistemas,ausente,Alumno23
+2024-11-20 15:00:00,Administracion de Sistemas,ausente,Alumno9
+2024-11-20 15:00:00,Administracion de Sistemas,ausente,Alumno6
+2024-11-20 15:00:00,Administracion de Sistemas,presente,Alumno20
+2024-11-20 15:00:00,Administracion de Sistemas,presente,Alumno27
+2024-11-20 15:00:00,Administracion de Sistemas,tarde,Alumno24
+2024-11-20 15:00:00,Administracion de Sistemas,tarde,Alumno24
+2024-11-20 15:00:00,Administracion de Sistemas,tarde,Alumno2
+2024-11-20 15:00:00,Administracion de Sistemas,tarde,Alumno18
+2024-11-20 15:00:00,Big Data,ausente,Alumno1
+2024-11-20 15:00:00,Big Data,ausente,Alumno4
+2024-11-20 15:00:00,Big Data,ausente,Alumno9
+2024-11-20 15:00:00,Big Data,presente,Alumno26
+2024-11-20 15:00:00,Empresa y Legislacion,ausente,Alumno14
+2024-11-20 15:00:00,Empresa y Legislacion,presente,Alumno4
+2024-11-20 15:00:00,Empresa y Legislacion,tarde,Alumno7
+2024-11-20 15:00:00,Empresa y Legislacion,tarde,Alumno14
+2024-11-20 15:00:00,Empresa y Legislacion,tarde,Alumno18
+2024-11-20 15:00:00,Empresa y Legislacion,tarde,Alumno8
+2024-11-20 15:00:00,Ingenieria del Software,ausente,Alumno7
+2024-11-20 15:00:00,Ingenieria del Software,presente,Alumno9
+2024-11-20 15:00:00,Ingenieria del Software,tarde,Alumno11
+2024-11-20 17:00:00,Administracion de Sistemas,ausente,Alumno9
+2024-11-20 17:00:00,Administracion de Sistemas,ausente,Alumno22
+2024-11-20 17:00:00,Administracion de Sistemas,ausente,Alumno29
+2024-11-20 17:00:00,Administracion de Sistemas,presente,Alumno27
+2024-11-20 17:00:00,Administracion de Sistemas,presente,Alumno6
+2024-11-20 17:00:00,Administracion de Sistemas,presente,Alumno22
+2024-11-20 17:00:00,Administracion de Sistemas,tarde,Alumno1
+2024-11-20 17:00:00,Administracion de Sistemas,tarde,Alumno23
+2024-11-20 17:00:00,Big Data,ausente,Alumno17
+2024-11-20 17:00:00,Big Data,ausente,Alumno21
+2024-11-20 17:00:00,Big Data,ausente,Alumno14
+2024-11-20 17:00:00,Big Data,presente,Alumno21
+2024-11-20 17:00:00,Big Data,presente,Alumno16
+2024-11-20 17:00:00,Big Data,tarde,Alumno17
+2024-11-20 17:00:00,Empresa y Legislacion,presente,Alumno4
+2024-11-20 17:00:00,Empresa y Legislacion,tarde,Alumno21
+2024-11-20 17:00:00,Ingenieria del Software,ausente,Alumno15
+2024-11-20 17:00:00,Ingenieria del Software,ausente,Alumno14
+2024-11-20 17:00:00,Ingenieria del Software,presente,Alumno24
+2024-11-20 17:00:00,Ingenieria del Software,presente,Alumno16
+2024-11-20 17:00:00,Ingenieria del Software,presente,Alumno9
+2024-11-20 17:00:00,Ingenieria del Software,tarde,Alumno18
+2024-11-20 17:00:00,Ingenieria del Software,tarde,Alumno1
+2024-11-20 17:00:00,Ingenieria del Software,tarde,Alumno28
+2024-11-20 19:00:00,Administracion de Sistemas,ausente,Alumno15
+2024-11-20 19:00:00,Administracion de Sistemas,ausente,Alumno21
+2024-11-20 19:00:00,Administracion de Sistemas,presente,Alumno10
+2024-11-20 19:00:00,Administracion de Sistemas,presente,Alumno17
+2024-11-20 19:00:00,Administracion de Sistemas,presente,Alumno7
+2024-11-20 19:00:00,Administracion de Sistemas,presente,Alumno2
+2024-11-20 19:00:00,Administracion de Sistemas,tarde,Alumno28
+2024-11-20 19:00:00,Big Data,ausente,Alumno7
+2024-11-20 19:00:00,Big Data,ausente,Alumno19
+2024-11-20 19:00:00,Big Data,ausente,Alumno20
+2024-11-20 19:00:00,Big Data,ausente,Alumno9
+2024-11-20 19:00:00,Big Data,ausente,Alumno24
+2024-11-20 19:00:00,Big Data,ausente,Alumno16
+2024-11-20 19:00:00,Big Data,ausente,Alumno9
+2024-11-20 19:00:00,Big Data,presente,Alumno15
+2024-11-20 19:00:00,Big Data,presente,Alumno26
+2024-11-20 19:00:00,Big Data,presente,Alumno6
+2024-11-20 19:00:00,Big Data,presente,Alumno3
+2024-11-20 19:00:00,Big Data,presente,Alumno17
+2024-11-20 19:00:00,Big Data,tarde,Alumno27
+2024-11-20 19:00:00,Big Data,tarde,Alumno29
+2024-11-20 19:00:00,Big Data,tarde,Alumno22
+2024-11-20 19:00:00,Empresa y Legislacion,ausente,Alumno6
+2024-11-20 19:00:00,Empresa y Legislacion,ausente,Alumno24
+2024-11-20 19:00:00,Empresa y Legislacion,tarde,Alumno5
+2024-11-20 19:00:00,Ingenieria del Software,ausente,Alumno1
+2024-11-20 19:00:00,Ingenieria del Software,ausente,Alumno30
+2024-11-20 19:00:00,Ingenieria del Software,ausente,Alumno27
+2024-11-20 19:00:00,Ingenieria del Software,presente,Alumno23
+2024-11-20 19:00:00,Ingenieria del Software,presente,Alumno9
+2024-11-20 19:00:00,Ingenieria del Software,presente,Alumno9
+2024-11-20 19:00:00,Ingenieria del Software,presente,Alumno9
+2024-11-20 19:00:00,Ingenieria del Software,presente,Alumno29
+2024-11-20 19:00:00,Ingenieria del Software,tarde,Alumno26
+2024-11-20 19:00:00,Ingenieria del Software,tarde,Alumno18
+2024-11-20 19:00:00,Ingenieria del Software,tarde,Alumno23
+2024-11-20 21:00:00,Administracion de Sistemas,ausente,Alumno9
+2024-11-20 21:00:00,Administracion de Sistemas,ausente,Alumno30
+2024-11-20 21:00:00,Administracion de Sistemas,tarde,Alumno12
+2024-11-20 21:00:00,Administracion de Sistemas,tarde,Alumno10
+2024-11-20 21:00:00,Administracion de Sistemas,tarde,Alumno29
+2024-11-20 21:00:00,Big Data,ausente,Alumno6
+2024-11-20 21:00:00,Big Data,ausente,Alumno27
+2024-11-20 21:00:00,Big Data,ausente,Alumno17
+2024-11-20 21:00:00,Big Data,ausente,Alumno4
+2024-11-20 21:00:00,Big Data,ausente,Alumno19
+2024-11-20 21:00:00,Big Data,presente,Alumno22
+2024-11-20 21:00:00,Big Data,presente,Alumno19
+2024-11-20 21:00:00,Big Data,presente,Alumno13
+2024-11-20 21:00:00,Big Data,presente,Alumno22
+2024-11-20 21:00:00,Big Data,presente,Alumno6
+2024-11-20 21:00:00,Big Data,tarde,Alumno23
+2024-11-20 21:00:00,Big Data,tarde,Alumno4
+2024-11-20 21:00:00,Big Data,tarde,Alumno27
+2024-11-20 21:00:00,Empresa y Legislacion,ausente,Alumno22
+2024-11-20 21:00:00,Empresa y Legislacion,ausente,Alumno20
+2024-11-20 21:00:00,Empresa y Legislacion,presente,Alumno23
+2024-11-20 21:00:00,Empresa y Legislacion,presente,Alumno9
+2024-11-20 21:00:00,Empresa y Legislacion,presente,Alumno23
+2024-11-20 21:00:00,Empresa y Legislacion,tarde,Alumno30
+2024-11-20 21:00:00,Empresa y Legislacion,tarde,Alumno3
+2024-11-20 21:00:00,Ingenieria del Software,presente,Alumno25
+2024-11-20 21:00:00,Ingenieria del Software,tarde,Alumno12
+2024-11-20 21:00:00,Ingenieria del Software,tarde,Alumno9
+2024-11-20 21:00:00,Ingenieria del Software,tarde,Alumno27
+2024-11-20 23:00:00,Administracion de Sistemas,ausente,Alumno29
+2024-11-20 23:00:00,Administracion de Sistemas,presente,Alumno5
+2024-11-20 23:00:00,Administracion de Sistemas,presente,Alumno2
+2024-11-20 23:00:00,Administracion de Sistemas,tarde,Alumno13
+2024-11-20 23:00:00,Big Data,ausente,Alumno10
+2024-11-20 23:00:00,Big Data,ausente,Alumno3
+2024-11-20 23:00:00,Big Data,ausente,Alumno3
+2024-11-20 23:00:00,Big Data,tarde,Alumno2
+2024-11-20 23:00:00,Big Data,tarde,Alumno17
+2024-11-20 23:00:00,Empresa y Legislacion,ausente,Alumno9
+2024-11-20 23:00:00,Empresa y Legislacion,ausente,Alumno15
+2024-11-20 23:00:00,Empresa y Legislacion,ausente,Alumno20
+2024-11-20 23:00:00,Empresa y Legislacion,presente,Alumno15
+2024-11-20 23:00:00,Empresa y Legislacion,presente,Alumno8
+2024-11-20 23:00:00,Empresa y Legislacion,tarde,Alumno5
+2024-11-20 23:00:00,Empresa y Legislacion,tarde,Alumno1
+2024-11-20 23:00:00,Ingenieria del Software,ausente,Alumno2
+2024-11-20 23:00:00,Ingenieria del Software,ausente,Alumno10
+2024-11-20 23:00:00,Ingenieria del Software,ausente,Alumno2
+2024-11-20 23:00:00,Ingenieria del Software,presente,Alumno10
+2024-11-20 23:00:00,Ingenieria del Software,presente,Alumno23
+2024-11-20 23:00:00,Ingenieria del Software,presente,Alumno14
+2024-11-20 23:00:00,Ingenieria del Software,presente,Alumno13
+2024-11-20 23:00:00,Ingenieria del Software,presente,Alumno15
+2024-11-20 23:00:00,Ingenieria del Software,presente,Alumno6
+2024-11-20 23:00:00,Ingenieria del Software,tarde,Alumno23
+2024-11-20 23:00:00,Ingenieria del Software,tarde,Alumno7
+2024-11-20 23:00:00,Ingenieria del Software,tarde,Alumno18
+2024-11-20 23:00:00,Ingenieria del Software,tarde,Alumno20
+2024-11-21 01:00:00,Administracion de Sistemas,ausente,Alumno9
+2024-11-21 01:00:00,Administracion de Sistemas,ausente,Alumno21
+2024-11-21 01:00:00,Administracion de Sistemas,ausente,Alumno2
+2024-11-21 01:00:00,Administracion de Sistemas,presente,Alumno18
+2024-11-21 01:00:00,Administracion de Sistemas,presente,Alumno29
+2024-11-21 01:00:00,Administracion de Sistemas,presente,Alumno1
+2024-11-21 01:00:00,Administracion de Sistemas,tarde,Alumno19
+2024-11-21 01:00:00,Administracion de Sistemas,tarde,Alumno30
+2024-11-21 01:00:00,Administracion de Sistemas,tarde,Alumno7
+2024-11-21 01:00:00,Big Data,presente,Alumno26
+2024-11-21 01:00:00,Big Data,presente,Alumno24
+2024-11-21 01:00:00,Big Data,tarde,Alumno29
+2024-11-21 01:00:00,Big Data,tarde,Alumno9
+2024-11-21 01:00:00,Big Data,tarde,Alumno23
+2024-11-21 01:00:00,Big Data,tarde,Alumno6
+2024-11-21 01:00:00,Big Data,tarde,Alumno2
+2024-11-21 01:00:00,Empresa y Legislacion,ausente,Alumno20
+2024-11-21 01:00:00,Empresa y Legislacion,ausente,Alumno20
+2024-11-21 01:00:00,Empresa y Legislacion,presente,Alumno6
+2024-11-21 01:00:00,Ingenieria del Software,ausente,Alumno25
+2024-11-21 01:00:00,Ingenieria del Software,ausente,Alumno23
+2024-11-21 01:00:00,Ingenieria del Software,ausente,Alumno3
+2024-11-21 01:00:00,Ingenieria del Software,presente,Alumno1
+2024-11-21 01:00:00,Ingenieria del Software,presente,Alumno8
+2024-11-21 03:00:00,Administracion de Sistemas,ausente,Alumno13
+2024-11-21 03:00:00,Administracion de Sistemas,presente,Alumno16
+2024-11-21 03:00:00,Administracion de Sistemas,presente,Alumno29
+2024-11-21 03:00:00,Administracion de Sistemas,presente,Alumno5
+2024-11-21 03:00:00,Administracion de Sistemas,tarde,Alumno27
+2024-11-21 03:00:00,Administracion de Sistemas,tarde,Alumno26
+2024-11-21 03:00:00,Administracion de Sistemas,tarde,Alumno3
+2024-11-21 03:00:00,Administracion de Sistemas,tarde,Alumno27
+2024-11-21 03:00:00,Administracion de Sistemas,tarde,Alumno22
+2024-11-21 03:00:00,Administracion de Sistemas,tarde,Alumno14
+2024-11-21 03:00:00,Administracion de Sistemas,tarde,Alumno19
+2024-11-21 03:00:00,Administracion de Sistemas,tarde,Alumno25
+2024-11-21 03:00:00,Big Data,ausente,Alumno20
+2024-11-21 03:00:00,Big Data,ausente,Alumno15
+2024-11-21 03:00:00,Big Data,ausente,Alumno24
+2024-11-21 03:00:00,Big Data,ausente,Alumno28
+2024-11-21 03:00:00,Big Data,presente,Alumno29
+2024-11-21 03:00:00,Big Data,presente,Alumno21
+2024-11-21 03:00:00,Big Data,tarde,Alumno16
+2024-11-21 03:00:00,Big Data,tarde,Alumno11
+2024-11-21 03:00:00,Big Data,tarde,Alumno6
+2024-11-21 03:00:00,Big Data,tarde,Alumno23
+2024-11-21 03:00:00,Big Data,tarde,Alumno22
+2024-11-21 03:00:00,Empresa y Legislacion,presente,Alumno11
+2024-11-21 03:00:00,Empresa y Legislacion,presente,Alumno25
+2024-11-21 03:00:00,Empresa y Legislacion,tarde,Alumno8
+2024-11-21 03:00:00,Ingenieria del Software,ausente,Alumno9
+2024-11-21 03:00:00,Ingenieria del Software,ausente,Alumno20
+2024-11-21 03:00:00,Ingenieria del Software,ausente,Alumno6
+2024-11-21 03:00:00,Ingenieria del Software,ausente,Alumno12
+2024-11-21 03:00:00,Ingenieria del Software,presente,Alumno25
+2024-11-21 03:00:00,Ingenieria del Software,tarde,Alumno16
+2024-11-21 03:00:00,Ingenieria del Software,tarde,Alumno28
+2024-11-21 05:00:00,Administracion de Sistemas,ausente,Alumno5
+2024-11-21 05:00:00,Administracion de Sistemas,ausente,Alumno16
+2024-11-21 05:00:00,Administracion de Sistemas,presente,Alumno6
+2024-11-21 05:00:00,Administracion de Sistemas,presente,Alumno25
+2024-11-21 05:00:00,Administracion de Sistemas,presente,Alumno12
+2024-11-21 05:00:00,Administracion de Sistemas,tarde,Alumno12
+2024-11-21 05:00:00,Administracion de Sistemas,tarde,Alumno10
+2024-11-21 05:00:00,Administracion de Sistemas,tarde,Alumno9
+2024-11-21 05:00:00,Administracion de Sistemas,tarde,Alumno8
+2024-11-21 05:00:00,Administracion de Sistemas,tarde,Alumno3
+2024-11-21 05:00:00,Administracion de Sistemas,tarde,Alumno12
+2024-11-21 05:00:00,Big Data,ausente,Alumno28
+2024-11-21 05:00:00,Big Data,ausente,Alumno7
+2024-11-21 05:00:00,Big Data,ausente,Alumno2
+2024-11-21 05:00:00,Big Data,ausente,Alumno5
+2024-11-21 05:00:00,Big Data,ausente,Alumno3
+2024-11-21 05:00:00,Big Data,presente,Alumno22
+2024-11-21 05:00:00,Big Data,presente,Alumno13
+2024-11-21 05:00:00,Big Data,presente,Alumno27
+2024-11-21 05:00:00,Big Data,presente,Alumno18
+2024-11-21 05:00:00,Big Data,presente,Alumno16
+2024-11-21 05:00:00,Big Data,presente,Alumno21
+2024-11-21 05:00:00,Big Data,presente,Alumno5
+2024-11-21 05:00:00,Big Data,presente,Alumno12
+2024-11-21 05:00:00,Big Data,tarde,Alumno17
+2024-11-21 05:00:00,Big Data,tarde,Alumno28
+2024-11-21 05:00:00,Big Data,tarde,Alumno27
+2024-11-21 05:00:00,Big Data,tarde,Alumno1
+2024-11-21 05:00:00,Empresa y Legislacion,ausente,Alumno27
+2024-11-21 05:00:00,Empresa y Legislacion,ausente,Alumno2
+2024-11-21 05:00:00,Empresa y Legislacion,presente,Alumno4
+2024-11-21 05:00:00,Empresa y Legislacion,presente,Alumno21
+2024-11-21 05:00:00,Empresa y Legislacion,presente,Alumno29
+2024-11-21 05:00:00,Empresa y Legislacion,presente,Alumno24
+2024-11-21 05:00:00,Empresa y Legislacion,presente,Alumno8
+2024-11-21 05:00:00,Empresa y Legislacion,presente,Alumno20
+2024-11-21 05:00:00,Empresa y Legislacion,presente,Alumno21
+2024-11-21 05:00:00,Empresa y Legislacion,tarde,Alumno26
+2024-11-21 05:00:00,Ingenieria del Software,ausente,Alumno8
+2024-11-21 05:00:00,Ingenieria del Software,ausente,Alumno24
+2024-11-21 05:00:00,Ingenieria del Software,ausente,Alumno16
+2024-11-21 05:00:00,Ingenieria del Software,presente,Alumno24
+2024-11-21 05:00:00,Ingenieria del Software,presente,Alumno23
+2024-11-21 05:00:00,Ingenieria del Software,presente,Alumno28
+2024-11-21 05:00:00,Ingenieria del Software,presente,Alumno14
+2024-11-21 05:00:00,Ingenieria del Software,tarde,Alumno17
+2024-11-21 07:00:00,Big Data,ausente,Alumno30
+2024-11-21 07:00:00,Big Data,ausente,Alumno11
+2024-11-21 07:00:00,Big Data,ausente,Alumno13
+2024-11-21 07:00:00,Big Data,ausente,Alumno14
+2024-11-21 07:00:00,Big Data,ausente,Alumno29
+2024-11-21 07:00:00,Big Data,tarde,Alumno7
+2024-11-21 07:00:00,Big Data,tarde,Alumno26
+2024-11-21 07:00:00,Big Data,tarde,Alumno12
+2024-11-21 07:00:00,Empresa y Legislacion,ausente,Alumno2
+2024-11-21 07:00:00,Empresa y Legislacion,ausente,Alumno23
+2024-11-21 07:00:00,Empresa y Legislacion,ausente,Alumno29
+2024-11-21 07:00:00,Empresa y Legislacion,ausente,Alumno20
+2024-11-21 07:00:00,Empresa y Legislacion,presente,Alumno14
+2024-11-21 07:00:00,Empresa y Legislacion,presente,Alumno25
+2024-11-21 07:00:00,Empresa y Legislacion,presente,Alumno15
+2024-11-21 07:00:00,Empresa y Legislacion,presente,Alumno30
+2024-11-21 07:00:00,Empresa y Legislacion,tarde,Alumno6
+2024-11-21 07:00:00,Empresa y Legislacion,tarde,Alumno13
+2024-11-21 07:00:00,Ingenieria del Software,ausente,Alumno9
+2024-11-21 07:00:00,Ingenieria del Software,ausente,Alumno20
+2024-11-21 07:00:00,Ingenieria del Software,ausente,Alumno17
+2024-11-21 07:00:00,Ingenieria del Software,ausente,Alumno29
+2024-11-21 07:00:00,Ingenieria del Software,ausente,Alumno17
+2024-11-21 07:00:00,Ingenieria del Software,ausente,Alumno17
+2024-11-21 07:00:00,Ingenieria del Software,presente,Alumno13
+2024-11-21 07:00:00,Ingenieria del Software,presente,Alumno5
+2024-11-21 07:00:00,Ingenieria del Software,presente,Alumno26
+2024-11-21 07:00:00,Ingenieria del Software,presente,Alumno3
+2024-11-21 07:00:00,Ingenieria del Software,tarde,Alumno4
+2024-11-21 07:00:00,Ingenieria del Software,tarde,Alumno14
+2024-11-21 07:00:00,Ingenieria del Software,tarde,Alumno28
+2024-11-21 07:00:00,Ingenieria del Software,tarde,Alumno21
+2024-11-21 07:00:00,Ingenieria del Software,tarde,Alumno12
+2024-11-21 09:00:00,Administracion de Sistemas,ausente,Alumno8
+2024-11-21 09:00:00,Administracion de Sistemas,ausente,Alumno30
+2024-11-21 09:00:00,Administracion de Sistemas,ausente,Alumno7
+2024-11-21 09:00:00,Administracion de Sistemas,ausente,Alumno26
+2024-11-21 09:00:00,Administracion de Sistemas,presente,Alumno19
+2024-11-21 09:00:00,Administracion de Sistemas,presente,Alumno28
+2024-11-21 09:00:00,Administracion de Sistemas,presente,Alumno15
+2024-11-21 09:00:00,Administracion de Sistemas,presente,Alumno6
+2024-11-21 09:00:00,Administracion de Sistemas,presente,Alumno18
+2024-11-21 09:00:00,Administracion de Sistemas,presente,Alumno7
+2024-11-21 09:00:00,Administracion de Sistemas,presente,Alumno28
+2024-11-21 09:00:00,Administracion de Sistemas,presente,Alumno16
+2024-11-21 09:00:00,Administracion de Sistemas,tarde,Alumno9
+2024-11-21 09:00:00,Big Data,ausente,Alumno22
+2024-11-21 09:00:00,Big Data,ausente,Alumno21
+2024-11-21 09:00:00,Big Data,presente,Alumno22
+2024-11-21 09:00:00,Big Data,tarde,Alumno11
+2024-11-21 09:00:00,Big Data,tarde,Alumno19
+2024-11-21 09:00:00,Big Data,tarde,Alumno21
+2024-11-21 09:00:00,Big Data,tarde,Alumno10
+2024-11-21 09:00:00,Big Data,tarde,Alumno9
+2024-11-21 09:00:00,Empresa y Legislacion,ausente,Alumno26
+2024-11-21 09:00:00,Empresa y Legislacion,presente,Alumno22
+2024-11-21 09:00:00,Empresa y Legislacion,presente,Alumno6
+2024-11-21 09:00:00,Empresa y Legislacion,tarde,Alumno5
+2024-11-21 09:00:00,Empresa y Legislacion,tarde,Alumno23
+2024-11-21 09:00:00,Empresa y Legislacion,tarde,Alumno26
+2024-11-21 09:00:00,Empresa y Legislacion,tarde,Alumno25
+2024-11-21 09:00:00,Empresa y Legislacion,tarde,Alumno16
+2024-11-21 09:00:00,Ingenieria del Software,ausente,Alumno22
+2024-11-21 09:00:00,Ingenieria del Software,ausente,Alumno30
+2024-11-21 09:00:00,Ingenieria del Software,ausente,Alumno23
+2024-11-21 09:00:00,Ingenieria del Software,ausente,Alumno2
+2024-11-21 09:00:00,Ingenieria del Software,presente,Alumno12
+2024-11-21 09:00:00,Ingenieria del Software,presente,Alumno24
+2024-11-21 09:00:00,Ingenieria del Software,presente,Alumno10
+2024-11-21 09:00:00,Ingenieria del Software,presente,Alumno7
+2024-11-21 09:00:00,Ingenieria del Software,tarde,Alumno23
+2024-11-21 11:00:00,Administracion de Sistemas,ausente,Alumno14
+2024-11-21 11:00:00,Administracion de Sistemas,ausente,Alumno2
+2024-11-21 11:00:00,Administracion de Sistemas,presente,Alumno11
+2024-11-21 11:00:00,Administracion de Sistemas,tarde,Alumno30
+2024-11-21 11:00:00,Administracion de Sistemas,tarde,Alumno6
+2024-11-21 11:00:00,Big Data,ausente,Alumno19
+2024-11-21 11:00:00,Big Data,ausente,Alumno28
+2024-11-21 11:00:00,Big Data,ausente,Alumno17
+2024-11-21 11:00:00,Big Data,presente,Alumno30
+2024-11-21 11:00:00,Big Data,presente,Alumno20
+2024-11-21 11:00:00,Big Data,presente,Alumno24
+2024-11-21 11:00:00,Big Data,tarde,Alumno20
+2024-11-21 11:00:00,Big Data,tarde,Alumno25
+2024-11-21 11:00:00,Big Data,tarde,Alumno12
+2024-11-21 11:00:00,Empresa y Legislacion,ausente,Alumno20
+2024-11-21 11:00:00,Empresa y Legislacion,presente,Alumno24
+2024-11-21 11:00:00,Empresa y Legislacion,presente,Alumno5
+2024-11-21 11:00:00,Empresa y Legislacion,presente,Alumno19
+2024-11-21 11:00:00,Empresa y Legislacion,tarde,Alumno10
+2024-11-21 11:00:00,Empresa y Legislacion,tarde,Alumno24
+2024-11-21 11:00:00,Ingenieria del Software,ausente,Alumno4
+2024-11-21 11:00:00,Ingenieria del Software,ausente,Alumno7
+2024-11-21 11:00:00,Ingenieria del Software,ausente,Alumno29
+2024-11-21 11:00:00,Ingenieria del Software,ausente,Alumno26
+2024-11-21 11:00:00,Ingenieria del Software,ausente,Alumno20
+2024-11-21 11:00:00,Ingenieria del Software,presente,Alumno18
+2024-11-21 11:00:00,Ingenieria del Software,presente,Alumno15
+2024-11-21 11:00:00,Ingenieria del Software,tarde,Alumno6
+2024-11-21 11:00:00,Ingenieria del Software,tarde,Alumno14
+2024-11-21 11:00:00,Ingenieria del Software,tarde,Alumno17
+2024-11-21 11:00:00,Ingenieria del Software,tarde,Alumno1
+2024-11-21 13:00:00,Administracion de Sistemas,ausente,Alumno9
+2024-11-21 13:00:00,Administracion de Sistemas,ausente,Alumno8
+2024-11-21 13:00:00,Administracion de Sistemas,ausente,Alumno18
+2024-11-21 13:00:00,Administracion de Sistemas,presente,Alumno29
+2024-11-21 13:00:00,Administracion de Sistemas,presente,Alumno15
+2024-11-21 13:00:00,Administracion de Sistemas,tarde,Alumno24
+2024-11-21 13:00:00,Administracion de Sistemas,tarde,Alumno6
+2024-11-21 13:00:00,Administracion de Sistemas,tarde,Alumno14
+2024-11-21 13:00:00,Big Data,ausente,Alumno17
+2024-11-21 13:00:00,Big Data,ausente,Alumno26
+2024-11-21 13:00:00,Big Data,ausente,Alumno13
+2024-11-21 13:00:00,Big Data,ausente,Alumno26
+2024-11-21 13:00:00,Big Data,presente,Alumno16
+2024-11-21 13:00:00,Big Data,presente,Alumno13
+2024-11-21 13:00:00,Big Data,presente,Alumno7
+2024-11-21 13:00:00,Big Data,tarde,Alumno27
+2024-11-21 13:00:00,Big Data,tarde,Alumno26
+2024-11-21 13:00:00,Empresa y Legislacion,ausente,Alumno17
+2024-11-21 13:00:00,Empresa y Legislacion,ausente,Alumno14
+2024-11-21 13:00:00,Empresa y Legislacion,ausente,Alumno15
+2024-11-21 13:00:00,Empresa y Legislacion,presente,Alumno3
+2024-11-21 13:00:00,Empresa y Legislacion,presente,Alumno30
+2024-11-21 13:00:00,Empresa y Legislacion,tarde,Alumno20
+2024-11-21 13:00:00,Ingenieria del Software,ausente,Alumno18
+2024-11-21 13:00:00,Ingenieria del Software,presente,Alumno19
+2024-11-21 13:00:00,Ingenieria del Software,presente,Alumno5
+2024-11-21 13:00:00,Ingenieria del Software,presente,Alumno8
+2024-11-21 13:00:00,Ingenieria del Software,presente,Alumno1
+2024-11-21 13:00:00,Ingenieria del Software,presente,Alumno7
+2024-11-21 13:00:00,Ingenieria del Software,tarde,Alumno7
+2024-11-21 13:00:00,Ingenieria del Software,tarde,Alumno23
+2024-11-21 13:00:00,Ingenieria del Software,tarde,Alumno27
+2024-11-21 13:00:00,Ingenieria del Software,tarde,Alumno26
+2024-11-21 15:00:00,Administracion de Sistemas,ausente,Alumno1
+2024-11-21 15:00:00,Administracion de Sistemas,ausente,Alumno24
+2024-11-21 15:00:00,Administracion de Sistemas,ausente,Alumno8
+2024-11-21 15:00:00,Administracion de Sistemas,presente,Alumno7
+2024-11-21 15:00:00,Administracion de Sistemas,presente,Alumno13
+2024-11-21 15:00:00,Administracion de Sistemas,tarde,Alumno20
+2024-11-21 15:00:00,Big Data,presente,Alumno6
+2024-11-21 15:00:00,Big Data,presente,Alumno24
+2024-11-21 15:00:00,Big Data,tarde,Alumno5
+2024-11-21 15:00:00,Big Data,tarde,Alumno18
+2024-11-21 15:00:00,Big Data,tarde,Alumno13
+2024-11-21 15:00:00,Empresa y Legislacion,ausente,Alumno7
+2024-11-21 15:00:00,Empresa y Legislacion,ausente,Alumno8
+2024-11-21 15:00:00,Empresa y Legislacion,presente,Alumno9
+2024-11-21 15:00:00,Empresa y Legislacion,presente,Alumno20
+2024-11-21 15:00:00,Empresa y Legislacion,presente,Alumno11
+2024-11-21 15:00:00,Empresa y Legislacion,tarde,Alumno12
+2024-11-21 15:00:00,Ingenieria del Software,ausente,Alumno21
+2024-11-21 15:00:00,Ingenieria del Software,ausente,Alumno21
+2024-11-21 15:00:00,Ingenieria del Software,ausente,Alumno1
+2024-11-21 15:00:00,Ingenieria del Software,presente,Alumno6
+2024-11-21 15:00:00,Ingenieria del Software,presente,Alumno25
+2024-11-21 15:00:00,Ingenieria del Software,tarde,Alumno10
+2024-11-21 15:00:00,Ingenieria del Software,tarde,Alumno24
+2024-11-21 15:00:00,Ingenieria del Software,tarde,Alumno13
+2024-11-21 17:00:00,Administracion de Sistemas,presente,Alumno1
+2024-11-21 17:00:00,Administracion de Sistemas,presente,Alumno13
+2024-11-21 17:00:00,Administracion de Sistemas,presente,Alumno3
+2024-11-21 17:00:00,Administracion de Sistemas,tarde,Alumno28
+2024-11-21 17:00:00,Administracion de Sistemas,tarde,Alumno21
+2024-11-21 17:00:00,Administracion de Sistemas,tarde,Alumno13
+2024-11-21 17:00:00,Big Data,presente,Alumno5
+2024-11-21 17:00:00,Big Data,presente,Alumno27
+2024-11-21 17:00:00,Big Data,tarde,Alumno24
+2024-11-21 17:00:00,Big Data,tarde,Alumno15
+2024-11-21 17:00:00,Empresa y Legislacion,ausente,Alumno9
+2024-11-21 17:00:00,Empresa y Legislacion,presente,Alumno12
+2024-11-21 17:00:00,Empresa y Legislacion,presente,Alumno24
+2024-11-21 17:00:00,Empresa y Legislacion,tarde,Alumno1
+2024-11-21 17:00:00,Empresa y Legislacion,tarde,Alumno28
+2024-11-21 17:00:00,Ingenieria del Software,ausente,Alumno5
+2024-11-21 17:00:00,Ingenieria del Software,presente,Alumno24
+2024-11-21 17:00:00,Ingenieria del Software,presente,Alumno3
+2024-11-21 17:00:00,Ingenieria del Software,presente,Alumno26
+2024-11-21 17:00:00,Ingenieria del Software,tarde,Alumno18
+2024-11-21 17:00:00,Ingenieria del Software,tarde,Alumno18
+2024-11-21 19:00:00,Administracion de Sistemas,ausente,Alumno11
+2024-11-21 19:00:00,Administracion de Sistemas,ausente,Alumno18
+2024-11-21 19:00:00,Administracion de Sistemas,ausente,Alumno26
+2024-11-21 19:00:00,Administracion de Sistemas,presente,Alumno27
+2024-11-21 19:00:00,Administracion de Sistemas,presente,Alumno7
+2024-11-21 19:00:00,Administracion de Sistemas,presente,Alumno9
+2024-11-21 19:00:00,Administracion de Sistemas,presente,Alumno30
+2024-11-21 19:00:00,Administracion de Sistemas,tarde,Alumno26
+2024-11-21 19:00:00,Administracion de Sistemas,tarde,Alumno27
+2024-11-21 19:00:00,Administracion de Sistemas,tarde,Alumno22
+2024-11-21 19:00:00,Administracion de Sistemas,tarde,Alumno30
+2024-11-21 19:00:00,Big Data,ausente,Alumno24
+2024-11-21 19:00:00,Big Data,ausente,Alumno10
+2024-11-21 19:00:00,Big Data,ausente,Alumno15
+2024-11-21 19:00:00,Big Data,presente,Alumno6
+2024-11-21 19:00:00,Big Data,presente,Alumno28
+2024-11-21 19:00:00,Big Data,tarde,Alumno9
+2024-11-21 19:00:00,Big Data,tarde,Alumno30
+2024-11-21 19:00:00,Empresa y Legislacion,ausente,Alumno5
+2024-11-21 19:00:00,Empresa y Legislacion,presente,Alumno16
+2024-11-21 19:00:00,Empresa y Legislacion,presente,Alumno18
+2024-11-21 19:00:00,Empresa y Legislacion,tarde,Alumno23
+2024-11-21 19:00:00,Ingenieria del Software,presente,Alumno16
+2024-11-21 19:00:00,Ingenieria del Software,presente,Alumno20
+2024-11-21 19:00:00,Ingenieria del Software,presente,Alumno24
+2024-11-21 19:00:00,Ingenieria del Software,tarde,Alumno22
+2024-11-21 19:00:00,Ingenieria del Software,tarde,Alumno30
+2024-11-21 19:00:00,Ingenieria del Software,tarde,Alumno1
+2024-11-21 21:00:00,Administracion de Sistemas,ausente,Alumno18
+2024-11-21 21:00:00,Administracion de Sistemas,ausente,Alumno29
+2024-11-21 21:00:00,Administracion de Sistemas,ausente,Alumno3
+2024-11-21 21:00:00,Administracion de Sistemas,presente,Alumno23
+2024-11-21 21:00:00,Administracion de Sistemas,presente,Alumno3
+2024-11-21 21:00:00,Administracion de Sistemas,presente,Alumno29
+2024-11-21 21:00:00,Administracion de Sistemas,presente,Alumno23
+2024-11-21 21:00:00,Administracion de Sistemas,presente,Alumno17
+2024-11-21 21:00:00,Administracion de Sistemas,presente,Alumno2
+2024-11-21 21:00:00,Administracion de Sistemas,presente,Alumno17
+2024-11-21 21:00:00,Administracion de Sistemas,tarde,Alumno14
+2024-11-21 21:00:00,Administracion de Sistemas,tarde,Alumno18
+2024-11-21 21:00:00,Administracion de Sistemas,tarde,Alumno14
+2024-11-21 21:00:00,Big Data,ausente,Alumno19
+2024-11-21 21:00:00,Big Data,ausente,Alumno11
+2024-11-21 21:00:00,Big Data,presente,Alumno12
+2024-11-21 21:00:00,Big Data,tarde,Alumno25
+2024-11-21 21:00:00,Big Data,tarde,Alumno12
+2024-11-21 21:00:00,Big Data,tarde,Alumno11
+2024-11-21 21:00:00,Big Data,tarde,Alumno10
+2024-11-21 21:00:00,Empresa y Legislacion,ausente,Alumno16
+2024-11-21 21:00:00,Empresa y Legislacion,ausente,Alumno6
+2024-11-21 21:00:00,Empresa y Legislacion,ausente,Alumno18
+2024-11-21 21:00:00,Empresa y Legislacion,ausente,Alumno9
+2024-11-21 21:00:00,Empresa y Legislacion,tarde,Alumno12
+2024-11-21 21:00:00,Empresa y Legislacion,tarde,Alumno21
+2024-11-21 21:00:00,Empresa y Legislacion,tarde,Alumno30
+2024-11-21 21:00:00,Ingenieria del Software,ausente,Alumno13
+2024-11-21 21:00:00,Ingenieria del Software,ausente,Alumno7
+2024-11-21 21:00:00,Ingenieria del Software,presente,Alumno12
+2024-11-21 21:00:00,Ingenieria del Software,presente,Alumno26
+2024-11-21 21:00:00,Ingenieria del Software,presente,Alumno25
+2024-11-21 21:00:00,Ingenieria del Software,tarde,Alumno27
+2024-11-21 21:00:00,Ingenieria del Software,tarde,Alumno25
+2024-11-21 21:00:00,Ingenieria del Software,tarde,Alumno6
+2024-11-21 21:00:00,Ingenieria del Software,tarde,Alumno19
+2024-11-21 23:00:00,Administracion de Sistemas,ausente,Alumno19
+2024-11-21 23:00:00,Administracion de Sistemas,ausente,Alumno3
+2024-11-21 23:00:00,Administracion de Sistemas,ausente,Alumno30
+2024-11-21 23:00:00,Administracion de Sistemas,ausente,Alumno18
+2024-11-21 23:00:00,Administracion de Sistemas,ausente,Alumno28
+2024-11-21 23:00:00,Administracion de Sistemas,presente,Alumno22
+2024-11-21 23:00:00,Administracion de Sistemas,presente,Alumno14
+2024-11-21 23:00:00,Administracion de Sistemas,presente,Alumno8
+2024-11-21 23:00:00,Administracion de Sistemas,presente,Alumno23
+2024-11-21 23:00:00,Administracion de Sistemas,presente,Alumno20
+2024-11-21 23:00:00,Big Data,presente,Alumno3
+2024-11-21 23:00:00,Big Data,tarde,Alumno2
+2024-11-21 23:00:00,Big Data,tarde,Alumno21
+2024-11-21 23:00:00,Empresa y Legislacion,ausente,Alumno6
+2024-11-21 23:00:00,Empresa y Legislacion,ausente,Alumno13
+2024-11-21 23:00:00,Empresa y Legislacion,ausente,Alumno30
+2024-11-21 23:00:00,Empresa y Legislacion,ausente,Alumno2
+2024-11-21 23:00:00,Empresa y Legislacion,ausente,Alumno22
+2024-11-21 23:00:00,Empresa y Legislacion,presente,Alumno24
+2024-11-21 23:00:00,Empresa y Legislacion,presente,Alumno24
+2024-11-21 23:00:00,Empresa y Legislacion,presente,Alumno24
+2024-11-21 23:00:00,Empresa y Legislacion,presente,Alumno8
+2024-11-21 23:00:00,Empresa y Legislacion,presente,Alumno12
+2024-11-21 23:00:00,Empresa y Legislacion,tarde,Alumno10
+2024-11-21 23:00:00,Ingenieria del Software,ausente,Alumno28
+2024-11-21 23:00:00,Ingenieria del Software,ausente,Alumno5
+2024-11-21 23:00:00,Ingenieria del Software,presente,Alumno14
+2024-11-21 23:00:00,Ingenieria del Software,tarde,Alumno10
+2024-11-21 23:00:00,Ingenieria del Software,tarde,Alumno25
+2024-11-22 01:00:00,Administracion de Sistemas,ausente,Alumno30
+2024-11-22 01:00:00,Administracion de Sistemas,ausente,Alumno13
+2024-11-22 01:00:00,Administracion de Sistemas,presente,Alumno18
+2024-11-22 01:00:00,Administracion de Sistemas,presente,Alumno29
+2024-11-22 01:00:00,Administracion de Sistemas,presente,Alumno17
+2024-11-22 01:00:00,Administracion de Sistemas,tarde,Alumno3
+2024-11-22 01:00:00,Administracion de Sistemas,tarde,Alumno15
+2024-11-22 01:00:00,Big Data,ausente,Alumno8
+2024-11-22 01:00:00,Big Data,ausente,Alumno3
+2024-11-22 01:00:00,Big Data,ausente,Alumno25
+2024-11-22 01:00:00,Big Data,presente,Alumno5
+2024-11-22 01:00:00,Big Data,presente,Alumno18
+2024-11-22 01:00:00,Big Data,tarde,Alumno14
+2024-11-22 01:00:00,Big Data,tarde,Alumno22
+2024-11-22 01:00:00,Empresa y Legislacion,ausente,Alumno10
+2024-11-22 01:00:00,Empresa y Legislacion,ausente,Alumno7
+2024-11-22 01:00:00,Empresa y Legislacion,ausente,Alumno2
+2024-11-22 01:00:00,Empresa y Legislacion,presente,Alumno1
+2024-11-22 01:00:00,Empresa y Legislacion,presente,Alumno6
+2024-11-22 01:00:00,Empresa y Legislacion,presente,Alumno9
+2024-11-22 01:00:00,Empresa y Legislacion,presente,Alumno18
+2024-11-22 01:00:00,Empresa y Legislacion,presente,Alumno5
+2024-11-22 01:00:00,Empresa y Legislacion,presente,Alumno27
+2024-11-22 01:00:00,Empresa y Legislacion,tarde,Alumno20
+2024-11-22 01:00:00,Ingenieria del Software,ausente,Alumno4
+2024-11-22 01:00:00,Ingenieria del Software,ausente,Alumno6
+2024-11-22 01:00:00,Ingenieria del Software,presente,Alumno10
+2024-11-22 01:00:00,Ingenieria del Software,presente,Alumno7
+2024-11-22 01:00:00,Ingenieria del Software,tarde,Alumno3
+2024-11-22 01:00:00,Ingenieria del Software,tarde,Alumno24
+2024-11-22 03:00:00,Administracion de Sistemas,ausente,Alumno8
+2024-11-22 03:00:00,Administracion de Sistemas,ausente,Alumno7
+2024-11-22 03:00:00,Administracion de Sistemas,presente,Alumno3
+2024-11-22 03:00:00,Administracion de Sistemas,presente,Alumno9
+2024-11-22 03:00:00,Administracion de Sistemas,presente,Alumno11
+2024-11-22 03:00:00,Administracion de Sistemas,presente,Alumno3
+2024-11-22 03:00:00,Administracion de Sistemas,tarde,Alumno4
+2024-11-22 03:00:00,Big Data,ausente,Alumno15
+2024-11-22 03:00:00,Big Data,presente,Alumno4
+2024-11-22 03:00:00,Big Data,presente,Alumno13
+2024-11-22 03:00:00,Big Data,tarde,Alumno25
+2024-11-22 03:00:00,Empresa y Legislacion,ausente,Alumno21
+2024-11-22 03:00:00,Empresa y Legislacion,ausente,Alumno3
+2024-11-22 03:00:00,Empresa y Legislacion,ausente,Alumno18
+2024-11-22 03:00:00,Empresa y Legislacion,presente,Alumno12
+2024-11-22 03:00:00,Empresa y Legislacion,tarde,Alumno6
+2024-11-22 03:00:00,Ingenieria del Software,ausente,Alumno19
+2024-11-22 03:00:00,Ingenieria del Software,ausente,Alumno29
+2024-11-22 03:00:00,Ingenieria del Software,presente,Alumno20
+2024-11-22 03:00:00,Ingenieria del Software,presente,Alumno13
+2024-11-22 05:00:00,Administracion de Sistemas,ausente,Alumno25
+2024-11-22 05:00:00,Administracion de Sistemas,ausente,Alumno1
+2024-11-22 05:00:00,Administracion de Sistemas,ausente,Alumno12
+2024-11-22 05:00:00,Administracion de Sistemas,ausente,Alumno26
+2024-11-22 05:00:00,Administracion de Sistemas,ausente,Alumno1
+2024-11-22 05:00:00,Administracion de Sistemas,ausente,Alumno23
+2024-11-22 05:00:00,Administracion de Sistemas,presente,Alumno19
+2024-11-22 05:00:00,Administracion de Sistemas,presente,Alumno23
+2024-11-22 05:00:00,Administracion de Sistemas,presente,Alumno25
+2024-11-22 05:00:00,Big Data,ausente,Alumno8
+2024-11-22 05:00:00,Big Data,ausente,Alumno16
+2024-11-22 05:00:00,Big Data,tarde,Alumno7
+2024-11-22 05:00:00,Big Data,tarde,Alumno12
+2024-11-22 05:00:00,Empresa y Legislacion,ausente,Alumno3
+2024-11-22 05:00:00,Empresa y Legislacion,ausente,Alumno26
+2024-11-22 05:00:00,Empresa y Legislacion,presente,Alumno12
+2024-11-22 05:00:00,Empresa y Legislacion,presente,Alumno5
+2024-11-22 05:00:00,Empresa y Legislacion,presente,Alumno27
+2024-11-22 05:00:00,Empresa y Legislacion,tarde,Alumno23
+2024-11-22 05:00:00,Empresa y Legislacion,tarde,Alumno7
+2024-11-22 05:00:00,Empresa y Legislacion,tarde,Alumno30
+2024-11-22 05:00:00,Empresa y Legislacion,tarde,Alumno8
+2024-11-22 05:00:00,Ingenieria del Software,ausente,Alumno1
+2024-11-22 05:00:00,Ingenieria del Software,ausente,Alumno12
+2024-11-22 05:00:00,Ingenieria del Software,presente,Alumno20
+2024-11-22 05:00:00,Ingenieria del Software,presente,Alumno23
+2024-11-22 05:00:00,Ingenieria del Software,presente,Alumno27
+2024-11-22 05:00:00,Ingenieria del Software,presente,Alumno27
+2024-11-22 05:00:00,Ingenieria del Software,tarde,Alumno2
+2024-11-22 05:00:00,Ingenieria del Software,tarde,Alumno18
+2024-11-22 07:00:00,Administracion de Sistemas,ausente,Alumno12
+2024-11-22 07:00:00,Administracion de Sistemas,ausente,Alumno6
+2024-11-22 07:00:00,Administracion de Sistemas,tarde,Alumno24
+2024-11-22 07:00:00,Administracion de Sistemas,tarde,Alumno8
+2024-11-22 07:00:00,Big Data,ausente,Alumno19
+2024-11-22 07:00:00,Big Data,ausente,Alumno27
+2024-11-22 07:00:00,Big Data,presente,Alumno29
+2024-11-22 07:00:00,Big Data,presente,Alumno10
+2024-11-22 07:00:00,Big Data,tarde,Alumno17
+2024-11-22 07:00:00,Big Data,tarde,Alumno28
+2024-11-22 07:00:00,Big Data,tarde,Alumno28
+2024-11-22 07:00:00,Big Data,tarde,Alumno5
+2024-11-22 07:00:00,Empresa y Legislacion,presente,Alumno27
+2024-11-22 07:00:00,Empresa y Legislacion,presente,Alumno28
+2024-11-22 07:00:00,Empresa y Legislacion,tarde,Alumno20
+2024-11-22 07:00:00,Ingenieria del Software,ausente,Alumno22
+2024-11-22 07:00:00,Ingenieria del Software,ausente,Alumno11
+2024-11-22 07:00:00,Ingenieria del Software,presente,Alumno7
+2024-11-22 07:00:00,Ingenieria del Software,presente,Alumno26
+2024-11-22 07:00:00,Ingenieria del Software,presente,Alumno28
+2024-11-22 07:00:00,Ingenieria del Software,presente,Alumno25
+2024-11-22 07:00:00,Ingenieria del Software,presente,Alumno10
+2024-11-22 07:00:00,Ingenieria del Software,presente,Alumno14
+2024-11-22 09:00:00,Administracion de Sistemas,ausente,Alumno16
+2024-11-22 09:00:00,Administracion de Sistemas,ausente,Alumno24
+2024-11-22 09:00:00,Administracion de Sistemas,presente,Alumno13
+2024-11-22 09:00:00,Administracion de Sistemas,presente,Alumno16
+2024-11-22 09:00:00,Administracion de Sistemas,tarde,Alumno16
+2024-11-22 09:00:00,Administracion de Sistemas,tarde,Alumno2
+2024-11-22 09:00:00,Administracion de Sistemas,tarde,Alumno25
+2024-11-22 09:00:00,Administracion de Sistemas,tarde,Alumno18
+2024-11-22 09:00:00,Administracion de Sistemas,tarde,Alumno17
+2024-11-22 09:00:00,Administracion de Sistemas,tarde,Alumno27
+2024-11-22 09:00:00,Big Data,ausente,Alumno18
+2024-11-22 09:00:00,Big Data,ausente,Alumno19
+2024-11-22 09:00:00,Big Data,ausente,Alumno18
+2024-11-22 09:00:00,Big Data,ausente,Alumno29
+2024-11-22 09:00:00,Big Data,ausente,Alumno14
+2024-11-22 09:00:00,Big Data,presente,Alumno26
+2024-11-22 09:00:00,Big Data,presente,Alumno13
+2024-11-22 09:00:00,Big Data,presente,Alumno16
+2024-11-22 09:00:00,Big Data,tarde,Alumno2
+2024-11-22 09:00:00,Big Data,tarde,Alumno20
+2024-11-22 09:00:00,Big Data,tarde,Alumno30
+2024-11-22 09:00:00,Empresa y Legislacion,ausente,Alumno7
+2024-11-22 09:00:00,Empresa y Legislacion,ausente,Alumno11
+2024-11-22 09:00:00,Empresa y Legislacion,presente,Alumno10
+2024-11-22 09:00:00,Empresa y Legislacion,presente,Alumno26
+2024-11-22 09:00:00,Empresa y Legislacion,presente,Alumno27
+2024-11-22 09:00:00,Empresa y Legislacion,tarde,Alumno5
+2024-11-22 09:00:00,Empresa y Legislacion,tarde,Alumno28
+2024-11-22 09:00:00,Empresa y Legislacion,tarde,Alumno20
+2024-11-22 09:00:00,Ingenieria del Software,ausente,Alumno1
+2024-11-22 09:00:00,Ingenieria del Software,tarde,Alumno6
+2024-11-22 11:00:00,Administracion de Sistemas,ausente,Alumno12
+2024-11-22 11:00:00,Administracion de Sistemas,ausente,Alumno14
+2024-11-22 11:00:00,Administracion de Sistemas,ausente,Alumno2
+2024-11-22 11:00:00,Administracion de Sistemas,presente,Alumno1
+2024-11-22 11:00:00,Administracion de Sistemas,tarde,Alumno20
+2024-11-22 11:00:00,Big Data,presente,Alumno9
+2024-11-22 11:00:00,Big Data,presente,Alumno4
+2024-11-22 11:00:00,Big Data,tarde,Alumno12
+2024-11-22 11:00:00,Big Data,tarde,Alumno30
+2024-11-22 11:00:00,Empresa y Legislacion,ausente,Alumno15
+2024-11-22 11:00:00,Empresa y Legislacion,ausente,Alumno16
+2024-11-22 11:00:00,Empresa y Legislacion,presente,Alumno9
+2024-11-22 11:00:00,Empresa y Legislacion,presente,Alumno17
+2024-11-22 11:00:00,Empresa y Legislacion,tarde,Alumno24
+2024-11-22 11:00:00,Empresa y Legislacion,tarde,Alumno21
+2024-11-22 11:00:00,Empresa y Legislacion,tarde,Alumno13
+2024-11-22 11:00:00,Ingenieria del Software,ausente,Alumno9
+2024-11-22 11:00:00,Ingenieria del Software,ausente,Alumno12
+2024-11-22 11:00:00,Ingenieria del Software,ausente,Alumno16
+2024-11-22 11:00:00,Ingenieria del Software,ausente,Alumno3
+2024-11-22 11:00:00,Ingenieria del Software,ausente,Alumno27
+2024-11-22 11:00:00,Ingenieria del Software,presente,Alumno8
+2024-11-22 11:00:00,Ingenieria del Software,tarde,Alumno1
+2024-11-22 11:00:00,Ingenieria del Software,tarde,Alumno27
+2024-11-22 13:00:00,Administracion de Sistemas,ausente,Alumno22
+2024-11-22 13:00:00,Administracion de Sistemas,ausente,Alumno13
+2024-11-22 13:00:00,Administracion de Sistemas,presente,Alumno21
+2024-11-22 13:00:00,Administracion de Sistemas,presente,Alumno3
+2024-11-22 13:00:00,Administracion de Sistemas,presente,Alumno16
+2024-11-22 13:00:00,Administracion de Sistemas,tarde,Alumno3
+2024-11-22 13:00:00,Administracion de Sistemas,tarde,Alumno16
+2024-11-22 13:00:00,Administracion de Sistemas,tarde,Alumno8
+2024-11-22 13:00:00,Administracion de Sistemas,tarde,Alumno26
+2024-11-22 13:00:00,Administracion de Sistemas,tarde,Alumno19
+2024-11-22 13:00:00,Big Data,ausente,Alumno9
+2024-11-22 13:00:00,Big Data,presente,Alumno6
+2024-11-22 13:00:00,Big Data,presente,Alumno7
+2024-11-22 13:00:00,Big Data,presente,Alumno5
+2024-11-22 13:00:00,Big Data,presente,Alumno2
+2024-11-22 13:00:00,Big Data,presente,Alumno17
+2024-11-22 13:00:00,Big Data,presente,Alumno20
+2024-11-22 13:00:00,Empresa y Legislacion,ausente,Alumno18
+2024-11-22 13:00:00,Empresa y Legislacion,ausente,Alumno11
+2024-11-22 13:00:00,Empresa y Legislacion,presente,Alumno29
+2024-11-22 13:00:00,Empresa y Legislacion,presente,Alumno28
+2024-11-22 13:00:00,Empresa y Legislacion,presente,Alumno29
+2024-11-22 13:00:00,Empresa y Legislacion,tarde,Alumno12
+2024-11-22 13:00:00,Empresa y Legislacion,tarde,Alumno7
+2024-11-22 13:00:00,Empresa y Legislacion,tarde,Alumno21
+2024-11-22 13:00:00,Ingenieria del Software,ausente,Alumno8
+2024-11-22 13:00:00,Ingenieria del Software,ausente,Alumno30
+2024-11-22 13:00:00,Ingenieria del Software,ausente,Alumno8
+2024-11-22 13:00:00,Ingenieria del Software,ausente,Alumno6
+2024-11-22 13:00:00,Ingenieria del Software,presente,Alumno13
+2024-11-22 13:00:00,Ingenieria del Software,presente,Alumno8
+2024-11-22 13:00:00,Ingenieria del Software,tarde,Alumno26
+2024-11-22 13:00:00,Ingenieria del Software,tarde,Alumno29
+2024-11-22 13:00:00,Ingenieria del Software,tarde,Alumno9
+2024-11-22 13:00:00,Ingenieria del Software,tarde,Alumno8
+2024-11-22 15:00:00,Administracion de Sistemas,ausente,Alumno5
+2024-11-22 15:00:00,Administracion de Sistemas,ausente,Alumno6
+2024-11-22 15:00:00,Administracion de Sistemas,ausente,Alumno11
+2024-11-22 15:00:00,Administracion de Sistemas,presente,Alumno30
+2024-11-22 15:00:00,Administracion de Sistemas,presente,Alumno5
+2024-11-22 15:00:00,Administracion de Sistemas,tarde,Alumno5
+2024-11-22 15:00:00,Administracion de Sistemas,tarde,Alumno14
+2024-11-22 15:00:00,Administracion de Sistemas,tarde,Alumno10
+2024-11-22 15:00:00,Administracion de Sistemas,tarde,Alumno24
+2024-11-22 15:00:00,Administracion de Sistemas,tarde,Alumno30
+2024-11-22 15:00:00,Big Data,ausente,Alumno18
+2024-11-22 15:00:00,Big Data,presente,Alumno11
+2024-11-22 15:00:00,Big Data,presente,Alumno26
+2024-11-22 15:00:00,Big Data,presente,Alumno7
+2024-11-22 15:00:00,Big Data,tarde,Alumno29
+2024-11-22 15:00:00,Big Data,tarde,Alumno11
+2024-11-22 15:00:00,Empresa y Legislacion,ausente,Alumno10
+2024-11-22 15:00:00,Empresa y Legislacion,ausente,Alumno12
+2024-11-22 15:00:00,Empresa y Legislacion,presente,Alumno20
+2024-11-22 15:00:00,Empresa y Legislacion,tarde,Alumno27
+2024-11-22 15:00:00,Empresa y Legislacion,tarde,Alumno30
+2024-11-22 15:00:00,Empresa y Legislacion,tarde,Alumno5
+2024-11-22 15:00:00,Empresa y Legislacion,tarde,Alumno23
+2024-11-22 15:00:00,Ingenieria del Software,ausente,Alumno12
+2024-11-22 15:00:00,Ingenieria del Software,ausente,Alumno13
+2024-11-22 15:00:00,Ingenieria del Software,tarde,Alumno23
+2024-11-22 15:00:00,Ingenieria del Software,tarde,Alumno8
+2024-11-22 15:00:00,Ingenieria del Software,tarde,Alumno22
+2024-11-22 17:00:00,Administracion de Sistemas,ausente,Alumno18
+2024-11-22 17:00:00,Administracion de Sistemas,ausente,Alumno21
+2024-11-22 17:00:00,Administracion de Sistemas,ausente,Alumno14
+2024-11-22 17:00:00,Administracion de Sistemas,ausente,Alumno14
+2024-11-22 17:00:00,Administracion de Sistemas,presente,Alumno14
+2024-11-22 17:00:00,Administracion de Sistemas,presente,Alumno13
+2024-11-22 17:00:00,Administracion de Sistemas,presente,Alumno5
+2024-11-22 17:00:00,Big Data,ausente,Alumno30
+2024-11-22 17:00:00,Big Data,ausente,Alumno30
+2024-11-22 17:00:00,Big Data,presente,Alumno8
+2024-11-22 17:00:00,Big Data,presente,Alumno15
+2024-11-22 17:00:00,Big Data,tarde,Alumno19
+2024-11-22 17:00:00,Big Data,tarde,Alumno4
+2024-11-22 17:00:00,Big Data,tarde,Alumno2
+2024-11-22 17:00:00,Big Data,tarde,Alumno12
+2024-11-22 17:00:00,Big Data,tarde,Alumno14
+2024-11-22 17:00:00,Big Data,tarde,Alumno20
+2024-11-22 17:00:00,Big Data,tarde,Alumno29
+2024-11-22 17:00:00,Empresa y Legislacion,ausente,Alumno14
+2024-11-22 17:00:00,Empresa y Legislacion,ausente,Alumno1
+2024-11-22 17:00:00,Empresa y Legislacion,ausente,Alumno17
+2024-11-22 17:00:00,Empresa y Legislacion,ausente,Alumno27
+2024-11-22 17:00:00,Empresa y Legislacion,ausente,Alumno30
+2024-11-22 17:00:00,Empresa y Legislacion,ausente,Alumno26
+2024-11-22 17:00:00,Empresa y Legislacion,ausente,Alumno30
+2024-11-22 17:00:00,Empresa y Legislacion,presente,Alumno18
+2024-11-22 17:00:00,Empresa y Legislacion,presente,Alumno9
+2024-11-22 17:00:00,Empresa y Legislacion,presente,Alumno29
+2024-11-22 17:00:00,Empresa y Legislacion,presente,Alumno28
+2024-11-22 17:00:00,Empresa y Legislacion,tarde,Alumno16
+2024-11-22 17:00:00,Empresa y Legislacion,tarde,Alumno17
+2024-11-22 17:00:00,Empresa y Legislacion,tarde,Alumno20
+2024-11-22 17:00:00,Ingenieria del Software,ausente,Alumno7
+2024-11-22 17:00:00,Ingenieria del Software,presente,Alumno24
+2024-11-22 17:00:00,Ingenieria del Software,presente,Alumno22
+2024-11-22 17:00:00,Ingenieria del Software,presente,Alumno29
+2024-11-22 17:00:00,Ingenieria del Software,tarde,Alumno29
+2024-11-22 17:00:00,Ingenieria del Software,tarde,Alumno4
+2024-11-22 17:00:00,Ingenieria del Software,tarde,Alumno13
+2024-11-22 17:00:00,Ingenieria del Software,tarde,Alumno27
+2024-11-22 17:00:00,Ingenieria del Software,tarde,Alumno4
+2024-11-22 19:00:00,Administracion de Sistemas,ausente,Alumno13
+2024-11-22 19:00:00,Administracion de Sistemas,presente,Alumno16
+2024-11-22 19:00:00,Administracion de Sistemas,presente,Alumno1
+2024-11-22 19:00:00,Administracion de Sistemas,tarde,Alumno8
+2024-11-22 19:00:00,Big Data,ausente,Alumno27
+2024-11-22 19:00:00,Big Data,ausente,Alumno15
+2024-11-22 19:00:00,Big Data,ausente,Alumno26
+2024-11-22 19:00:00,Big Data,presente,Alumno27
+2024-11-22 19:00:00,Big Data,presente,Alumno28
+2024-11-22 19:00:00,Big Data,presente,Alumno8
+2024-11-22 19:00:00,Big Data,presente,Alumno18
+2024-11-22 19:00:00,Big Data,tarde,Alumno26
+2024-11-22 19:00:00,Big Data,tarde,Alumno2
+2024-11-22 19:00:00,Empresa y Legislacion,ausente,Alumno1
+2024-11-22 19:00:00,Empresa y Legislacion,ausente,Alumno13
+2024-11-22 19:00:00,Empresa y Legislacion,ausente,Alumno13
+2024-11-22 19:00:00,Empresa y Legislacion,ausente,Alumno29
+2024-11-22 19:00:00,Empresa y Legislacion,presente,Alumno28
+2024-11-22 19:00:00,Empresa y Legislacion,tarde,Alumno15
+2024-11-22 19:00:00,Empresa y Legislacion,tarde,Alumno22
+2024-11-22 19:00:00,Ingenieria del Software,presente,Alumno22
+2024-11-22 19:00:00,Ingenieria del Software,presente,Alumno27
+2024-11-22 19:00:00,Ingenieria del Software,presente,Alumno8
+2024-11-22 19:00:00,Ingenieria del Software,tarde,Alumno25
+2024-11-22 19:00:00,Ingenieria del Software,tarde,Alumno25
+2024-11-22 19:00:00,Ingenieria del Software,tarde,Alumno25
+2024-11-22 19:00:00,Ingenieria del Software,tarde,Alumno22
+2024-11-22 21:00:00,Administracion de Sistemas,ausente,Alumno20
+2024-11-22 21:00:00,Administracion de Sistemas,ausente,Alumno11
+2024-11-22 21:00:00,Administracion de Sistemas,presente,Alumno26
+2024-11-22 21:00:00,Administracion de Sistemas,presente,Alumno24
+2024-11-22 21:00:00,Big Data,ausente,Alumno11
+2024-11-22 21:00:00,Big Data,ausente,Alumno28
+2024-11-22 21:00:00,Big Data,presente,Alumno27
+2024-11-22 21:00:00,Big Data,presente,Alumno11
+2024-11-22 21:00:00,Big Data,tarde,Alumno9
+2024-11-22 21:00:00,Big Data,tarde,Alumno22
+2024-11-22 21:00:00,Big Data,tarde,Alumno10
+2024-11-22 21:00:00,Empresa y Legislacion,ausente,Alumno3
+2024-11-22 21:00:00,Empresa y Legislacion,ausente,Alumno26
+2024-11-22 21:00:00,Empresa y Legislacion,presente,Alumno26
+2024-11-22 21:00:00,Empresa y Legislacion,presente,Alumno20
+2024-11-22 21:00:00,Empresa y Legislacion,presente,Alumno23
+2024-11-22 21:00:00,Ingenieria del Software,ausente,Alumno18
+2024-11-22 21:00:00,Ingenieria del Software,ausente,Alumno17
+2024-11-22 21:00:00,Ingenieria del Software,presente,Alumno19
+2024-11-22 21:00:00,Ingenieria del Software,presente,Alumno14
+2024-11-22 21:00:00,Ingenieria del Software,presente,Alumno26
+2024-11-22 21:00:00,Ingenieria del Software,tarde,Alumno24
+2024-11-22 23:00:00,Administracion de Sistemas,ausente,Alumno20
+2024-11-22 23:00:00,Administracion de Sistemas,ausente,Alumno20
+2024-11-22 23:00:00,Administracion de Sistemas,ausente,Alumno18
+2024-11-22 23:00:00,Administracion de Sistemas,ausente,Alumno26
+2024-11-22 23:00:00,Administracion de Sistemas,presente,Alumno13
+2024-11-22 23:00:00,Administracion de Sistemas,tarde,Alumno14
+2024-11-22 23:00:00,Big Data,ausente,Alumno27
+2024-11-22 23:00:00,Big Data,ausente,Alumno11
+2024-11-22 23:00:00,Big Data,ausente,Alumno29
+2024-11-22 23:00:00,Big Data,ausente,Alumno16
+2024-11-22 23:00:00,Big Data,ausente,Alumno19
+2024-11-22 23:00:00,Big Data,presente,Alumno22
+2024-11-22 23:00:00,Big Data,presente,Alumno4
+2024-11-22 23:00:00,Big Data,presente,Alumno23
+2024-11-22 23:00:00,Big Data,tarde,Alumno9
+2024-11-22 23:00:00,Big Data,tarde,Alumno19
+2024-11-22 23:00:00,Big Data,tarde,Alumno13
+2024-11-22 23:00:00,Big Data,tarde,Alumno5
+2024-11-22 23:00:00,Empresa y Legislacion,ausente,Alumno20
+2024-11-22 23:00:00,Empresa y Legislacion,ausente,Alumno23
+2024-11-22 23:00:00,Empresa y Legislacion,presente,Alumno30
+2024-11-22 23:00:00,Empresa y Legislacion,presente,Alumno3
+2024-11-22 23:00:00,Empresa y Legislacion,tarde,Alumno20
+2024-11-22 23:00:00,Empresa y Legislacion,tarde,Alumno12
+2024-11-22 23:00:00,Empresa y Legislacion,tarde,Alumno18
+2024-11-22 23:00:00,Ingenieria del Software,ausente,Alumno9
+2024-11-22 23:00:00,Ingenieria del Software,ausente,Alumno4
+2024-11-22 23:00:00,Ingenieria del Software,ausente,Alumno7
+2024-11-22 23:00:00,Ingenieria del Software,ausente,Alumno10
+2024-11-22 23:00:00,Ingenieria del Software,presente,Alumno22
+2024-11-22 23:00:00,Ingenieria del Software,tarde,Alumno18
+2024-11-22 23:00:00,Ingenieria del Software,tarde,Alumno21
+2024-11-22 23:00:00,Ingenieria del Software,tarde,Alumno15
