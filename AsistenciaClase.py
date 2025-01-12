@@ -188,3 +188,11 @@ def generar_forecast_por_asignatura(data):
                 print(f"Error al ajustar ARIMA para {estado}: {str(e)}")
 
     return forecast_resultados
+
+# Configuración y rutas
+spark = SparkSession.builder.appName("AsistenciaClaseForecast").getOrCreate()
+# Rutas para archivos entrada y salida
+csv_input = "asistencia_clase_modificada.csv"
+csv_nulos = "nulos.csv"
+csv_filtrado = "filtrado.csv"
+json_output = "asistencia_forecast.json"
