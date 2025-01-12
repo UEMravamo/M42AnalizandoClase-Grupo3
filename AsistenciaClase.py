@@ -4,6 +4,7 @@ from pyspark.sql import SparkSession
 from pyspark.sql.functions import (
     col, date_format, max, count, collect_list, mean, stddev
 )
+import pandas as pd
 from statsmodels.tsa.arima.model import ARIMA
 from pmdarima import auto_arima  
 from pyspark.sql.types import StructType, StructField, StringType, TimestampType
