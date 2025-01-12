@@ -24,11 +24,12 @@ def mostrar_asistencia(csv_asistencia, csv_nulos, csv_filtrado):
     df_filtrado = df_filtrado.orderBy("timestamp", "asignatura", "estado_asistencia") # Ordenacion de los valores por timestamp, asignatura, estado_asistencia
     df_filtrado.write.csv(csv_filtrado, header=True, mode="overwrite") # Guardar el dataframe filtrado en un CSV aparte
     
-    df_filtrado.show() # Mostrar la estructura del DataFrame
-    return df_filtrado # Retornar el DataFrame
+    # Mostrar el DataFrame filtrado
+    print("Datos filtrados y ordenados:")
+    df_filtrado.show()
+    return df_filtrado
 
-# Función para calcular métricas diarias, media y desviación por estados y asignaturas
-# y posterior guardado en JSON junto con el forecast
+# Función para calcular métricas diarias, media y desviación por estados y asignaturas y posterior guardado en JSON junto con el forecast
 def calcular_metricas_y_forecast_json(df, json_output):
     # Obtener asignaturas una única vez
     asignaturas_df = df.select("asignatura").distinct()
@@ -197,5 +198,5 @@ csv_nulos = "nulos.csv"
 csv_filtrado = "filtrado.csv"
 json_output = "asistencia_forecast.json"
 
-registro_asistencia = procesar_datos(spark, csv_input, csv_nulos, csv_filtrado)
+registro_asistencia = mostrar_asistencia(spark, csv_input, csv_nulos, csv_filtrado)
 calcular_metricas_y_forecast_json(registro_asistencia, json_output)
